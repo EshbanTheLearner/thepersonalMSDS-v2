@@ -4,6 +4,23 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 28 | February 10, 2020 | Monday
+
+**Today's Progress:** Today I started the first course of the Tensorflow: Data and Deployment Specialization.
+
+**Description:** This includes the following:
+- **Week 1**
+  - Use TensorFlow.js to build and train simple machine learning models in JavaScript
+  - Use Web Server for Chrome to serve web pages from a local folder over the network using HTTP.
+  - Describe the key characteristics of one-hot encoding
+  - Use TensorFlow.js to load data from a CSV file
+- **Week 2**
+  - Use tf-vis to visulize the output of callbacks
+  - Use a convolutional neural network to build a handwriting classifier
+  - Use a sprite sheet to train a classifier
+
+**Important Links:** 
+- [Coursera | Browser-based Models with Tensorflow.js](https://www.coursera.org/learn/browser-based-models-tensorflow)
 
 ### Day 27 | February 9, 2020 | Sunday
 
