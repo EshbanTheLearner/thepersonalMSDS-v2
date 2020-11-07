@@ -4,6 +4,21 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 31 | February 13, 2020 | Thursday
+
+**Today's Progress:** Today I learned how to find the mean and variance of a discrete random variable, and apply these concepts to solve real-world problems. I also learned to apply the rules of means and variances to find the mean and variance of a linear transformation of a random variable and the sum of two independent random variables.
+
+**Description:** This includes the following:
+- Discrete Random Variables
+  - Mean and Variance
+    - Introduction
+    - Applications
+  - Standard Deviation 
+  - Rules for Mean and Variances
+    - Add, Subtract, Multiplication by Constant
+    - Linear Transformation
+    - Sum of Two Variables
+
 ### Day 30 | February 12, 2020 | Wednesday
 
 **Today's Progress:** Today I continued on the first course of the Tensorflow: Data and Deployment Specialization.
