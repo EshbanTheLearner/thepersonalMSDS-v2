@@ -4,6 +4,19 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 09 | January 22, 2020 | Wednesday
+**Today's Progress:**
+
+**Description:** This includes the following:
+- AWS Builders Online Series
+  - Introductory Guide to AWS Cost Management and Efficiency
+  - Move Fast & Be Secure on AWS Cloud
+  - AWS Purpose-Built Database Strategy: The Right Tool for The Right Job
+  - Host your Static Website on Amazon Simple Storage Service (S3)
+  - Building Serverless Applications that Scale
+- Project Management Professional Certification: Introduction
+
+
 ### Day 08 | January 21, 2020 | Tuesday
 **Today's Progress:** Today I learned about a special case of the relationship between two quantitative variables is the linear relationship. In this case, a straight line simply and adequately summarizes the relationship. When the scatterplot displays a linear relationship, we supplement it with the correlation coefficient (r). The least-squares regression line has the smallest sum of squared vertical deviations of the data points from the line. Extrapolation is the prediction of values of the explanatory variable that falls outside the range of the data.
 
