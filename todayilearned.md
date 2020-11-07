@@ -4,6 +4,19 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 07 | January 20, 2020 | Monday
+**Today's Progress:** Today I learned how to graphically display the relationship between two quantitative variables and describe: a) the overall pattern and b) striking deviations from the pattern.
+
+**Description:** Following topics were covered:
+- Case Q → Q
+  - Two Quantitative Variables
+  - Scatterplots
+    - Introduction
+    - Interpretation
+    - Examples
+    - Labeled
+    - Exercises
+
 ### Day 06 | January 19, 2020 | Sunday
 **Today's Progress:** Today I learned about the C → C relationship between two categorical variables. Building a two-way table and interpreting the information stored in it about the association between two categorical variables by comparing conditional percentages.
 
