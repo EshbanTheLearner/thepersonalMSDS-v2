@@ -4,6 +4,23 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+
+### Day 27 | February 9, 2020 | Sunday
+
+**Today's Progress:** Today I learned to distinguish between discrete and continuous random variables. Also learned to find the probability distribution of discrete random variables, and use it to find the probability of events of interest.
+
+**Description:** This includes the following:
+- Discrete Random Variables
+  - Random Variables
+    - Introduction
+    - Count vs Measure
+- Probability Distribution
+  - Table of Outcomes
+  - Probability Histograms
+  - Applications
+  - Using Conditional Probability
+
+
 ### Day 26 | February 8, 2020 | Saturday
 
 **Today's Progress:** Today I learned to use the General Multiplication Rule to find the probability that two events occur (P(A and B)) and to use probability trees as a tool for finding probabilities.
