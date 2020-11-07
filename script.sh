@@ -1,8 +1,8 @@
 #!/bin/bash
 
-DAY=$1
+SEMESTER=$1
+DAY=$2
 
 git add .
-#git commit -m 'Day $DAY'
-git commit -m 'Test commit'
+git commit -m 'Semester $SEMESTER - Day $DAY'
 git push origin main
