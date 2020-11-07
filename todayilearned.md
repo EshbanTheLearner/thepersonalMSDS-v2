@@ -4,6 +4,23 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 33 | February 15, 2020 | Saturday
+
+**Today's Progress:** Today I learned to explain how a density function is used to find probabilities involving continuous random variables. I also learned to find probabilities associated with the normal distribution.
+
+**Description:** This includes the following:
+- Continuous Random Variables
+  - Probability Distribution
+    - Discrete Random Variable
+- Normal Random Variables
+  - Standard Deviation Rule
+  - Standardizing Values
+  - Standard Normal Table
+    - Introduction
+    - Finding **z** value
+    - Working with Non-standard Normal Values
+    - Finding **X** value
+
 ### Day 32 | February 14, 2020 | Friday
 
 **Today's Progress:** Today I learned to fit the binomial model when appropriate, and use it to perform simple calculations.
