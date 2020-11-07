@@ -4,6 +4,27 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 04 | January 17, 2020 | Friday
+**Today's Progress:** Today I learned that the range covered by the data is the most intuitive measure of spread and is exactly the distance between the smallest data point (min) and the largest one (Max). Another measure of spread is the inter-quartile range (IQR), which is the range covered by the middle 50% of the data. The IQR can be used to detect outliers using the 1.5(IQR) criterion. Outliers are observations that fall below Q1 - 1.5(IQR) or above Q3 + 1.5(IQR). The five-number summary of distribution consists of the median (M), the two quartiles (Q1, Q3) and the extremes (Min, Max). The standard deviation measures the spread by reporting a typical (average) distance between the data points and their average.
+
+**Description:** These includes the following topics:
+- One Quantitative Variable: Measure of Spread
+  - Range
+  - Inter-Quartile Range
+    - Using IQR to detect outliers
+  - Outliers
+    - Identification
+    - Understanding
+    - Handling
+  - Boxplots
+  - Standard Deviation
+    - Idea
+    - Notion
+    - Calculation
+    - Properties
+    - Standard Deviation Rule
+- WrapUp: EDA
+
 ### Day 03 | January 16, 2020 | Thursday
 **Today's Progress:** Learned how to quantify the center and spread of distribution with various numerical measures, some of the properties of those numerical measures; and how to choose the appropriate numerical measures of center and spread to supplement the histogram.
 
