@@ -4,6 +4,19 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 23 | February 5, 2020 | Wednesday
+
+**Today's Progress:** Today I learned how to determine the sample space of a given random experiment. I also learned to find the probability of events in the case in which all outcomes are equally likely.
+
+**Description:** This includes the following:
+- Probability of Events
+- Sample Spaces
+  - Random Experiments
+- Events of Interest
+- Equally Likely Outcomes
+  - Overview
+  - Examples
+
 ### Day 22 | February 4, 2020 | Tuesday
 
 **Today's Progress:** Today I learned how to relate the probability of an event to the likelihood of this event occurring.I also learned how relative frequency can be used to estimate the probability of an event.
