@@ -4,6 +4,16 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 10 | January 23, 2020 | Thursday
+
+**Today's Progress:** Today I learned how to recognize the distinction between association and causation, and identify potential lurking variables for explaining an observed relationship. Association **does not** imply causation!
+
+**Description:** This includes the following:
+- Causation and Lurking Variables
+  - Introduction
+  - Confounds
+  - Simpson's Paradox
+
 ### Day 09 | January 22, 2020 | Wednesday
 **Today's Progress:**
 
