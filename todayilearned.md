@@ -4,6 +4,20 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 13 | January 26, 2020 | Sunday
+
+**Today's Progress:** Today I learned to identify the design of a study (controlled experiment vs. observational study) and other features of the study design (randomized, blind etc.).
+
+**Description:** This includes the following:
+- Producing Data: Designing Studies
+  - Introduction
+  - Types of Studies
+    - Experimental Studies
+    - Obesrvational Studies
+      - Prospective
+      - Retrospective
+
+
 ### Day 12 | January 25, 2020 | Saturday
 
 **Today's Progress:** Today I learned various techniques by which one can choose a sample of individuals from an entire population to collect data from. This is seemingly a simple step in the big picture of statistics, but it turns out that it has a crucial effect on the conclusions we can draw from the sample about the entire population.
