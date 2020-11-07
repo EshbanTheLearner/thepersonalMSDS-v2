@@ -4,6 +4,21 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 26 | February 8, 2020 | Saturday
+
+**Today's Progress:** Today I learned to use the General Multiplication Rule to find the probability that two events occur (P(A and B)) and to use probability trees as a tool for finding probabilities.
+
+**Description:** This includes the following:
+- Multiplication Rule
+  - General Multiplication Rule
+    - Definition
+    - Applications
+- Probability Trees
+  - Definition
+  - Applications
+  - Other Methods
+- Wrap-Up: Conditional Probability and Independance
+
 ### Day 25 | February 7, 2020 | Friday
 
 **Today's Progress:** Today I learned about the reasoning behind conditional probability, and how this reasoning is expressed by the definition of conditional probability. Also learned to find conditional probabilities and interpret them, and determine whether two events are independent or not.
