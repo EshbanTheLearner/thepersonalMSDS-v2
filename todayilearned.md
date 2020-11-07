@@ -4,6 +4,17 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 34 | February 16, 2020 | Sunday
+
+**Today's Progress:** Today I learned to use the normal distribution as an approximation of the binomial distribution, when appropriate.
+
+**Description:** This includes the following:
+- Normal Random Variables
+  - Applications 
+    - Approximation to Binomial
+    - Continuity Correction
+- Wrap-Up: Random Variable
+
 ### Day 33 | February 15, 2020 | Saturday
 
 **Today's Progress:** Today I learned to explain how a density function is used to find probabilities involving continuous random variables. I also learned to find probabilities associated with the normal distribution.
