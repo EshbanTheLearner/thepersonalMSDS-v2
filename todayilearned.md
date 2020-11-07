@@ -4,6 +4,23 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 16 | January 29, 2020 | Wednesday
+
+**Today's Progress:** Having explored time series and some of the common attributes of time series such as trend and seasonality, and then having used statistical methods for projection, today I learned neural networks to recognize and predict on time series. I also learned that Recurrent Neural networks and Long Short Term Memory networks are really useful to classify and predict on sequential data.
+
+**Description:** This includes the following:
+- **Week 2:** Deep Neural Networks for Time Series
+  - Data Preparation
+  - Sequence Bias
+  - Feeding Windowed Data to Neural Network
+  - Prediction
+- **Week 3:** Recurrent Neural Network for Time Series
+  - Lambda Layers
+  - Dynamically adjusting Learning Rate
+  - Huber Loss
+  - RNN
+  - LSTM
+
 ### Day 15 | January 28, 2020 | Tuesday
 
 **Today's Progress:** Today I learned about the nature of time series data, and saw some of the more common attributes of them, including things like seasonality and trend. I also looked at some statistical methods for predicting time series data also.
