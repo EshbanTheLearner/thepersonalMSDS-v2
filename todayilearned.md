@@ -4,6 +4,22 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 35 | February 17, 2020 | Monday
+
+**Today's Progress:** Today I enrolled in **Taming Big Data with Apache Spark and Python - Hands On!** course on udemy.
+
+**Description:** This includes the following:
+- Getting Started with Spark
+  - Introduction to course
+  - Setting up the Environment
+  - Running First Spark Program
+    - Ratings Histogram for MovieLens Movie Rating Dataset
+
+**Important Links:** 
+- [Udemy | Taming Big Data with Apache Spark and Python - Hands On!](https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on/)
+
+
+
 ### Day 34 | February 16, 2020 | Sunday
 
 **Today's Progress:** Today I learned to use the normal distribution as an approximation of the binomial distribution, when appropriate.
