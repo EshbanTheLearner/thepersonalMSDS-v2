@@ -4,6 +4,25 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 24 | February 6, 2020 | Thursday
+
+**Today's Progress:** Today I learned how to apply probability rules in order to find the likelihood of an event. I also learned to use tools such as Venn diagrams or probability tables as aids for finding probabilities, when appropriate.
+
+**Description:** This includes the following:
+- Probability Rules
+  - Range and Sum Rules
+  - Complement Rule
+  - Disjoint Events
+  - Addition Rule for Disjoint Events
+  - P(A and B) for Independent Events
+  - Multiplication Rule for Independent Events
+  - Extensions
+  - At Least One of...
+  - General Addition Rule
+  - Probability Tables
+    - Solving Problems
+- Wrap-Up: Finding Probability of Events
+
 ### Day 23 | February 5, 2020 | Wednesday
 
 **Today's Progress:** Today I learned how to determine the sample space of a given random experiment. I also learned to find the probability of events in the case in which all outcomes are equally likely.
