@@ -4,6 +4,30 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 15 | January 28, 2020 | Tuesday
+
+**Today's Progress:** Today I learned about the nature of time series data, and saw some of the more common attributes of them, including things like seasonality and trend. I also looked at some statistical methods for predicting time series data also.
+
+**Description:** This includes the following:
+- **Week 1:** Sequences and Prediction
+  - Introduction
+  - Common Patterns
+    - Trend
+    - Seasonality
+    - White Noise
+    - Autocorrelation
+    - Impulses
+  - Metrics for Evaluation
+    - MSE
+    - RMSE
+    - MAE
+  - Moving Average and Differencing
+  - Trailing vs Centered Windows
+  - Forecasting
+
+**Important Links:** 
+- [Coursera | Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction/)
+
 ### Day 14 | January 27, 2020 | Monday
 
 **Today's Progress:** Today I learned to use TensorFlow for various Natural Language Processing problems.
