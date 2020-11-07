@@ -4,6 +4,20 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 21 | February 3, 2020 | Monday
+
+**Today's Progress:** Today I learned how to relate the probability of an event to the likelihood of this event occurring.
+
+**Description:** This includes the following:
+- Probability
+  - Introduction
+    - The Bigger Picture
+    - Intuition
+    - Formal Definition
+- Determining Probability
+  - Theoritical/Classical
+  - Empirical/Observational
+
 ### Day 20 | February 2, 2020 | Sunday
 
 **Today's Progress:** Today I learned how to identify the design of a study (controlled experiment vs. observational study) and other features of the study design (randomized, blind etc.).
