@@ -4,6 +4,16 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 29 | February 11, 2020 | Tuesday
+
+**Today's Progress:** Today I continued on the first course of the Tensorflow: Data and Deployment Specialization.
+
+**Description:** This includes the following:
+- **Week 3**
+  - Use a toxicity model to determine if a phrase is toxic in a number of categories
+  - Use Mobilenet to detect objects in images
+  - Use the tensorflow.js converter to convert a Keras model to JSON format
+
 ### Day 28 | February 10, 2020 | Monday
 
 **Today's Progress:** Today I started the first course of the Tensorflow: Data and Deployment Specialization.
