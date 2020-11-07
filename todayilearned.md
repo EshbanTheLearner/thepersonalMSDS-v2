@@ -4,6 +4,15 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 11 | January 24, 2020 | Friday
+
+**Today's Progress:** Today I summarized how to explore the relationship between the explanatory and response variables using visual displays and numerical measures, and how to choose what kind of measure to use based on the role-type classification of the two variables. I also emphasized how important it is to interpret any observed association in the context of the problem, but NOT to be tempted to interpret association as causation, due to the possible presence of lurking variables.
+
+
+**Description:** This includes the following:
+- Wrap-Up: Examining Relationships
+- Summary: EDA
+
 ### Day 10 | January 23, 2020 | Thursday
 
 **Today's Progress:** Today I learned how to recognize the distinction between association and causation, and identify potential lurking variables for explaining an observed relationship. Association **does not** imply causation!
