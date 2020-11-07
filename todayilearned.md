@@ -4,6 +4,23 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 12 | January 25, 2020 | Saturday
+
+**Today's Progress:** Today I learned various techniques by which one can choose a sample of individuals from an entire population to collect data from. This is seemingly a simple step in the big picture of statistics, but it turns out that it has a crucial effect on the conclusions we can draw from the sample about the entire population.
+
+**Description:** This includes the following:
+- Producing Data: Sampling
+- Types of Samples
+  - Volunteer Sample
+  - Convenience Sample
+  - Sampling Frame
+  - Systematic Sampling
+- Probability Sampling Plans
+  - Simple Random Sampling
+  - Cluster Sampling
+  - Stratified Sampling 
+- Wrap-Up: Sampling
+
 ### Day 11 | January 24, 2020 | Friday
 
 **Today's Progress:** Today I summarized how to explore the relationship between the explanatory and response variables using visual displays and numerical measures, and how to choose what kind of measure to use based on the role-type classification of the two variables. I also emphasized how important it is to interpret any observed association in the context of the problem, but NOT to be tempted to interpret association as causation, due to the possible presence of lurking variables.
