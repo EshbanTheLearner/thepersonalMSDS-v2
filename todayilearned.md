@@ -4,6 +4,33 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 14 | January 27, 2020 | Monday
+
+**Today's Progress:** Today I learned to use TensorFlow for various Natural Language Processing problems.
+
+**Description:** This includes the following:
+- Sentiment in Text
+  - Text to Sequence
+  - Tokenizer
+  - Padding
+- Word Embeddings
+  - Introduction
+  - Vectors
+  - Loss Function
+  - Pre-Tokenized Datasets
+- Sequence Models
+  - LSTMs
+  - Accuracy and Loss
+  - Convolutional Networks
+- Sequence Models and Literature
+  - Subword Tokenization
+  - Text Generation
+  - Shakespearean Poetry Generation
+
+**Important Links:** 
+- [Coursera | Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
+- [Certificate | Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/verify/6GAZVJ6J2HQE)
+
 ### Day 13 | January 26, 2020 | Sunday
 
 **Today's Progress:** Today I learned to identify the design of a study (controlled experiment vs. observational study) and other features of the study design (randomized, blind etc.).
