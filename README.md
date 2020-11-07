@@ -6,7 +6,7 @@
 ### Links that you should keep visiting
 | Important Links | Link |
 | -- | -- | 
-| Keep an eye on my progress using this TIL file | [**Todayilearned**](https://github.com/EshbanTheLearner/thepersonalmsds/blob/master/todayilearned.md)
+| Keep an eye on my progress using this TIL file | [**Todayilearned**](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/blob/main/todayilearned.md)
 | My last-year ML challenge can be found here | [**#100DaysOfMLCode**](https://github.com/EshbanTheLearner/100DaysofMLCode) |
 
 <br>
