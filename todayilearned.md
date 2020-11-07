@@ -4,6 +4,17 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 22 | February 4, 2020 | Tuesday
+
+**Today's Progress:** Today I learned how to relate the probability of an event to the likelihood of this event occurring.I also learned how relative frequency can be used to estimate the probability of an event.
+
+**Description:** This includes the following:
+- Empirical Methods for Determinig Probability
+- Verifying Classical Probability
+- Relative Frequency
+  - Definition
+  - Law of Large Numbers
+
 ### Day 21 | February 3, 2020 | Monday
 
 **Today's Progress:** Today I learned how to relate the probability of an event to the likelihood of this event occurring.
