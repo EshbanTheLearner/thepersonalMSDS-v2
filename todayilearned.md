@@ -4,6 +4,16 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 20 | February 2, 2020 | Sunday
+
+**Today's Progress:** Today I learned how to identify the design of a study (controlled experiment vs. observational study) and other features of the study design (randomized, blind etc.).
+
+**Description:** This includes the following:
+- Experiments: More than One Explanatory Variable
+  - Modification to Randomization
+- Wrap-Up: Designing Studies
+- Summary: Producing Data
+
 ### Day 19 | February 1, 2020 | Saturday
 
 **Today's Progress:** Today I learned how to identify the design of a study (controlled experiment vs. observational study) and other features of the study design (randomized, blind etc.).
