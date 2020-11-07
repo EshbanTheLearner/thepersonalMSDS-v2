@@ -4,6 +4,21 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+
+### Day 02 | January 15, 2020 | Wednesday
+
+**Today's Progress:** Learned about uni-quantitative variables and how to represent it using Histogram and Stemplot. I also learned about how to interpret these graphs for further insights.
+
+**Description:** This includes the following:
+- One Quantitative Variable: Graphs
+  - Introduction
+  - Histogram
+    - Intervals
+    - Shape
+    - Center, Spread, and Outliers
+  - Stemplot
+
+
 ### Day 01 | January 14, 2020 | Tuesday
 
 **Today's Progress:** Got a formal intro to statistics, learned about Exploratory Data Analysis and One Categorical Variable
