@@ -4,6 +4,16 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 32 | February 14, 2020 | Friday
+
+**Today's Progress:** Today I learned to fit the binomial model when appropriate, and use it to perform simple calculations.
+
+**Description:** This includes the following:
+- Binomial Random Variables
+  - Binomial Experiment
+  - Probability Distribution
+  - Mean and Standard Deviation
+
 ### Day 31 | February 13, 2020 | Thursday
 
 **Today's Progress:** Today I learned how to find the mean and variance of a discrete random variable, and apply these concepts to solve real-world problems. I also learned to apply the rules of means and variances to find the mean and variance of a linear transformation of a random variable and the sum of two independent random variables.
