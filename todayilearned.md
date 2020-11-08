@@ -4,6 +4,18 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 58 | March 11, 2020 | Wednesday
+
+**Today's Progress:** Today I continued the **Time Series Analysis in Python 2020** course on udemy.
+
+**Description:** This includes the following:
+- Picking the Correct Model
+  - Significant Coefficients
+  - Parsimonious
+    - Log-Liklihood Ratio Test
+    - AIC & BIC
+  - Residuals
+
 ### Day 57 | March 10, 2020 | Tuesday
 
 **Today's Progress:** Today I continued the **Time Series Analysis in Python 2020** course on udemy.
