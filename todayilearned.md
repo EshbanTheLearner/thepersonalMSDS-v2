@@ -4,6 +4,29 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 49 | March 2, 2020 | Monday
+
+**Today's Progress:** Today I continued with **Python for Finance: Investment Fundamentals & Data Analytics** course on udemy.
+
+**Description:** This includes the following:
+- **Part 13: Using Regression for Financial Analysis**
+  - Fundamental of Simple Regression
+    1. Univariate Regression
+    2. Multivariate Regression
+  - Good vs Bad Regression
+    - R-squared
+  - Implementation in Python
+    - Running Regression model for House Price Data
+    - Calculating:
+      1. Slope (beta)
+      2. Intercept (alpha)
+      3. R Value
+      4. R-squared Value
+      5. P Value
+      6. Standard Error
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
 ### Day 48 | March 1, 2020 | Sunday
 
 **Today's Progress:** Today I continued with **Python for Finance: Investment Fundamentals & Data Analytics** course on udemy.
