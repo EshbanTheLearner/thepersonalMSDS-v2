@@ -4,6 +4,17 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 40 | February 22, 2020 | Saturday
+
+**Today's Progress:** Today I continued the **Taming Big Data with Apache Spark and Python - Hands On!** course on Udemy.
+
+**Description:** This includes the following:
+- Other Spark Technologies
+- Intro to MLLib
+- Using DataFrames with MLLib
+- Spark Streaming
+- GraphX
+
 ### Day 39 | February 21, 2020 | Friday
 
 **Today's Progress:** Today I continued the **Taming Big Data with Apache Spark and Python - Hands On!** course on Udemy.
