@@ -4,6 +4,25 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 65 | March 18, 2020 | Wednesday
+
+**Today's Progress:** Today I continued the **Time Series Analysis in Python 2020** course on udemy.
+
+**Description:** This includes the following:
+- Forecasting
+  - Forecast vs Prediction
+  - Forecasting Time Series:
+    - ARMA
+    - ARIMA
+    - ARIMAX
+    - SARIMA
+    - SARIMAX
+    - GARCH
+  - Pitfalls of Forecasting
+  - Multivariate Forecasting 
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
 ### Day 64 | March 17, 2020 | Tuesday
 
 **Today's Progress:** Today I continued the **Time Series Analysis in Python 2020** course on udemy.
