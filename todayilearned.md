@@ -4,6 +4,28 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 72 | March 25, 2020 | Wednesday
+
+**Today's Progress:** Today I continued with the **Google Cloud Platform Big Data and Machine Learning Fundamentals** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
+
+**Description:** This includes the following:
+- **Week 2: Module 2**
+  - ML Driving Business Value
+  - ML on Unstructred Data
+  - Choosing the Right ML Approach
+    - Pre-Built AI Building Blocks
+    - Using Pre-Built AI to Create a Chatbot
+    - Customizing Pre-Built Models with AutoML
+    - Building a Custom Model
+  - **Lab 5 (AutoML)**
+    - Setup API key for ML Vision API
+    - Invoke the pretrained ML Vision API to classify images
+    - Review label predictions from Vision API
+    - Train and evaluate custom AutoML Vision image classification model
+    - Predict with AutoML on new image
+
+[Certificate | Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/account/accomplishments/verify/VXNTJABLUQEH)
+
 ### Day 71 | March 24, 2020 | Tuesday
 
 **Today's Progress:** Today I continued with the **Google Cloud Platform Big Data and Machine Learning Fundamentals** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
