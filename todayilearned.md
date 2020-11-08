@@ -4,6 +4,21 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 52 | March 5, 2020 | Thursday
+
+**Today's Progress:** Today I continued with **Python for Finance: Investment Fundamentals & Data Analytics** course on udemy.
+
+**Description:** This includes the following:
+- **Part 16: Multivariate Regression Analysis**
+  - Fundamentals of Multivariate Regression
+    - Higher Dimensions
+    - R-Squared
+    - P-Value
+    - Beta Coefficients
+  - Implementation in Python
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
 ### Day 51 | March 4, 2020 | Wednesday
 
 **Today's Progress:** Today I continued with **Python for Finance: Investment Fundamentals & Data Analytics** course on udemy.
