@@ -4,6 +4,32 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 54 | March 7, 2020 | Saturday
+
+**Today's Progress:** Today I ended and reviewed with **Python for Finance: Investment Fundamentals & Data Analytics** course on udemy.
+
+**Description:** This includes the following:
+- Rate of return of stocks 
+- Risk of stocks 
+- Rate of return of stock portfolios 
+- Risk of stock portfolios 
+- Correlation between stocks 
+- Covariance 
+- Diversifiable and non-diversifiable risk 
+- Regression analysis
+- Alpha and Beta coefficients
+- Measuring a regression’s explanatory power with R^2
+- Markowitz Efficient frontier calculation
+- Capital asset pricing model
+- Sharpe ratio
+- Multivariate regression analysis
+- Monte Carlo simulations
+- Using Monte Carlo in a Corporate Finance context
+- Derivatives and type of derivatives
+- Applying the Black Scholes formula
+- Using Monte Carlo for options pricing
+- Using Monte Carlo for stock pricing
+
 ### Day 53 | March 6, 2020 | Friday
 
 **Today's Progress:** Today I continued with **Python for Finance: Investment Fundamentals & Data Analytics** course on udemy.
