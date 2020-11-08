@@ -4,6 +4,22 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 60 | March 13, 2020 | Friday
+
+**Today's Progress:** Today I continued the **Time Series Analysis in Python 2020** course on udemy.
+
+**Description:** This includes the following:
+- Adjusting to Shocks The MA Model
+  - Moving Average (MA) Model
+  - Fitting the MA Model
+  - Fitting Higher-Lag MA Model
+  - Examining the MA Model Residuals
+  - Model Selection for Normalized Returns
+  - Past Values and Past Errors
+  - Implementation in Python
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
 ### Day 59 | March 12, 2020 | Thursday
 
 **Today's Progress:** Today I continued the **Time Series Analysis in Python 2020** course on udemy.
