@@ -4,6 +4,48 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 53 | March 6, 2020 | Friday
+
+**Today's Progress:** Today I continued with **Python for Finance: Investment Fundamentals & Data Analytics** course on udemy.
+
+**Description:** This includes the following:
+- **Part 17: Monte Carlo Simulations as a decision-making Tool**
+  - Monte Carlo Simulations
+  - Monte Carlo in Corporate Finance Setting
+    - Revenues
+    - Cost of Goods Sold
+    - Gross Profit
+    - Cogs & Opex
+  - Asset Pricing with Monte Carlo
+    - Brownian Motion
+      1. Drift
+      2. Volatility
+  - Derivative Contracts
+    - Assets
+      1. Stocks
+      2. Bonds
+      3. Interest Rates
+      4. Commodities
+      5. Exchange Rates
+    - Groups of Derivatives
+      1. Hedging
+      2. Speculating
+      3. Aribtrageurs
+    - Types of Derivatives
+      1. Forwards
+      2. Futures
+      3. Swaps
+      4. Options
+        - Call Options vs Put Options
+  - The Black Scholes Formula
+    - Efficient Markets
+    - Transaction Costs
+    - No Divided Payments
+    - Known Volatility & Risk-Free
+  - Implementation in Python
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
 ### Day 52 | March 5, 2020 | Thursday
 
 **Today's Progress:** Today I continued with **Python for Finance: Investment Fundamentals & Data Analytics** course on udemy.
