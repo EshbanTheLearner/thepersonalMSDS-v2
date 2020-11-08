@@ -4,6 +4,24 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 37 | February 19, 2020 | Wednesday
+
+**Today's Progress:** Today I continued the **Taming Big Data with Apache Spark and Python - Hands On!** course on Udemy.
+
+**Description:** This includes the following:
+- Advance Examples of Spark Programs
+  - Activities
+    - Finding Most Popular Movie
+    - Using Broadcast Variables
+- Using Graphs
+  - Superhero Degree of Seperation
+    - Intro to Breadth-First Search
+    - Accumlators, and Implementing BFS in Spark
+- Item-Based Collaborative Fillering in Spark
+  - cache() and persist()
+  - Activity
+    - Similar Movie Script using Spark's Cluster Manager
+
 ### Day 36 | February 18, 2020 | Tuesday
 
 **Today's Progress:** Today I continued the **Taming Big Data with Apache Spark and Python - Hands On!** course on Udemy.
