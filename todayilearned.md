@@ -4,6 +4,22 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 36 | February 18, 2020 | Tuesday
+
+**Today's Progress:** Today I continued the **Taming Big Data with Apache Spark and Python - Hands On!** course on Udemy.
+
+**Description:** This includes the following:
+- Spark Basics and Simple Examples
+  - Intro to Spark 
+  - Resilient Distributed Dataset (RDD)
+  - Key/Value RDDs
+    - Example: Average Friends by Age
+  - Filtering RDDs
+    - Example: Minimum Temperature by Location
+    - Example: Maximum Temperature by Location
+  - Map vs FaltMap
+    - Example: Word Count
+
 ### Day 35 | February 17, 2020 | Monday
 
 **Today's Progress:** Today I enrolled in **Taming Big Data with Apache Spark and Python - Hands On!** course on udemy.
