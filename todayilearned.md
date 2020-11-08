@@ -4,6 +4,24 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 74 | March 27, 2020 | Friday
+
+**Today's Progress:** Today I continued with the **Modernizing Data Lakes and Data Warehouses with GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
+
+**Description:** This includes the following:
+- **Week 1: Module 2**
+  - Building a Data Lake
+    - Intro to Data Lakes
+    - Data Storage and ETL options on GCP
+    - Optimizing Cost with Google Cloud Storage classes and Cloud Functions
+    - Securing Cloud Storage
+    - Storing All Sorts of Data Types
+    - Running Federated Queries on Parquet and ORC files in BigQuery
+    - Storing Relational Data in the Cloud
+    - Cloud SQL as a Relational Data Lake
+  - **Lab 1 (Cloud SQL):**
+    - Loading Data into Cloud SQL
+
 ### Day 73 | March 26, 2020 | Thursday
 
 **Today's Progress:** Today I enrolled in the **Modernizing Data Lakes and Data Warehouses with GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
