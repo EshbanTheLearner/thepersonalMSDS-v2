@@ -4,6 +4,31 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 70 | March 23, 2020 | Monday
+
+**Today's Progress:** Today I continued with the **Google Cloud Platform Big Data and Machine Learning Fundamentals** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
+
+**Description:** This includes the following:
+- **Week 1: Module 3**
+  - Introduction to BigQuery
+    - Fast SQL Query Engine
+    - Managed Storage for Datasets
+  - Insights from Geographic Data
+  - Machine Learning on Structured Data
+    - Choosing the right model type
+    - Scenario: Predicting Customer Lifetime Value
+  - Creating ML Models with SQL
+    - Introduction to BigQuery ML
+    - ML Projects Phases
+    - Key Features Walkthrough
+  - **Lab 3 (BigQuery ML)**
+    - Use BigQuery to find public datasets
+    - Query and explore the ecommerce dataset
+    - Create a training and evaluation dataset to be used for batch prediction
+    - Create a classification (logistic regression) model in BQML
+    - Evaluate the performance of your machine learning model
+    - Predict and rank the probability that a visitor will make a purchase
+
 ### Day 69 | March 22, 2020 | Sunday
 
 **Today's Progress:** Today I continued with the **Google Cloud Platform Big Data and Machine Learning Fundamentals** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
