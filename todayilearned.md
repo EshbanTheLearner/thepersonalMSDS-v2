@@ -4,6 +4,36 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 47 | February 29, 2020 | Saturday
+
+**Today's Progress:** Today I enrolled in **Python for Finance: Investment Fundamentals & Data Analytics** course on udemy.
+
+**Description:** This includes the following:
+- **Part 1-10: Python Refresher**
+  - *Skipped*
+- **Part 11: Calculating and Comparing Rates of Return**
+  - Rate of Return of Stocks
+    - Simple Returns
+    - Log Returns
+  - Rate of Return of Stock Portfolios
+    - Market Indices
+      1. S&P500
+      2. Dow Jones Industrial Average
+      3. NASDAQ
+- **Part 12: Measuring Investment Risk**
+  - Risk of Stocks
+    - Variability
+      1. Variance
+      2. Standard Deviation
+  - Risk of Stock Portfolios
+    - Portfolio Diversification
+    - Covariance
+    - Correlation
+    - Un-diversifiable (Systematic) Risk vs Diversifiable (Idiosyncratic) Risk
+
+**Important Links:** 
+[Udemy | Python for Finance: Investment Fundamentals & Data Analytics](https://www.udemy.com/course/python-for-finance-investment-fundamentals-data-analytics/)
+
 ### Day 46 | February 28, 2020 | Friday
 
 **Today's Progress:** Today I ended and reviewed the **Artificial Intelligence for Business** course on Udemy.
