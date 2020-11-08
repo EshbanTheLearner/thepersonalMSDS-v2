@@ -4,6 +4,20 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 75 | March 28, 2020 | Saturday
+
+**Today's Progress:** Today I continued with the **Modernizing Data Lakes and Data Warehouses with GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
+
+**Description:** This includes the following:
+- **Week 2: Module 1**
+  - Building a Data Warehouse
+    - The Modern Data Warehouse
+    - Intro to BigQuery
+    - Querying TBs of Data in Seconds
+    - Loading Data
+  - **Lab 3 (BigQuery):**
+    - Loading Data into BigQuery
+    
 ### Day 74 | March 27, 2020 | Friday
 
 **Today's Progress:** Today I continued with the **Modernizing Data Lakes and Data Warehouses with GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
