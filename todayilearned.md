@@ -4,6 +4,27 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 67 | March 20, 2020 | Friday
+
+**Today's Progress:** Today I ended and reviewd the **Time Series Analysis in Python 2020** course on udemy.
+
+**Description:** I learned following things:
+- Differentiate between time series data and cross-sectional data.
+- Understand the fundamental assumptions of time series data and how to take advantage of them.
+- Transforming a data set into a time-series.
+- Start coding in Python and learn how to use it for statistical analysis.
+- Carry out time-series analysis in Python and interpreting the results, based on the data in question.
+- Examine the crucial differences between related series like prices and returns.
+- Comprehend the need to normalize data when comparing different time series.
+- Encounter special types of time series like White Noise and Random Walks.
+- Learn about "autocorrelation" and how to account for it.
+- Learn about accounting for "unexpected shocks" via moving averages.
+- Discuss model selection in time series and the role residuals play in it.
+- Comprehend stationarity and how to test for its existence.
+- Acknowledge the notion of integration and understand when, why and how to properly use it.
+- Realize the importance of volatility and how we can measure it.
+- Forecast the future based on patterns observed in the past.
+
 ### Day 66 | March 19, 2020 | Thursday
 
 **Today's Progress:** Today I continued the **Time Series Analysis in Python 2020** course on udemy.
