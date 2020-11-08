@@ -4,6 +4,16 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 38 | February 20, 2020 | Thursday
+
+**Today's Progress:** Today I continued the **Taming Big Data with Apache Spark and Python - Hands On!** course on Udemy.
+
+**Description:** This includes the following:
+- Elastic MapReduce
+- Partitioning
+- Troubleshooting Spark on a Cluster
+- Managing Dependencies
+
 ### Day 37 | February 19, 2020 | Wednesday
 
 **Today's Progress:** Today I continued the **Taming Big Data with Apache Spark and Python - Hands On!** course on Udemy.
