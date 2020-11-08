@@ -4,6 +4,48 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 68 | March 21, 2020 | Saturday
+
+**Today's Progress:** Today I enrolled in the **Google Cloud Platform Big Data and Machine Learning Fundamentals** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
+
+**Description:** This includes the following:
+- **Week 1: Module 1**
+  - Google Cloud Architecture
+    - Security
+      - Google IAM
+    - Compute Power
+      - On Demand VMs
+    - Storage
+      - Multiregional
+      - Regional
+      - Nearline
+      - Coldline
+    - Networking
+      - Edge Computing/Node/PoP
+    - Big Data/ ML Products
+      - GFS
+      - MapReduce
+      - BigTable
+      - Dremel
+      - Pub/Sub
+      - Tensorflow etc
+  - **Lab 1 (BigQuery)**
+    - Query a public dataset
+    - Create a custom table
+    - Load data into a table
+    - Query a table
+  - GCP Approaches
+    - Compute Engine
+    - Google Kubernetes Engine (GKE)
+    - App Engine
+    - Cloud Functions
+  - Business Use Cases w/ GCP
+
+**Important Links:**
+[Coursera | Data Engineering with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering) 
+
+[Coursera | Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=gcp-data-engineering)
+
 ### Day 67 | March 20, 2020 | Friday
 
 **Today's Progress:** Today I ended and reviewd the **Time Series Analysis in Python 2020** course on udemy.
