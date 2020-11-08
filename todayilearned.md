@@ -4,6 +4,32 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 73 | March 26, 2020 | Thursday
+
+**Today's Progress:** Today I enrolled in the **Modernizing Data Lakes and Data Warehouses with GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
+
+**Description:** This includes the following:
+- **Week 1: Module 1**
+  - Role of Data Engineer
+  - Data Engineering Challenges
+  - Intro to BigQuery
+  - Data Lakes and Data Warehouses
+  - Transactional Databases vs Data Warehouses
+  - Effective Partnership with Other Data Teams
+    - Manage Data Access and Governance
+    - Build Production-Ready Pipelines
+  - GCP Customer Case Study
+    - Ocado
+  - **Lab 1 (Analysis with BigQuery):**
+    - Analyze 2 different public datasets 
+    - Run queries on them, to derive interesting insights
+      - Separately 
+      - Combined
+
+[Coursera | Data Engineering with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering) 
+
+[Coursera | Modernizing Data Lakes and Data Warehouses with GCP](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp)
+
 ### Day 72 | March 25, 2020 | Wednesday
 
 **Today's Progress:** Today I continued with the **Google Cloud Platform Big Data and Machine Learning Fundamentals** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
