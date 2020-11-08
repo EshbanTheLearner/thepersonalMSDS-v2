@@ -4,6 +4,30 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 55 | March 8, 2020 | Sunday
+
+**Today's Progress:** Today I enrolled in **Time Series Analysis in Python 2020** course on udemy.
+
+**Description:** This includes the following:
+- Introduction
+- Setting Up the Environment
+- Introduction to Time Series in Python
+    - Time Periods
+    - Frequency
+    - Pattern Persistance
+    - Notations in Time-Series
+    - Peculiarities of Time Series
+    - Implementation in Python
+      - Loading Data
+      - Exploring Data
+      - Visulaizing Data
+      - QQ Plot
+
+**Important Links:** 
+[Udemy | Time Series Analysis in Python 2020](https://www.udemy.com/course/time-series-analysis-in-python/)
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
 ### Day 54 | March 7, 2020 | Saturday
 
 **Today's Progress:** Today I ended and reviewed with **Python for Finance: Investment Fundamentals & Data Analytics** course on udemy.
