@@ -4,6 +4,24 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 48 | March 1, 2020 | Sunday
+
+**Today's Progress:** Today I continued with **Python for Finance: Investment Fundamentals & Data Analytics** course on udemy.
+
+**Description:** This includes the following:
+- Implementation in Python
+  - Calculating Simple Rate of Return
+  - Calculating Log Rate of Return
+  - Calculating Rate of Return of Indices
+  - Calculating Risk of a Security
+    - Variance
+    - Correlation
+    - Volatility
+  - Calculating Risk of an Investment Portfolio
+    - Calculating Diversifiable and Non-Diversifiable Risk
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
 ### Day 47 | February 29, 2020 | Saturday
 
 **Today's Progress:** Today I enrolled in **Python for Finance: Investment Fundamentals & Data Analytics** course on udemy.
