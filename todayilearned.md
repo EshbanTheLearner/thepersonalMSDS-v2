@@ -4,6 +4,35 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 69 | March 22, 2020 | Sunday
+
+**Today's Progress:** Today I continued with the **Google Cloud Platform Big Data and Machine Learning Fundamentals** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
+
+**Description:** This includes the following:
+- **Week 1: Module 2**
+  - Recommendation Systems
+    - Data
+    - Model
+    - Training/Serving Infrastructure
+  - Google Storage Systems
+    - Cloud Storage
+    - Cloud SQL
+    - Cloud Spanner
+    - DataStore
+    - BigTable
+    - BigQuery
+  - Hadoop Ecosystem
+    - Hadoop
+    - Hive
+    - Pig
+    - Spark
+  - **Lab 2 (Recommendation System)**
+    - Create Cloud SQL instance
+    - Create database tables by importing .sql files from Cloud Storage
+    - Populate the tables by importing .csv files from Cloud Storage
+    - Allow access to Cloud SQL
+    - Explore the rentals data using SQL statements from CloudShell
+
 ### Day 68 | March 21, 2020 | Saturday
 
 **Today's Progress:** Today I enrolled in the **Google Cloud Platform Big Data and Machine Learning Fundamentals** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
