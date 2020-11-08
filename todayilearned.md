@@ -4,6 +4,21 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 64 | March 17, 2020 | Tuesday
+
+**Today's Progress:** Today I continued the **Time Series Analysis in Python 2020** course on udemy.
+
+**Description:** This includes the following:
+- The Auto ARIMA Model
+  - The Auto AutoRegressive Integrated Moving Average (ARIMA) Model
+    - Manual vs Automatic Empirical Analysis
+    - Pros & Cons
+  - Fitting Default Best Fit Auto ARIMA Model
+  - Auto ARIMA with Custom Arguments
+  - Implementation in Python
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
 ### Day 63 | March 16, 2020 | Monday
 
 **Today's Progress:** Today I continued the **Time Series Analysis in Python 2020** course on udemy.
