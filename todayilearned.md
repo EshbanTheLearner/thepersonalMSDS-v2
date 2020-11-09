@@ -4,6 +4,29 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 76 | March 29, 2020 | Sunday
+
+**Today's Progress:** Today I completed the **Modernizing Data Lakes and Data Warehouses with GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
+
+**Description:** This includes the following:
+- **Week 2: Module 2**
+  - BigQuery as a Data Warehousing Solution
+    - Exploring Schemas
+    - Schema Design
+    - Nested and Repeated Fields
+  - **Lab 4 (BigQuery: JSON and Array Data):**
+    - Loading semi-structured JSON into BigQuery
+    - Creating and querying arrays
+    - Creating and querying structs
+    - Querying nested and repeated field
+  - Partitioning and Clustering in BigQuery
+    - Optimizing with Partitioning and Clustering
+    - Creating Partitioned Tables
+    - Partitioning and Clustering
+    - Transforming Batch and Streaming Data
+
+[Certificate | Modernizing Data Lakes and Data Warehouses with GCP](https://www.coursera.org/account/accomplishments/verify/79FC83QD7N9B)
+
 ### Day 75 | March 28, 2020 | Saturday
 
 **Today's Progress:** Today I continued with the **Modernizing Data Lakes and Data Warehouses with GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
@@ -17,7 +40,7 @@
     - Loading Data
   - **Lab 3 (BigQuery):**
     - Loading Data into BigQuery
-    
+
 ### Day 74 | March 27, 2020 | Friday
 
 **Today's Progress:** Today I continued with the **Modernizing Data Lakes and Data Warehouses with GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
