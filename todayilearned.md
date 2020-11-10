@@ -4,6 +4,51 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 84 | April 6, 2020 | Monday
+
+**Today's Progress:** Today I continued with the **Data Science: From Prediction to Production** on Udemy.
+
+**Description:** This includes the following:
+- What Makes You Professional
+  - Your Main Responsibility
+    - Building Applications
+    - How to Deliver?
+    - Learning from Software Developers
+  - Skills You Must Have
+    - Data Science Skills
+      - Analytical Skills
+      - Business Accumen
+      - Modeling Skills
+      - Statistics
+      - Machine Learning
+      - Good Sense about Data
+      - Common Sense
+      - Familiarity with Data Science Tools and Technologies
+    - Delivering Skills
+      - Deliver Fast
+      - Respond Quickly to Changes
+      - Build Robust Models
+  - Developer or Researcher 
+- Guidelines for Delivering Fast Results
+  - Mistakes as a Junior
+  - Six Important Principles
+    1. Satisfy the Customer
+    2. Welcome Changing Requirements
+    3. Deliver Working Software Frequently
+    4. Promote Sustainable Development
+    5. Technical Excellence
+    6. Simplicity
+  - Satisfy the Customer
+    1. Understand the Customer's Business
+    2. Deliver Early Valuable Software
+    3. Open the Black Box
+    4. Communicate Frequently
+    5. Do a Soft Launch
+  - Simplicity is Essential
+    - *"Start Lean, Thicker Later"*
+    - *"We Build Applications, Not Fancy Models"*
+  - Practical Perspective about Scale
+
 ### Day 83 | April 5, 2020 | Sunday
 
 **Today's Progress:** Today I started the **Data Science: From Prediction to Production** on Udemy.
