@@ -4,6 +4,30 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 91 | April 13, 2020 | Monday
+
+**Today's Progress:** Today I completed the **Building Batch Data Pipelines on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
+
+**Description:** This includes the following:
+- **Week 2: Module 4**
+  - Aggregating with GroupByKey and Combine
+  - **Lab 4: MapReduce in Cloud DataFlow**
+    - Identifying Map and Reduce Operations
+    - Executing the Pipeline
+    - Using Command Line Parameters
+- **Week 2: Module 5**
+  - Side Inputs and Windows of Data
+  - **Lab 5: Practicing Pipeline Side Inputs**
+    - Trying out a BigQuery query
+    - Exploring the pipeline code
+    - Executing the pipeline
+- **Week 2: Module 6**
+  - Cloud Dataflow Templates and SQL
+    - Creating and Reusing Pipeline Templates
+    - Cloud Dataflow SQL Pipelines
+
+[Certificate | Building Batch Data Pipelines on GCP](https://www.coursera.org/account/accomplishments/verify/PPQSQPN84MSQ)
+
 ### Day 90 | April 12, 2020 | Sunday
 
 **Today's Progress:** Today I continued with the **Building Batch Data Pipelines on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
