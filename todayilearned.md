@@ -4,6 +4,44 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 97 | April 19, 2020 | Sunday
+
+**Today's Progress:** Today I completed the **Smart Analytics, Machine Learning, and AI on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
+
+**Description:** This includes the following:
+- **Week 2: Module 1**
+  - Productionizing Custom ML Models
+    - Phases of ML Projects
+    - Ways to do Custom ML on GCP
+    - Kubeflow
+    - AI Hub
+  - **Lab 3: Running AI Models on Kubeflow**
+    - Setting up Kubeflow on a Kubernetes Engine Cluster
+    - Packaging a Tensorflow Program in a Container and Uploading it to Google Container Registery
+    - Submitting a TF-train Job and Save the Resulting Model to Google Cloud Storage
+    - Serving and Interacting with a Trained Model
+- **Week 2: Module 2**
+  - BigQuery ML
+    - BigQuery ML for Quick Model Building
+    - Classification, Regression, and Recommender Models
+    - Unsupervised ML with Clustering Models
+  - **Lab 4: Predict Bike Trip Duration with a Regression Model in BQML**
+    - Querying and Exploring the London Bicycles Dataset for Feature Engineering
+    - Creating a Linear Regression Model in BQML
+    - Evaluate the Performance of your ML Model
+    - Extracting your Model Weights
+  - **Lab 5: Movie Recommendations in BigQuery ML**
+    - Training a Recommendation Model in BigQuery
+    - Making Product Predictions for Both Single Users and Batch Users
+- **Week 2: Module 3**
+  - Cloud AutoML
+    - Why AutoML?
+    - Auto ML Vision
+    - Auto ML NLP
+    - Auto ML Tables
+
+[Certificate | Smart Analytics, Machine Learning, and AI on GCP](https://www.coursera.org/account/accomplishments/certificate/BVJPCXG8SP2V)
+
 ### Day 96 | April 18, 2020 | Saturday
 
 **Today's Progress:** Today I enrolled in the **Smart Analytics, Machine Learning, and AI on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
