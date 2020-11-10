@@ -4,6 +4,37 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 96 | April 18, 2020 | Saturday
+
+**Today's Progress:** Today I enrolled in the **Smart Analytics, Machine Learning, and AI on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
+
+**Description:** This includes the following:
+- **Week 1: Module 1**
+  - Introduction
+  - Analytics and AI
+    - What is ML?
+    - Machine Learning and AI
+    - ML Options on GCP
+    - Reviewing Key ML Concepts
+  - Prebuilt ML Model APIs
+    - Unstructured Data
+  - **Lab 1: Using NL API to Classify Unstructured Text**
+    - Creating a Natural Language API Request
+    - Calling the API with curl
+    - Using the NL API's Text Classification Feature
+    - Using Text Classification to Understand a Dataset of News Articles
+- **Week 1: Module 2**
+  - Cloud AI Platform Notebooks
+    - What's a Notebook
+    - BigQuery Magic and Ties to Pandas
+  - **Lab 2: BigQuery in Jupyter Labs on AI Platform**
+    - Instantiating a Jupyter Notebook on AI Platform
+    - Execute a BigQuery query from within a Jupyter and Processing the Output using Pandas
+
+[Coursera | Data Engineering with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering) 
+
+[Coursera | Smart Analytics, Machine Learning, and AI on GCP](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp/)
+
 ### Day 95 | April 17, 2020 | Friday
 
 **Today's Progress:** Today I completed the **Building Resilient Streaming Analytics Systems on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
