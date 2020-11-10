@@ -4,6 +4,23 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 93 | April 15, 2020 | Wednesday
+
+**Today's Progress:** Today I continued with the **Building Resilient Streaming Analytics Systems on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
+
+**Description:** This includes the following:
+- **Week 1: Module 2**
+  - Cloud Dataflow Capabilities for Streaming Data
+    - Streaming Data Challenges
+    - Cloud Dataflow Windowing
+  - **Lab 2: Streaming Data Pipelines**
+    - Launching Dataflow and Running a Dataflow Job
+    - Understanding how Data Elements Flow through the Transformations of a Dataflow Pipeline
+    - Connecting Dataflow to Pub/Sub and BigQuery
+    - Observing and Understanding how Dataflow Autoscaling adjusts Compute Resources to Process Input Data Optimally
+    - Learning Where to find Logging Information Created by Dataflow
+    - Explore Metrics and Create Alerts and Dashboards with Stackdriver Monitoring
+
 ### Day 92 | April 14, 2020 | Tuesday
 
 **Today's Progress:** Today I enrolled in the **Building Resilient Streaming Analytics Systems on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
