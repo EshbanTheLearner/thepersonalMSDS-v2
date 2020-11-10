@@ -4,6 +4,24 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 90 | April 12, 2020 | Sunday
+
+**Today's Progress:** Today I continued with the **Building Batch Data Pipelines on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
+
+**Description:** This includes the following:
+- **Week 2: Module 3**
+  - Running Batch Processing Pipelines on Cloud Dataflow
+    - Cloud Dataflow
+    - Why Customers value Dataflow
+    - Building Cloud Dataflow Pipelines in Code
+    - Key Considerations with Designing Pipelines
+    - Transforming Data with PTransforms
+  - **Lab 3: Dataflow Pipeline**
+    - Setting up a Python Dataflow project using Apache Beam
+    - Writing a simple pipeline in Python
+    - Executing the query on the local machine
+    - Executing the query on the cloud
+
 ### Day 89 | April 11, 2020 | Saturday
 
 **Today's Progress:** Today I continued with the **Building Batch Data Pipelines on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
