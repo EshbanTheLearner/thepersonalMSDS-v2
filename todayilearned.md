@@ -4,6 +4,23 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 89 | April 11, 2020 | Saturday
+
+**Today's Progress:** Today I continued with the **Building Batch Data Pipelines on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
+
+**Description:** This includes the following:
+- **Week 2: Module 2**
+  - Cloud Composer
+    - Orchestrating work b/w GCP Services with Cloud Composer
+    - Apache Airflow
+    - DAGs and Operators
+    - Workflow Scheduling
+    - Monitoring and Logging
+  - **Lab 3: Cloud Composer**
+    - Using GCP Console to create the Cloud Composer environment
+    - Viewing and run the DAG (Directed Acyclic Graph) in the Airflow web interface
+    - Viewing the results of the wordcount job in storage.
+
 ### Day 88 | April 10, 2020 | Friday
 
 **Today's Progress:** Today I continued with the **Building Batch Data Pipelines on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
