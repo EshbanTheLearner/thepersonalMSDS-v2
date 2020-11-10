@@ -4,6 +4,37 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 86 | April 8, 2020 | Wednesday
+
+**Today's Progress:** Today I completed the **Data Science: From Prediction to Production** on Udemy.
+
+**Description:** This includes the following:
+- The Importance of Well Written Code
+  - Respect Your Code
+  - Coding Standards
+    - Production vs Research Code
+  - Meet Uncle Bob
+    - Clean Code by Robert C. Martin
+  - Data Sciene Clean Code
+- Advance Topics in Predictive Modeling
+  - Three Factors which Impact Accuracy
+    - Reduce Noise Variance
+      - Better Features
+      - Better Representation
+    - Reduce Estimators Variance
+      - Increase Sample
+      - Increase Predictors Variance
+      - Decrease Predictors Correlation
+  - The Best Black-Box Model
+  - How to Use Dummies the Right Way
+  - The Price of Wrong Feature Set
+    - Omitting Relevant Variable
+    - Including Irrelevant Variable
+  - The Impact of Measurements Errors
+    - Errors that Create Bias
+    - Errors that don't Create Bias
+  - Heteroskedasticity Illness
+
 ### Day 85 | April 7, 2020 | Tuesday
 
 **Today's Progress:** Today I continued with the **Data Science: From Prediction to Production** on Udemy.
