@@ -4,6 +4,36 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 95 | April 17, 2020 | Friday
+
+**Today's Progress:** Today I completed the **Building Resilient Streaming Analytics Systems on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
+
+**Description:** This includes the following:
+- **Week 2: Module 3**
+  - Bigquery: Advance Funcionality
+    - GIS Functions
+    - *WITH* Clauses vs Permanent Tables
+    - Analytical Window Functions
+    - Ranking Functions + ARRAYs
+  - **Lab 5: Optimizing BigQuery Queries for Performance**
+    - Using BiqQuery to:
+      - Minimizing I/O
+      - Caching Results of Previous Queries
+      - Avoiding Overwhelming Single Workers
+      - Using Approximate Aggregation Functions
+- **Week 2: Module 4**
+  - Performance Considerations
+    - I/o
+    - Shuffle
+    - Grouping
+    - Materialization
+    - Functions and UDFs
+  - **Lab 6: Creating Date-Partitioned Tables in BigQuery**
+    - Querying a Partioned Dataset
+    - Creating Dataset Partitions to Improve Query Performance and Reduce Cost
+
+[Certificate | Building Resilient Streaming Analytics Systems on GCP](https://www.coursera.org/account/accomplishments/certificate/A8SLLXWVY5TQ)
+
 ### Day 94 | April 16, 2020 | Thursday
 
 **Today's Progress:** Today I continued with the **Building Resilient Streaming Analytics Systems on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
