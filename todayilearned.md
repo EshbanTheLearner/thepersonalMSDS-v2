@@ -4,6 +4,26 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 92 | April 14, 2020 | Tuesday
+
+**Today's Progress:** Today I enrolled in the **Building Resilient Streaming Analytics Systems on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
+
+**Description:** This includes the following:
+- **Week 1: Module 1**
+  - Introduction
+  - Processing Streaming Data
+  - Cloud Pub/Sub
+    - Introduction to Pub/Sub
+    - Cloud Pub/Sub Push vs Pull
+    - Publishing with Pub/Sub Code
+  - **Lab 1: Publish Streaming Data into Pub/Sub**
+    - Creating a Pub/Sub Topic and Subscription
+    - Simulating your Traffic Sensor Data into Pub/Sub
+
+[Coursera | Data Engineering with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering) 
+
+[Coursera | Building Resilient Streaming Analytics Systems on GCP](https://www.coursera.org/learn/streaming-analytics-systems-gcp)
+
 ### Day 91 | April 13, 2020 | Monday
 
 **Today's Progress:** Today I completed the **Building Batch Data Pipelines on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
