@@ -4,6 +4,28 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 78 | March 31, 2020 | Tuesday
+
+**Today's Progress:** Today I continued with the **Bash Scripting, Linux and Shell Programming Complete Guide** on Udemy.
+
+**Description:** This includes the following:
+- Getting Help
+  - Show Manual Description
+  - Search Manual
+  - Reference Manuals
+- Working with Files/Folders
+  - Creating a Folder
+  - Creating a File
+  - Copy Files/Folders
+  - Move and Rename File/Folders
+  - Delete Files/Folders
+  - Delete Empty Folders
+  - Change File Permission
+- Text Files
+  - File Concatenation
+  - File Perusal Filter
+  - Terminal Based Text Editor
+
 ### Day 77 | March 30, 2020 | Monday
 
 **Today's Progress:** Today I started the **Bash Scripting, Linux and Shell Programming Complete Guide** on Udemy.
