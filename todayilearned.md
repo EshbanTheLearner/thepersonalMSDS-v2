@@ -4,6 +4,36 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 98 | April 20, 2020 | Monday
+
+**Today's Progress:** Today I enrolled in the **Unsupervised Machine Learning Hidden Markov Models in Python** course on Udemy.
+
+**Description:** This includes the following:
+- Introduction
+  - Intro to Hidden Markov Models
+  - Common Use Cases for HMMs
+  - Unsupervised vs Supervised
+- Markov Models
+  - The Markov Property
+  - Markov Models
+    - Transition Probabilities
+    - Initial State Distribution
+    - Maximum Likelihood
+    - Smooth Estimates
+  - The Math of Markov Chains
+    - Stationary Distributions
+    - Limiting Distribution
+- Markov Models: Examples, Problems and Applications
+  - Sick vs Healthy
+  - SEO and Bounce Rate Optimization
+  - 2nd-Order Language Model
+    - Python Implementation
+    - Eminem Style Rap Generation
+  - Google's Page Rank Algorithm
+    - Perron-Frobenius Theorem
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
 ### Day 97 | April 19, 2020 | Sunday
 
 **Today's Progress:** Today I completed the **Smart Analytics, Machine Learning, and AI on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
