@@ -4,6 +4,27 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 100 | April 22, 2020 | Wednesday
+
+**Today's Progress:** Today I completed the **Unsupervised Machine Learning Hidden Markov Models in Python** course on Udemy.
+
+**Description:** This includes the following:
+- Discrete HMMs using Deep Learning Libraries
+  - Gradient Descent
+  - Discrete HMM in Tensorflow
+- HMMs for Continuous Observations
+  - Gaussian Mixture Models with Hidden Markov Models
+  - Generating Data from a Real-Valued HMM
+  - Continuous HMM in Tensorflow
+- HMMs for Classification
+  - Generative vs Discriminative Classifiers
+  - HMM Classification on Poetry Data
+- Parts-of-Speech Tagging
+  - PoS Tagging Concepts
+  - PoS Tagging with an HMM
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
+
 ### Day 99 | April 21, 2020 | Tuesday
 
 **Today's Progress:** Today I continued the **Unsupervised Machine Learning Hidden Markov Models in Python** course on Udemy.
@@ -27,7 +48,7 @@
     - Scaling Backward
   - Implementation of Discrete HMM in Python
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 ### Day 98 | April 20, 2020 | Monday
 
@@ -57,7 +78,7 @@
   - Google's Page Rank Algorithm
     - Perron-Frobenius Theorem
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 ### Day 97 | April 19, 2020 | Sunday
 
@@ -500,7 +521,7 @@
   - Portfolio Value
 - Minimal Trading Bot Implementation in Tensorflow 2.0
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 
 ### Day 81 | April 3, 2020 | Friday
@@ -534,7 +555,7 @@
 
 [Article 4 | RecSys Series Part 2: The 10 Categories of Deep Recommendation Systems That Academic Researchers Should Pay Attention To](https://towardsdatascience.com/recommendation-system-series-part-2-the-10-categories-of-deep-recommendation-systems-that-189d60287b58)
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 
 ### Day 80 | April 2, 2020 | Thursday
@@ -566,7 +587,7 @@
   - Wildcards
   - Multiple Commands
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 ### Day 79 | April 1, 2020 | Wednesday
 
@@ -892,7 +913,7 @@
   - Measuring Volatility
   - GARCH
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 ### Day 65 | March 18, 2020 | Wednesday
 
@@ -911,7 +932,7 @@
   - Pitfalls of Forecasting
   - Multivariate Forecasting 
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 ### Day 64 | March 17, 2020 | Tuesday
 
@@ -926,7 +947,7 @@
   - Auto ARIMA with Custom Arguments
   - Implementation in Python
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 ### Day 63 | March 16, 2020 | Monday
 
@@ -943,7 +964,7 @@
     - Volatility Clustering
   - Implementation in Python
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 ### Day 62 | March 15, 2020 | Sunday
 
@@ -967,7 +988,7 @@
     - Volatility & Variance
   - Implementation in Python
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 ### Day 61 | March 14, 2020 | Saturday
 
@@ -982,7 +1003,7 @@
   - ARMA Models and Non-Stationary Data
   - Implementation in Python
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 ### Day 60 | March 13, 2020 | Friday
 
@@ -998,7 +1019,7 @@
   - Past Values and Past Errors
   - Implementation in Python
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 ### Day 59 | March 12, 2020 | Thursday
 
@@ -1013,7 +1034,7 @@
   - Error Analysis w/ Residuals
   - Implementation in Python
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 ### Day 58 | March 11, 2020 | Wednesday
 
@@ -1060,7 +1081,7 @@
     - Partial AutoCorrelation Function (PACF)
   - Python Implementation
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 
 ### Day 56 | March 9, 2020 | Monday
@@ -1077,7 +1098,7 @@
   - Splitting Up the Data
   - Implementation in Python
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 ### Day 55 | March 8, 2020 | Sunday
 
@@ -1101,7 +1122,7 @@
 **Important Links:** 
 [Udemy | Time Series Analysis in Python 2020](https://www.udemy.com/course/time-series-analysis-in-python/)
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 ### Day 54 | March 7, 2020 | Saturday
 
@@ -1169,7 +1190,7 @@
     - Known Volatility & Risk-Free
   - Implementation in Python
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 ### Day 52 | March 5, 2020 | Thursday
 
@@ -1184,7 +1205,7 @@
     - Beta Coefficients
   - Implementation in Python
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 ### Day 51 | March 4, 2020 | Wednesday
 
@@ -1210,7 +1231,7 @@
     - Calculating CAPM of a Stock
     - Calculating Sharpe Ratio
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 ### Day 50 | March 3, 2020 | Tuesday
 
@@ -1227,7 +1248,7 @@
     - Calculating Expected Portfolio Volatility
     - Calculating Markowitz Efficient Frontier
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 ### Day 49 | March 2, 2020 | Monday
 
@@ -1250,7 +1271,7 @@
       5. P Value
       6. Standard Error
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 ### Day 48 | March 1, 2020 | Sunday
 
@@ -1268,7 +1289,7 @@
   - Calculating Risk of an Investment Portfolio
     - Calculating Diversifiable and Non-Diversifiable Risk
 
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)
 
 ### Day 47 | February 29, 2020 | Saturday
 
@@ -1392,7 +1413,7 @@
 
 **Important Links:** 
 [Udemy | Artificial Intelligence for Business](https://www.udemy.com/course/ai-for-business/)
-[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)	
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalMSDS-v2/tree/main/codebase)	
 
 ### Day 41 | February 23, 2020 | Sunday
 
