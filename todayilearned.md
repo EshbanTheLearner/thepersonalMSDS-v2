@@ -4,6 +4,45 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 87 | April 9, 2020 | Thursday
+
+**Today's Progress:** Today I enrolled in the **Building Batch Data Pipelines on GCP** course of **Data Engineering with Google Cloud Professional Certificate** on Coursera.
+
+**Description:** This includes the following:
+- **Week 1: Module 1**
+  - EL, ELT, ETL
+    - Refresher
+  - Quality Considerations
+    - Validity
+    - Accuracy
+    - Completeness
+    - Consistency
+    - Uniformity
+  - BigQuery for ELT
+  - Shortcomings of ELT
+  - ETL for Data Quality Issues
+    - DataProc
+    - DataFlow
+    - DataFusion
+    - Data Catalog
+- **Week 1: Module 2**
+  - Executing Spark on Cloud Dataproc
+    - The Hadoop Ecosystem
+    - Running Hadoop on Cloud Dataproc
+    - GCS instead of HDFS
+    - Optimizing Dataproc
+    - Optimizing Dataproc Storage
+    - Optimizing Dataproc Templates and Autoscaling
+    - Optimizing Dataproc Monitoring
+  - **Lab 1: Running Apache Spark Jobs on Cloud Dataproc**
+    - Migrating existing Spark Jobs to Cloud Dataproc
+    - Modify Spark Jobs to use Cloud Storage instead of HDFS
+    - Optimize Spark Jobs to run on Job Specific Clusters
+
+[Coursera | Data Engineering with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering) 
+
+[Coursera | Building Batch Data Pipelines on GCP](https://www.coursera.org/learn/batch-data-pipelines-gcp)
+
 ### Day 86 | April 8, 2020 | Wednesday
 
 **Today's Progress:** Today I completed the **Data Science: From Prediction to Production** on Udemy.
