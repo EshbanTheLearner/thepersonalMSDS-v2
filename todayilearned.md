@@ -4,6 +4,53 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 83 | April 5, 2020 | Sunday
+
+**Today's Progress:** Today I started the **Data Science: From Prediction to Production** on Udemy.
+
+**Description:** This includes the following:
+- Practical Perspective about Predictions
+  - Why Prediction is the Wrong Term
+    1. Single Point Prediction is Useless
+    2. Prediction is about Knowing the *Distribution of the Future*
+    3. Models without the Appropriate Evaluation are Useless
+  - The Characteristicss of a Good Prediction
+    - Different
+      - Model Type 
+      - Feature List 
+      - Expressiveness 
+    results in Different Error Distribution
+    - Properties of Good Prediction
+      1. Stable Variance
+      2. Light Tailed Variance
+      3. Symmetry
+      4. Known Distribution
+- Guidelines for Selecting Models
+  - Why Linear Models are Great
+    1. Stable Variance
+    2. Simple
+    3. Efficient
+    4. Easy to Interpret
+    5. Suitable for First Iteration
+  - When to Use Nonlinear Models
+    1. Direct Relation is Clearly not Linear
+    2. Many Features
+    3. Srtuctural Phenomenon
+  - The Risk of Nonlinear Modeling
+    1. Overfitting
+    2. Variance Instability
+    3. Heavy Tailed Distribution
+    4. Corner Solutions
+    5. Terrible Performance
+  - Risk Management in Nonlinear Modeling
+    1. Ensemble Methods
+    2. Narrowing the Feature Space
+    3. Specific Tuning Parameters
+
+**Important Links:**
+ 
+[Udemy | Data Science: From Prediction to Production](https://www.udemy.com/course/predictive-applications-from-concept-to-production/)
+
 ### Day 82 | April 4, 2020 | Saturday
 
 **Today's Progress:** Today I studied about **Reinforcement Learning for Stock Trading**
