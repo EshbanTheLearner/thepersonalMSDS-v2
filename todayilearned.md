@@ -4,6 +4,40 @@
 
 ## Part - I (13 January 2020 to 22 April 2020)
 
+### Day 81 | April 3, 2020 | Friday
+
+**Today's Progress:** Today I studied about **Recommendation Systems**
+
+**Description:** This includes the following:
+- Introduction
+- Content Based Methods
+- Collaborative Filtering Methods
+  - Model Based
+    - Matrix Facorization
+  - Memory Based
+    - Item Centered Bayesian Classifier
+    - User Centered Linear Regression
+- Hybrid Methods
+- Evaluation of Recommendation Systems
+  - Metric Based Evaluation
+  - Human Based Evaluation
+- Deep Learning for Recommendation Systems
+  - Embeddings
+- Simple Movie Recommender System (TensorFlow 2.0)
+
+**Important Links:**
+ 
+[Article 1 | Introduction to Recommender Systems](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada)
+
+[Article 2 | Recommender Systems in Practice](https://towardsdatascience.com/recommender-systems-in-practice-cef9033bb23a)
+
+[Article 3 | Recommender Systems with Deep Learning Architectures](https://towardsdatascience.com/recommender-systems-with-deep-learning-architectures-1adf4eb0f7a6)
+
+[Article 4 | RecSys Series Part 2: The 10 Categories of Deep Recommendation Systems That Academic Researchers Should Pay Attention To](https://towardsdatascience.com/recommendation-system-series-part-2-the-10-categories-of-deep-recommendation-systems-that-189d60287b58)
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
+
 ### Day 80 | April 2, 2020 | Thursday
 
 **Today's Progress:** Today I completed the **Bash Scripting, Linux and Shell Programming Complete Guide** on Udemy.
