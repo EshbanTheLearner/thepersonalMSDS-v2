@@ -4,6 +4,23 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 16 | October 07, 2020 | Wednesday
+
+**Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
+
+**Description:** This includes the following:
+- Sequential Subspace Optimization
+  - Fast Subspace Optimization
+- Quasi-Newton Method
+  - Approximate Newton Direction
+- Approximating Hessian
+    - Secant Equation
+- Sherman-Morison Formula
+- Broyden Family of Quasi-Newton
+  - BFGS - Broyden, Fletcher, Goldfarb, Shanno
+  - DFP - Davidon, Fletcher, Powell
+- Initialization and Convergence Properties
+
 ### Day 15 | October 06, 2020 | Tuesday
 
 **Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
