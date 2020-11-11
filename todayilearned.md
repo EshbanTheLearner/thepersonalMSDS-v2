@@ -4,6 +4,21 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 10 | October 01, 2020 | Thursday
+
+**Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
+
+**Description:** This includes the following:
+- Local and Global Minima
+  - Definition
+  - Norms
+  - Convex Functions and Minima
+    - Proof by Contradiction
+  - Optimality Conditions
+    - Proof by Gradient Inequality
+  - Non-Convex Functions and Minima
+  - Sufficient Optimality Condition
+
 ### Day 09 | September 30, 2020 | Wednesday
 
 **Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
