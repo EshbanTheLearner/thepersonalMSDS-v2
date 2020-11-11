@@ -4,6 +4,22 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 04 | September 25, 2020 | Friday
+
+**Today's Progress:** Today I continued with the **Bayesian Machine Learning in Python: A/B Testing** course on Udemy.
+
+**Description:** This includes the following:
+- Bayesian A/B Testing
+  - Exploit vs Explore Dilema
+    - Multi-Armed Bandit
+  - Reinforcement Learning
+  - Epsilon-Greedy
+  - UCB1
+    - Chernoff-Hoeffding Bound
+    - Upper Confidence Bound
+  - Conjugate Priors
+  - Beta Mean, Variance
+
 ### Day 03 | September 24, 2020 | Thursday
 
 **Today's Progress:** Today I continued with the **Bayesian Machine Learning in Python: A/B Testing** course on Udemy.
