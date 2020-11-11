@@ -4,6 +4,25 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 07 | September 28, 2020 | Monday
+
+**Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
+
+**Description:** This includes the following:
+- Linear Algebra Refresh
+  - N-Dimensional Euclidean Space
+  - Linear Subspace
+  - Affine Subspace
+  - Vector Norm
+  - Euclidean Norm
+  - Matrix Norm
+    - Frobenius Norm
+    - Induced Matrix Norm
+  - Inner Product
+  - Eigenvalue Decomposition
+  - Matrix Polynomials and Functions
+  - Positive (Semi) Definite Symmetric Matrices
+
 ### Day 06 | September 27, 2020 | Sunday
 
 **Today's Progress:** Today I started the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
