@@ -4,6 +4,20 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 14 | October 05, 2020 | Monday
+
+**Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
+
+**Description:** This includes the following:
+- Conjugate Gradient Method - Part 1
+  - Scalar Product
+  - Gram-Schmidt Orthogonalization
+  - Q-Conjugate/Q-Orthogonal Directions
+  - Minimization of a Quadtratic Function
+    - Conjugate Direction Method
+  - Expanding Manifold Property
+    - Affine Subspace
+
 ### Day 13 | October 04, 2020 | Sunday
 
 **Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
