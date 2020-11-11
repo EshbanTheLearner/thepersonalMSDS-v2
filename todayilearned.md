@@ -4,6 +4,22 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 05 | September 26, 2020 | Saturday
+
+**Today's Progress:** Today I concluded the **Bayesian Machine Learning in Python: A/B Testing** course on Udemy.
+
+**Description:** This includes the following:
+- Bayesian A/B Testing
+  - Thompson Sampling
+  - Online Nature of Bayesian A/B Testing
+  - Finding Threshold without p-Value
+- Summary
+  - Classical A/B Testing and Drawbacks
+  - Bernoulli Distributed Data
+  - Methods that adapt to Data Collected so far
+  - How to Solve Explore-Exploit
+- Excercises
+
 ### Day 04 | September 25, 2020 | Friday
 
 **Today's Progress:** Today I continued with the **Bayesian Machine Learning in Python: A/B Testing** course on Udemy.
