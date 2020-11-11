@@ -4,6 +4,30 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 02 | September 23, 2020 | Wednesday
+
+**Today's Progress:** Today I continued with the **Bayesian Machine Learning in Python: A/B Testing** course on Udemy.
+
+**Description:** This includes the following:
+- Bayes Rule and Probability Review
+  - Marginal Distributions
+  - Joint Distribution
+  - Conditional Distribution
+  - Discrete vs Continuous Random Variables
+  - Bayes' Rule
+  - Independence
+  - The Gambler's Fallacy
+  - The Monty Hall Problem
+  - Maximum Likelihood Estimation
+    - The Bernoulli Distribution
+    - The Gaussian Distribution
+    - Unbiased Estimate of the Co-Variance Matrix
+  - Confidence Intervals
+    - Cumulative Distribution Function
+    - Confidence Interval Approximation
+    - Bernoulli Confidence Approximation
+  - The Bayesian Paradigm
+
 
 ### Day 01 | September 22, 2020 | Tuesday
 
