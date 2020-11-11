@@ -4,6 +4,25 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 06 | September 27, 2020 | Sunday
+
+**Today's Progress:** Today I started the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
+
+**Description:** This includes the following:
+- Unconstrained Optimization
+  - Continous
+  - Smooth
+- Constrained Optimization
+  - Inequality and Equality Constraints
+- Optimality Conditions
+- Numerical Iterative Methods
+- Parametric Regression
+  - Linear Regression
+  - Nonlinear Regression
+    - Neural Networks
+
+[YouTube | Introduction to Optimization](https://www.youtube.com/playlist?list=PLDFB2EEF4DDAFE30B)
+
 ### Day 05 | September 26, 2020 | Saturday
 
 **Today's Progress:** Today I concluded the **Bayesian Machine Learning in Python: A/B Testing** course on Udemy.
