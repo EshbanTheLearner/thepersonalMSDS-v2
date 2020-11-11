@@ -4,6 +4,24 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 09 | September 30, 2020 | Wednesday
+
+**Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
+
+**Description:** This includes the following:
+- Convex Sets & Functions
+  - Definition of Set and Function
+  - Properties of Convex Sets
+  - Properties of Convex Functions
+  - Extended Value Convex Functions
+  - Epigraph
+  - Properties of Epigraph
+  - Convex Combination 
+  - Convex Hull
+  - Jensen Inequality
+  - Gradient Inequality
+  - Second Derivative
+
 ### Day 08 | September 29, 2020 | Tuesday
 
 **Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
