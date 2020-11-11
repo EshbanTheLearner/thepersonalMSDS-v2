@@ -4,6 +4,27 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 08 | September 29, 2020 | Tuesday
+
+**Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
+
+**Description:** This includes the following:
+- Derivates of Multivariate Functions
+  - Total Differential
+    - Gradient
+    - External Definition of Gradient
+  - Directional Derivative
+  - Hessian
+  - Second Directional Derivative
+  - Example - Gradient and Hession of:
+    - Linear Operator
+    - Quadratic Functions
+  - Taylor Expansion
+  - Function of Matrices
+  - Gradient of Function of a Matrix
+  - Example
+    - Gradient of a Neural Network
+
 ### Day 07 | September 28, 2020 | Monday
 
 **Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
