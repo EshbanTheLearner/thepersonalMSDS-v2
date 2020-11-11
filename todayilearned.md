@@ -4,6 +4,22 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 13 | October 04, 2020 | Sunday
+
+**Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
+
+**Description:** This includes the following:
+- Newton's Method
+  - For Non-linear Equations
+  - Modified Newton's Method
+    - Enforcing Descent Direction
+  - Solving Symmetric System of Equations
+    - Cholesky Factorization
+    - Modified Cholesky Decomposition
+  - Least Squares Problem
+    - Gauss-Newton Method
+    - Levenberg-Marquardt Method
+
 ### Day 12 | October 03, 2020 | Saturday
 
 **Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
