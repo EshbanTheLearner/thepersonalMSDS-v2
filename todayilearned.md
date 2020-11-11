@@ -4,6 +4,21 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 20 | October 11, 2020 | Sunday
+
+**Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
+
+**Description:** This includes the following:
+- Conic Programming I
+  - Examples of Cones
+    - R^n+
+    - Lorenz Cone
+    - Cone of Positive Semidefinite Matrices
+  - Conic Programming Problems
+  - Semidefinite Programming
+  - Dual Cone
+    - Self-Dual
+
 ### Day 19 | October 10, 2020 | Saturday
 
 **Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
