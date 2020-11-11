@@ -4,6 +4,29 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 15 | October 06, 2020 | Tuesday
+
+**Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
+
+**Description:** This includes the following:
+- Conjugate Gradient Method - Part 2
+  - Derivation of Conjugate Gradient Method
+    - Exact Line Search
+    - Gram-Schmidt for Q-Orthogonality
+  - Properties
+    - Simplification
+    - Polak-Ribiere Method
+    - Fletcher-Reevs Method
+  - Conjugate Gradient Method Summary
+  - Convergence Rate of Conjugate Gradient Method
+  - Preconditioning
+  - Truncated Newton's Method
+    - Neewton System
+  - Compute Resource Analysis for product of
+    - Function
+    - Gradient
+    - Hessian Vector
+
 ### Day 14 | October 05, 2020 | Monday
 
 **Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
