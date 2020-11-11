@@ -4,6 +4,38 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 17 | October 08, 2020 | Thursday
+
+**Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
+
+**Description:** This includes the following:
+- Summary of Unconstrained Optimization
+  - 1-D Methods
+    - Golden Section - No Derivatives
+    - Bisection
+    - Quadratic/Cubic Interpolation Methods
+    - Inexact Line Search
+      - Backtracking Method
+      - Armijjo Rule
+  - Multidimensional Optimizations
+    - Steepest Descent
+    - Newton
+      - Gauss-Newton
+    - Conjugate Gradient
+    - Truncated Newton
+    - Quassi-Newton
+      - BFGS
+    - Sequential Subspace Optimization
+    - Nelder-Mead Simplex Method
+- Constrained Optimization
+  - Lagrangian
+- Karush-Kuhn-Tucker First Order
+  - Necessary Optimality Conditions
+- Penalty Function Method
+  - Penalty Aggregate
+  - Ideal Penalty Aggregate
+  - Algorithm
+
 ### Day 16 | October 07, 2020 | Wednesday
 
 **Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
