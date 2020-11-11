@@ -4,6 +4,26 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 12 | October 03, 2020 | Saturday
+
+**Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
+
+**Description:** This includes the following:
+- Multidimensional Unconstrained Optimization Methods
+  - Line Search Methods
+    - Directional Derivative
+  - Choice of Step Size
+    - Exact Line Search
+    - Inexact Line Search - Armijo Rule
+    - Constant Step Size
+    - Diminishing Step Size
+  - Steepest/Gradient Descent
+    - Linear Convergence Rate
+  - Newton's Method
+    - Derivation
+    - Trust Region
+    - Asymptotic Quadratic Convergence
+
 ### Day 11 | October 02, 2020 | Friday
 
 **Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
