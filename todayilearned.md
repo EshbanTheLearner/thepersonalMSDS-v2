@@ -4,6 +4,21 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 11 | October 02, 2020 | Friday
+
+**Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
+
+**Description:** This includes the following:
+- Optimality Conditions
+  - Convex vs Non-Convex Functions
+  - Sufficient Optimality Conditions
+  - One-Dimensional Optimization
+    - Bisection Method
+    - Golden Selection Method
+  - Quadratic Interpolation
+    - Superlinear Convergence
+  - Cubic Interpolation
+
 ### Day 10 | October 01, 2020 | Thursday
 
 **Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
