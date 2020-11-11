@@ -4,6 +4,23 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 19 | October 10, 2020 | Saturday
+
+**Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
+
+**Description:** This includes the following:
+- Minimax Theorem, Game Theory and Lagrange Duality
+  - Game Interpretation of Minimax
+  - Saddle Point Theorem
+  - Minimax of Lagrangian
+    - Weak Duality
+  - Dual Problem and Weak Duality
+  - Strong Duality
+  - Slayter Condition for Strong Duality
+  - Examples of Dual Problems
+    - Quadratic Program
+    - Linear Program
+
 ### Day 18 | October 09, 2020 | Friday
 
 **Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
