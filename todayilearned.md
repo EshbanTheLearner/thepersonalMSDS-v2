@@ -4,6 +4,36 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 03 | September 24, 2020 | Thursday
+
+**Today's Progress:** Today I continued with the **Bayesian Machine Learning in Python: A/B Testing** course on Udemy.
+
+**Description:** This includes the following:
+- Traditional A/B Testing
+  - Problem Setup
+    - Hypotheses
+      - Null Hypothesis
+      - Alternative Hypothesis (One-Sided)
+      - Alternative Hypothesis (Two-Sided)
+  - Test Statistic
+  - p-Value
+  - Testing Characteristics
+  - Pooled Standard Deviation
+    - Welch's t-Statistic
+  - Non-Parametric Tests
+    - Kolmogorov-Smirnov Test
+    - Kruskal-Wallis Test
+    - Mann-Whitney U test
+  - Chi-Square Test Statistic
+    - Yates Correction
+    - Fisher's Exact Test
+  - Benferroni Correction
+  - Pairwise Testing
+  - One-vs-Rest Test
+  - Post Hoc Testing
+  - Statistical Power
+  - Pitfalls of Traditional A/B Testing
+
 ### Day 02 | September 23, 2020 | Wednesday
 
 **Today's Progress:** Today I continued with the **Bayesian Machine Learning in Python: A/B Testing** course on Udemy.
