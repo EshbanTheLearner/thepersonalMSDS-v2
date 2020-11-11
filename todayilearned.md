@@ -4,6 +4,21 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 18 | October 09, 2020 | Friday
+
+**Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
+
+**Description:** This includes the following:
+- Lagrange Multipliers via Penalty Method
+  - Active vs Non-Active Constraints
+  - Penalty Function for Equality Constraints
+    - First Order Necessary Optimal Conditions
+  - Barrier Method
+  - Augmented Lagrangian Method
+    - Penalty-Multiplier Function
+    - Algorithm
+  - Augmented Lagrangian for Equality Constraints
+
 ### Day 17 | October 08, 2020 | Thursday
 
 **Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
