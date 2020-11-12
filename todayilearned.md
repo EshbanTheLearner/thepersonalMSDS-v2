@@ -4,6 +4,25 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 30 | October 21, 2020 | Wednesday
+
+**Today's Progress:** Today I continued with the **Natural Language Processing with Sequence Models** course from the **Natural Language Processing Specialization**.
+
+**Description:** This includes the following:
+- Siamese Networks
+  - Introduction
+  - Architecture
+    - Identical Subnetworks
+    - Cosine Similarity
+  - Cost Function
+    - Anchor
+    - Positive
+    - Negative
+  - Triplets
+    - Simple Loss
+    - Non-Linearity 
+    - Alpha Margin
+
 ### Day 29 | October 20, 2020 | Tuesday
 
 **Today's Progress:** Today I continued with the **Natural Language Processing with Sequence Models** course from the **Natural Language Processing Specialization**.
