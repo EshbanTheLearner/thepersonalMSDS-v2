@@ -4,6 +4,23 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 29 | October 20, 2020 | Tuesday
+
+**Today's Progress:** Today I continued with the **Natural Language Processing with Sequence Models** course from the **Natural Language Processing Specialization**.
+
+**Description:** This includes the following:
+- LSTMs and Named Entity Recognition
+  - Introduction to Named Entity Recognition
+    - Applications of NER
+    - Search Engine Efficiency
+    - Recommendation Engines
+    - Customer Service
+    - Automatic Trading
+  - Training NERs: Data Processing
+  - Computing Accuracy
+  - Programming Assignment
+    - Named Entity Recognition (NER)
+
 ### Day 28 | October 19, 2020 | Monday
 
 **Today's Progress:** Today I continued with the **Natural Language Processing with Sequence Models** course from the **Natural Language Processing Specialization**.
