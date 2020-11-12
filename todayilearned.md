@@ -4,6 +4,19 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 35 | October 26, 2020 | Monday
+
+**Today's Progress:** Today I continued with the **Credit Risk Modeling in Python 2020** course on Udemy.
+
+**Description:** This includes the following:
+- General Preprocessing
+  - Basic EDA
+  - Dealing with Continous Variables
+  - Dealing with Discrete Variables
+  - Dealing with Missing Values
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
 ### Day 34 | October 25, 2020 | Sunday
 
 **Today's Progress:** Today I continued with the **Credit Risk Modeling in Python 2020** course on Udemy.
