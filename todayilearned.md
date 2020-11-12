@@ -4,6 +4,25 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 27 | October 18, 2020 | Sunday
+
+**Today's Progress:** Today I continued with the **Natural Language Processing with Sequence Models** course from the **Natural Language Processing Specialization**.
+
+**Description:** This includes the following:
+- N-Grams vs Sequence Models
+  - Cost Function for RNNs
+    - Cross Entropy Loss
+  - Implementation Notes
+    - Abstraction in Frameworks
+    - `tf.scan()` function
+  - Gated Recurrent Units
+    - Reset Hidden Gates
+    - Update Hidden Gates
+    - Vanilla RNNs vs GRUs
+  - Deep and Bi-Directional RNNs
+  - Programming Assignments
+    - Deep N-grams
+
 ### Day 26 | October 17, 2020 | Saturday
 
 **Today's Progress:** Today I continued with the **Natural Language Processing with Sequence Models** course from the **Natural Language Processing Specialization**.
