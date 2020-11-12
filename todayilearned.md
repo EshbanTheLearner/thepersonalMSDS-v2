@@ -4,6 +4,24 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 31 | October 22, 2020 | Thursday
+
+**Today's Progress:** Today I concluded the **Natural Language Processing with Sequence Models** course from the **Natural Language Processing Specialization**.
+
+**Description:** This includes the following:
+- Siamese Networks
+  - Computing the Cost - I
+  - Computing the Cost - II
+    - Mean Negative
+    - Closest Negative
+    - Hard Negative Mining
+  - One Shot Learning
+  - Training/Testing
+  - Programming Assignment
+    - Question Duplicates
+
+[Certificate | Natural Language Processing with Sequence Models](https://www.coursera.org/account/accomplishments/certificate/TAD5C76SKK4N)
+
 ### Day 30 | October 21, 2020 | Wednesday
 
 **Today's Progress:** Today I continued with the **Natural Language Processing with Sequence Models** course from the **Natural Language Processing Specialization**.
