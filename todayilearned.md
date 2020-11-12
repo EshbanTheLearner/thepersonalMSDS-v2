@@ -4,6 +4,26 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 25 | October 16, 2020 | Friday
+
+**Today's Progress:** Today I continued with the **Natural Language Processing with Sequence Models** course from the **Natural Language Processing Specialization**.
+
+**Description:** This includes the following:
+- Neural Networks for Sentiment Analysis
+  - Trax: Layers
+    - Classes
+    - Subclasses
+    - Instances
+  - Dense and ReLU Layers
+  - Serial Layer
+  - Other Layers
+    - Embedding Layer
+    - Mean Layer
+  - Training
+    - Gradients by `grad()`
+  - Programming Assignment
+    - Sentiment Analysis with Deep Neural Networks
+
 ### Day 24 | October 15, 2020 | Thursday
 
 **Today's Progress:** Today I enrolled in the **Natural Language Processing with Sequence Models** course from the **Natural Language Processing Specialization**.
