@@ -4,6 +4,27 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 28 | October 19, 2020 | Monday
+
+**Today's Progress:** Today I continued with the **Natural Language Processing with Sequence Models** course from the **Natural Language Processing Specialization**.
+
+**Description:** This includes the following:
+- LSTMs and Named Entity Recognition
+  - RNNs and Vanishing Gradients
+    - Advantages vs Disadvantages
+    - Exploding Gradients
+    - Identity RNN with ReLU Activation
+    - Gradient Clipping
+    - Skip Connections
+  - Introduction to LSTMs
+    - Basic LSTM Structure
+    - Applications of LSTMs
+  - Understanding LSTMs
+  - LSTM Architecture
+    - The Forget Gate
+    - The Input Gate
+    - The Output Gate
+
 ### Day 27 | October 18, 2020 | Sunday
 
 **Today's Progress:** Today I continued with the **Natural Language Processing with Sequence Models** course from the **Natural Language Processing Specialization**.
