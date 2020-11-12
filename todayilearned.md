@@ -4,6 +4,22 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 21 | October 12, 2020 | Monday
+
+**Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
+
+**Description:** This includes the following:
+- Conic Programming I
+  - Duality in Conic Programming
+  - Dual Conic Problem
+    - Weak Duality Theorem
+  - Strong Conic Duality and Complementarily Slackness
+  - Example
+    - Dual SDP Problem
+  - Minimax Problem
+  - Chebyshev Approximation
+  - Complex Valued Chebyshev Approximation
+
 ### Day 20 | October 11, 2020 | Sunday
 
 **Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
