@@ -4,6 +4,25 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 26 | October 17, 2020 | Saturday
+
+**Today's Progress:** Today I continued with the **Natural Language Processing with Sequence Models** course from the **Natural Language Processing Specialization**.
+
+**Description:** This includes the following:
+- N-Grams vs Sequence Models
+  - Traditional Language Models
+    - Large Corpus Requirements
+    - Large Space and RAM Requirements
+  - Recurrent Neural Networks
+    - Basic Structure
+    - Advantages
+  - Applications of RNNs
+    - One to One
+    - One to Many
+    - Many to One
+    - Many to Many
+  - Math in Simple RNNs
+
 ### Day 25 | October 16, 2020 | Friday
 
 **Today's Progress:** Today I continued with the **Natural Language Processing with Sequence Models** course from the **Natural Language Processing Specialization**.
