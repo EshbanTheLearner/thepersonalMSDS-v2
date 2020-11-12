@@ -4,6 +4,18 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 34 | October 25, 2020 | Sunday
+
+**Today's Progress:** Today I continued with the **Credit Risk Modeling in Python 2020** course on Udemy.
+
+**Description:** This includes the following:
+- Setting up the Working Environment
+- Data Description
+  - Lending Club Loan Data
+  - Dependant and Independant Variables
+    - Discrete and Continuous Variables
+    - Fine and Coarse Classing
+
 ### Day 33 | October 24, 2020 | Saturday
 
 **Today's Progress:** Today I enrolled in the **Credit Risk Modeling in Python 2020** course on Udemy.
