@@ -4,6 +4,23 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 23 | October 14, 2020 | Wednesday
+
+**Today's Progress:** Today I completed the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
+
+**Description:** This includes the following:
+- Conversion of Different Problems to SDP - II
+  - Conic Quadratic Programming via SDP
+    - Schur Complement
+  - Barrier Method for Conic Programming
+    - Barrier Aggregate
+    - Examples of Barriers
+  - Matrix Functions
+    - Eigenvalue Decomposition
+  - Gradient of Trace of Matrix Function
+  - Gradient of log det A
+  - Gradient of log det Barrier
+
 ### Day 22 | October 13, 2020 | Tuesday
 
 **Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
