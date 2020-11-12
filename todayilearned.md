@@ -4,6 +4,32 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 32 | October 23, 2020 | Friday
+
+**Today's Progress:** Today I enrolled in the **Credit Risk Modeling in Python 2020** course on Udemy.
+
+**Description:** This includes the following:
+- Introduction
+  - What is Credit Risk?
+    - Creditor 
+    - Debtor
+    - Credit Limit
+    - Interest
+    - Home Ownsership and Asset Financing
+    - Credit Risk
+    - Default Event
+    - The Global Financial Crisis 2008
+  - Expected Loss and its Components
+    - Types of Factors for Expected Loss
+      - Borrower-Specific Factors
+      - The Economic Environment
+    - Expected Credit Loss
+    - Probability of Default
+    - Loss Given Default
+    - Exposure at Default
+
+Udemy | [Credit Risk Modeling in Python 2020](https://www.udemy.com/course/credit-risk-modeling-in-python/)
+
 ### Day 31 | October 22, 2020 | Thursday
 
 **Today's Progress:** Today I concluded the **Natural Language Processing with Sequence Models** course from the **Natural Language Processing Specialization**.
