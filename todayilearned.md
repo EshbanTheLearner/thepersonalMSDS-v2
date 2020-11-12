@@ -4,6 +4,29 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 33 | October 24, 2020 | Saturday
+
+**Today's Progress:** Today I enrolled in the **Credit Risk Modeling in Python 2020** course on Udemy.
+
+**Description:** This includes the following:
+- Introduction
+  - Capital Adequacy / Regulatory Capital
+  - Capital Adequacy Ratio
+  - Basel II Accord
+    - Minimum Capital Requirements
+      - Credit Risk
+        - Standardized Approach
+        - Internal Ratings Based Approaches
+          - Foundation Internal Based Approache (F-IRB)
+          - Advanced Internal Based Approache (A-IRB)
+      - Operational Risk
+      - Market Risk
+    - Supervisory Review
+    - Market Discipline
+  - Different Facility Types
+  - Credit Risk Modeling Approaches
+
+
 ### Day 32 | October 23, 2020 | Friday
 
 **Today's Progress:** Today I enrolled in the **Credit Risk Modeling in Python 2020** course on Udemy.
