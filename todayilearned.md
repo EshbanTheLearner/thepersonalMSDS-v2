@@ -4,6 +4,26 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 24 | October 15, 2020 | Thursday
+
+**Today's Progress:** Today I enrolled in the **Natural Language Processing with Sequence Models** course from the **Natural Language Processing Specialization**.
+
+**Description:** This includes the following:
+- Neural Networks for Sentiment Analysis
+  - Introduction
+  - NN for Sentiment Analysis
+    - Neural Network Structure
+    - Forward Propagation
+    - Initial Representation
+  - Trax: Neural Networks
+    - Trax Highlights
+    - Advantages of Trax
+  - Why Trax?
+    - Makes programmers efficient
+    - Runs code fast
+
+Coursera | [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp)
+
 ### Day 23 | October 14, 2020 | Wednesday
 
 **Today's Progress:** Today I completed the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
