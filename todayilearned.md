@@ -4,6 +4,17 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 22 | October 13, 2020 | Tuesday
+
+**Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
+
+**Description:** This includes the following:
+- Conversion of Different Problems to SDP - I
+  - Lemma of Schur Complement
+  - Minimize Maximal Eigenvalue of Symmetric Matrix
+  - Linear Matrix Approximation
+  - Expression of Linear Programming via SDP
+
 ### Day 21 | October 12, 2020 | Monday
 
 **Today's Progress:** Today I continued with the **Algorithms for Non-Linear Optimization** course by **Michael Zibulevsky**.
