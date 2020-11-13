@@ -4,6 +4,24 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 51 | November 11, 2020 | Wednesday
+
+**Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 6 - Language Models and RNNs
+  - n-gram Language Model
+    - Sparsity Problem
+  - Neural Language Model
+    - Window-based Neural Model
+  - Recurrent Neural Networks
+    - Advantages and Disadvantages
+  - Training RNN Language Model
+  - Backpropagation for RNNs
+  - Evaluating Language Models
+    - Perplexity
+  - Applications
+
 ### Day 50 | November 10, 2020 | Tuesday
 
 **Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
