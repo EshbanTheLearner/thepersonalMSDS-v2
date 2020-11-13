@@ -4,6 +4,19 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 45 | November 5, 2020 | Thursday
+
+**Today's Progress:** Today I concluded the **Credit Risk Modeling in Python 2020** course on Udemy.
+
+**Description:** This includes the following:
+- Calculating Expected Loss
+  - Data Prep
+    - Train-Test Split
+    - Dummy Variables
+  - Estimate Recovery Rate
+  - Total Expected Loss on Portfolio Level
+- Summary
+
 ### Day 44 | November 4, 2020 | Wednesday
 
 **Today's Progress:** Today I continued with the **Credit Risk Modeling in Python 2020** course on Udemy.
