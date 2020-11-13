@@ -4,6 +4,30 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 50 | November 10, 2020 | Tuesday
+
+**Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 5 - Dependency Parsing
+  - Syntactic Structure: Consistency and Dependency
+    - Context Free Grammers (CFGs)
+    - Prepositional Phrase Attachment Ambiguity
+    - Coordination Scope Ambiguity
+    - Adjectival Modifier Ambiguity
+    - Verb Phrase Attachment Ambiguity
+  - Dependency Grammer
+  - Universal Dependencies Treebanks
+  - Dependency Conditioning Preferences
+    - Bilexical Affinities
+    - Dependency Distance
+    - Intervening Material
+    - Valency of Heads
+  - Transition Based Dependency Parsing
+    - MaltParser - Nivre and Hall 2005
+  - Neural Dependency Parsing
+    - Model Architecture
+
 ### Day 49 | November 9, 2020 | Monday
 
 **Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
