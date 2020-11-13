@@ -4,6 +4,26 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 48 | November 8, 2020 | Sunday
+
+**Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 3 - Neural Networks
+  - Classification Review/Introduction
+    - Softmax Classifier
+    - Cross-Entropy Loss
+  - Neural Network Introduction
+    - Intuition
+    - Classification Difference with Word Vectors
+    - Matrix Notations for a Layer
+    - Non-Linearities
+  - Named Entity Recognition
+    - NER on Word Sequences
+  - Binary Word Window Classification
+  - Computing Gradients
+    - Jacobian Matrix
+
 ### Day 47 | November 7, 2020 | Saturday
 
 **Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
