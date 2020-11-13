@@ -4,6 +4,31 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 53 | November 13, 2020 | Friday
+
+**Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 8a - Translation, Seq2Seq, Attention
+  - Rule-Based Machine Translation
+  - Statistical Machine Translation
+    - Baye's Rule
+    - Alignment
+    - Decoding
+  - Neural Machine Translation
+  - Sequence2Sequence (Seq2Seq) Model
+    - Encoder RNN
+    - Decoder RNN
+  - Seq2Seq Versatility
+    - Summarization
+    - Dialogue
+    - Parsing
+    - Code Generation
+  - Training a Neural Machine Translation System
+    - Greedy Decoding
+    - Exhaustive Search Decoding
+    - Beam Search Decoding
+
 ### Day 52 | November 12, 2020 | Thursday
 
 **Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
