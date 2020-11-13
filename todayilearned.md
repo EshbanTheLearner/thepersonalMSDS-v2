@@ -4,6 +4,31 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 52 | November 12, 2020 | Thursday
+
+**Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 7 - Vanishing Gradient, Fancy RNNs
+  - Vanishing Gradient
+    - Intuition
+    - Mathematical Proof
+  - Why Vanishing Gradient is a Problem?
+  - Effects of Vanishing Gradient on RNN-LM
+    - Syntactic Recency
+    - Sequential Recency 
+  - Exploding Gradient
+    - Gradient Clipping
+  - Solution to Vanishing Gradient
+  - Long Short-Term Memory (LSTM)
+  - Gated Recurrent Units (GRU)
+  - LSTMs vs GRUs
+  - Residual Connections
+  - Dense Connections
+  - Highway Connections
+  - Bidirectional RNNs
+  - Multi-Layer RNNs
+
 ### Day 51 | November 11, 2020 | Wednesday
 
 **Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
