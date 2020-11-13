@@ -4,6 +4,34 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 54 | November 14, 2020 | Saturday
+
+**Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 8b - Translation, Seq2Seq, Attention
+  - Advantages and Disadvantages of Neural Machine Translation
+  - Evaluating NMT Systems
+    - BLEU
+  - Problems with Machine Translation
+    - Out of Vocabulary Words
+    - Domain Mismatch
+    - Maintaining Context
+    - Low-Resource Language Pairs
+    - Gender Biases
+  - Seq2Seq - The Bottleneck Problem
+  - Attention
+    - Solution to the Bottleneck Problem
+    - Helps with Vanishing Gradients
+    - Comparatively Interpretable
+  - Seq2Seq with Attention
+  - Attention as General Deep Learning Technique
+  - Attention Variants
+    - Basic Dot Product Attention
+    - Multiplicative Attention
+    - Additive Attentions
+
+
 ### Day 53 | November 13, 2020 | Friday
 
 **Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
