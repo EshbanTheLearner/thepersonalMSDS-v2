@@ -4,6 +4,29 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 46 | November 6, 2020 | Friday
+
+**Today's Progress:** Today I started the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 1 - Introduction and Word Vectors
+  - Human Language 
+  - Word Meaning
+    - Denotational Semantics
+      - WordNet - Advantages and Disadvantages
+    - Distributional Semantics
+      - Word2Vec
+  - Word2Vec Introduction
+    - Skip-Grams
+    - Continuous Bag of Words
+  - Word2Vec Objective Function Gradients
+  - Optimization Basics
+    - Gradient Descent
+    - Stochastic Gradient Descent
+  - Looking at Word Vectors
+
+[YouTube | Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+
 ### Day 45 | November 5, 2020 | Thursday
 
 **Today's Progress:** Today I concluded the **Credit Risk Modeling in Python 2020** course on Udemy.
