@@ -4,6 +4,24 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 42 | November 2, 2020 | Monday
+
+**Today's Progress:** Today I continued with the **Credit Risk Modeling in Python 2020** course on Udemy.
+
+**Description:** This includes the following:
+- Applying PD Model for Decision Making	
+  - Calculating Probability of Default for a single Customer
+  - Creating a Scorecard
+  - Calculating Credit Score
+  - From Credit Score to PD
+  - Setting Cut-Offs
+- Loss Given Default (LGD) and Exposure at Default (EAD) Models
+  - Independent Variables
+  - Dependent Variables
+  - Distribution of Recovery Rates and Credit Conversion Factors
+    - Beta Distribution
+    - Beta Regression
+
 ### Day 41 | November 1, 2020 | Sunday
 
 **Today's Progress:** Today I continued with the **Credit Risk Modeling in Python 2020** course on Udemy.
