@@ -4,6 +4,19 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 40 | October 31, 2020 | Saturday
+
+**Today's Progress:** Today I continued with the **Credit Risk Modeling in Python 2020** course on Udemy.
+
+**Description:** This includes the following:
+- Probability of Default (PD) Model Estimation
+  - Logistic Regression with Dummy Variables
+    - Logistic vs Linear
+    - Odds
+    - Interpretting Coefficients of Logistic Regression
+  - Logistic Regression with P-Values
+  - Interpretting PD Model Coefficients
+
 ### Day 39 | October 30, 2020 | Friday
 
 **Today's Progress:** Today I continued with the **Credit Risk Modeling in Python 2020** course on Udemy.
