@@ -4,6 +4,38 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 47 | November 7, 2020 | Saturday
+
+**Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 2 - Word Vectors and Word Senses
+  - Optimization Basics
+    - Gradient Descent
+    - Stochastic Gradient Descent
+  - Word2Vec Review
+    - Skip-Grams
+    - Continuous Bag of Words
+    - Negative Sampling
+    - Unigram Distribution
+  - Can we capture this essence more effectively by counting?
+    - Co-Occurence Matrix
+      - Window
+      - Full Document
+    - Problems and Solutions
+    - Singular Value Decomposition (SVD)
+  - The GloVe Model of Word Vectors
+    - Count Based vs Direct Prediction
+    - Encoding Meaning in Vector Differences
+    - Log-Bilinear Model with Vector Differences
+    - GloVe
+  - Evaluating Word Vectors
+    - Intrinsic 
+      - Word Vector Analogies
+      - Human Judgement
+      - Correlation Judgement
+    - Extrinsic
+
 ### Day 46 | November 6, 2020 | Friday
 
 **Today's Progress:** Today I started the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
