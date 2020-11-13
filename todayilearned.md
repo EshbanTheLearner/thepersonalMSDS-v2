@@ -4,6 +4,25 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 36 | October 27, 2020 | Tuesday
+
+**Today's Progress:** Today I continued with the **Credit Risk Modeling in Python 2020** course on Udemy.
+
+**Description:** This includes the following:
+- Probability of Default (PD) Model Data Prep
+  - Intro to PD Model
+    - Dependant Variables
+    - Default Definition
+    - Logistic Regression
+    - Interpretability
+  - Dependant Variable
+  - Information Value
+    - Weight of Evidence
+  - Data Prep
+    - Train-Test Split
+
+[Relevant Codebase](https://github.com/EshbanTheLearner/thepersonalmsds/tree/master/codebase)
+
 ### Day 35 | October 26, 2020 | Monday
 
 **Today's Progress:** Today I continued with the **Credit Risk Modeling in Python 2020** course on Udemy.
