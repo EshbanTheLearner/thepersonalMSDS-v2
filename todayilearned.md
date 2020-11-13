@@ -4,6 +4,19 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 44 | November 4, 2020 | Wednesday
+
+**Today's Progress:** Today I continued with the **Credit Risk Modeling in Python 2020** course on Udemy.
+
+**Description:** This includes the following:
+- Exposure at Default (EAD) Model
+  - Data Prep
+    - Train-Test Split
+    - Selecting Reference Categories
+  - Model Training
+    - Linear Regression
+  - EAD Model Validation
+
 ### Day 43 | November 3, 2020 | Tuesday
 
 **Today's Progress:** Today I continued with the **Credit Risk Modeling in Python 2020** course on Udemy.
