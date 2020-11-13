@@ -4,6 +4,27 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 49 | November 9, 2020 | Monday
+
+**Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 4 - Backpropagation
+  - Matrix Gradients for Simple Neural Network
+  - Computation Graphs
+  - Backpropagation
+    - Upstream Gradient
+    - Local Gradient
+    - Downstream Gradient
+  - Automatic Differentiation
+  - Regularization
+  - Overfitting
+  - Vectorization
+  - Nonlinearities
+  - Initialization
+  - Optimizers
+  - Learning Rates
+
 ### Day 48 | November 8, 2020 | Sunday
 
 **Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
