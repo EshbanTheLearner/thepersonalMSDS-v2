@@ -4,6 +4,19 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 41 | November 1, 2020 | Sunday
+
+**Today's Progress:** Today I continued with the **Credit Risk Modeling in Python 2020** course on Udemy.
+
+**Description:** This includes the following:
+- PD Model Validation
+  - Out of Sample Validation
+  - Model Evaluation
+    - Accuracy
+    - Recall and Precision
+    - ROC-AUC
+  - Gini Coefficient and Kolmogorov-Smirnov Statistic
+
 ### Day 40 | October 31, 2020 | Saturday
 
 **Today's Progress:** Today I continued with the **Credit Risk Modeling in Python 2020** course on Udemy.
