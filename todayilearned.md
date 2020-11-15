@@ -4,6 +4,25 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 55 | November 15, 2020 | Sunday
+
+**Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 9 - Practical Tips for Projects
+  - Final Project Types and Details
+  - Finding Research Topics
+    - Project Types
+  - Finding Data
+    - [Linguistic Data Consortium](https://catalog.ldc.upenn.edu/)
+    - [Statistical Machine Translation](http://statmt.org/)
+    - [Dependency Parsing: Universal Dependencies](https://universaldependencies.org/)
+    - Kaggle
+    - arXiv
+  - Doing Research
+    - Experimental Strategies
+  - Presenting your Results and Evaluation
+
 ### Day 54 | November 14, 2020 | Saturday
 
 **Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
