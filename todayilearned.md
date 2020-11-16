@@ -4,6 +4,34 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 56 | November 16, 2020 | Monday
+
+**Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 10 - Textual Question Answering
+  - Motivation
+  - Brief History of Reading Comprehension
+    - Machine Comprehension
+      - MCTest Reading Comprehension
+    - Supervised Neural Systems
+      - DeepMind CNN/DM Dataset
+      - SQuAD
+      - MS MARCO, TriviaQA, NewsQAm NarrativeQA,...
+  - Stanford Question Answering Dataset (SQuAD)
+    - SQuAD Evaluation (v1.1)
+      - Exact Match
+      - F1 Score
+    - SQuAD 2.0
+    - Limitations
+  - Stanford Attentive Reader
+  - Stanford Attentive Reader++
+  - Bi-Directional Attention Flow for Machine Comprehension
+    - Attention Flow Layer
+    - Context-to-Question Attention
+  - FusionNet
+  - ELMo and BERT Preview
+
 ### Day 55 | November 15, 2020 | Sunday
 
 **Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
