@@ -4,6 +4,34 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 57 | November 17, 2020 | Tuesday
+
+**Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 11 - Convolutions Networks for NLP
+  - Convolutional Neural Networks
+    - Discrete Convolution
+    - 1D Convolution for Text
+    - Filter/Kernel
+    - Padding
+    - Max/Min/Local/K-Max Pooling
+    - Stride
+    - Dilated Convolution
+  - Single Layer CNN for Text Classification
+    - Pooling and Channels
+    - Multi-Channel Input Idea
+    - Regularization and Dropout
+  - Gated Units used Vertically
+    - Residual Block
+    - Highway Block
+  - Batch Normalization
+  - 1x1 Convolutions
+  - CNN in Machine Translation
+  - Very Deep CNN for Text Classification
+    - Concolutional Block
+  - Quasi-Recurrent Neural Networks
+
 ### Day 56 | November 16, 2020 | Monday
 
 **Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
