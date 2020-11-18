@@ -4,6 +4,36 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 58 | November 18, 2020 | Wednesday
+
+**Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 12 - Subword Models
+  - Human Language
+    - Phonetics and Phonology
+    - Categorical Preception
+    - Morphology - Parts of Words
+  - Writing Systems
+    - Phonemic (maybe digraphs)
+    - Fossilized Phonemic
+    - Syllabic/Moraic
+    - Ideographic (Syllabic)
+    - Combination of above
+  - Character-Level Models
+  - Character-Level NMT Models
+  - Two Trends of Sub-Word Models
+    - Same Architecture
+    - Hybrid Architecture
+  - Byte Pair Encoding
+  - Wordpiece/Sentencepiece Model
+  - Character-based LSTM
+  - Character-Aware Neural Language Models
+  - Hybrid NMT
+  - Characters for Word Embeddings
+    - FastText Embeddings
+
+
 ### Day 57 | November 17, 2020 | Tuesday
 
 **Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
