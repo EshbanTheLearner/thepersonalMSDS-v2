@@ -4,6 +4,27 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 59 | November 19, 2020 | Thursday
+
+**Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 13 - Contextual Word Embeddings
+  - Reflections on Word Representations
+  - Context-Free vs Contextual Similarity
+  - TagLM
+  - Embeddings from Language Models (ELMo)
+  - Universal Language Model Fine-Tuning (ULMfit)
+  - Transformer Models
+    - Dot Product Attention
+    - Scaled Dot Product Attention
+    - Multi-head Attention
+    - Positional Encoding
+  - Bidirectional Encoder Representations from Language (BERT)
+    - Sentence Pair Encoding
+    - Architecture and Training
+    - Fine Tuning
+
 ### Day 58 | November 18, 2020 | Wednesday
 
 **Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
