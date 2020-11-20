@@ -4,6 +4,48 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 60 | November 20, 2020 | Friday
+
+**Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 14 - Transformers and Self-Attention
+  - Self-Attention for Generative Models
+  - Learning Representations of Variabel Length Data
+  - Recurrent Neural Networks
+  - Convolutional Neural Networks
+  - Attention
+  - Self-Attention
+  - Text Generation
+    - Self-Attention
+    - The Transformer
+    - Encoder Self-Attention
+    - Multi-Head Attention
+    - Frameworks
+  - Images
+    - Self-Similarity
+    - Probabilistic Image Generation
+    - Texture Synthesis with Self-Similarity
+    - Non-Local Means
+    - The Image Transformer
+    - Uncoditional Image Generation
+    - Conditional Image Generation
+  - Music Generation
+    - Music Language Model
+    - Relative Attention
+  - Convolutional and Translational Equivariance
+  - Relative Positions Translational Equivariance
+  - Relative Attention and Graphs
+  - Message Passing Neural Networks
+  - Less Autoregressive Generation
+  - Current Research
+    - Self-Supervision and Classification for Images and Videos
+    - Understanding Transfer
+  - Future Goals
+    - Multitask Learning
+    - Long-range Attention
+
+
 ### Day 59 | November 19, 2020 | Thursday
 
 **Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
