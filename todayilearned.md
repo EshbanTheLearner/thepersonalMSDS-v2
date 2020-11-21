@@ -4,6 +4,55 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 61 | November 21, 2020 | Saturday
+
+**Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 15 - Natural Language Generation
+  - Language Modeling
+    - RNN-LM
+  - Conditional Language Modeling
+  - Decoding Algorithms
+    - Greedy Decoding
+    - Beam Search
+    - Sampling-based Decoding
+      - Pure Sampling
+      - Top-N Sampling
+    - Softmax Temperature
+  - Summarization
+    - Single-Document vs Multi-Document
+    - Sentence Simplification
+    - Extractive vs Abstractive Summarization
+    - Pre-Neural Summarization
+    - Recall-Oriented Understanding for Gisting Evaluation (ROUGE)
+    - Neural Summarization
+      - Hierarchical/Multi-level Attention
+      - Copying Mechanism
+      - Bottom-Up Summarization
+      - Neural Summarization via Reinforcement Learning
+  - Dialogue
+    - Task Oriented Dialogue
+      - Assistive
+      - Co-operative
+      - Adversarial
+    - Social Dialogue
+    - Pre-Neural Dialogue
+    - Seq2Seq-based Dialogue
+  - Storytelling
+    - Skip-Thought Vectors
+  - NLG Evaluation
+    - Word Overlap Based Metrics
+    - Perplexity
+    - Word Embedding Based Metrics
+    - Human Evaluation
+  - NLG Research
+    - Current Trends
+      - Incorporating Discrete Latent Variables into NLG
+      - Alternatives to strict left-to-right generation
+      - Alternative to maximum likelihood training with teacher forcing
+      
+
 ### Day 60 | November 20, 2020 | Friday
 
 **Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
