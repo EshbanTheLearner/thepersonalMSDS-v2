@@ -49,8 +49,8 @@
   - NLG Research
     - Current Trends
       - Incorporating Discrete Latent Variables into NLG
-      - Alternatives to strict left-to-right generation
-      - Alternative to maximum likelihood training with teacher forcing
+      - Alternatives to Strict Left-to-Right Generation
+      - Alternative to Maximum Likelihood Training with Teacher Forcing
       
 
 ### Day 60 | November 20, 2020 | Friday
