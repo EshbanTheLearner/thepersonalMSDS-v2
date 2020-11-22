@@ -4,6 +4,31 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 62 | November 22, 2020 | Sunday
+
+**Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 16 - Coreference Resolution
+  - What is Coreference Resolution?
+  - Applications
+    - Full Text Understanding
+    - Machine Translation
+    - Dialogue Systems
+  - Mention Detection
+  - Coreference vs Anaphora
+    - Pronominal Anaphora
+  - Anaphora vs Cataphora
+  - Kinds of Coreference Models
+    - Rule-based (Pronominal Anaphora Resolution)
+      - Hobbs Naive Algorithm
+      - Knowledge-based Pronominal Coreference - Winograd Schema
+    - Mention Pair
+    - Mention Ranking
+    - Clustering
+      - Agglomerative Cluster
+  - Coreference Evaluation
+
 ### Day 61 | November 21, 2020 | Saturday
 
 **Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
