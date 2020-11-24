@@ -4,6 +4,32 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 63 | November 23, 2020 | Monday
+
+**Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 17 - Multitask Learning
+  - Limits of Single-Task Learning
+  - Pre-training
+    - Computer Vision
+      - ImageNet + CNN
+    - NLP
+      - Word2Vec, GloVe, CoVe, ELMo, BERT
+  - Unified Multitask Model
+  - 3 Equivalent Supertasks of NLP
+    - Language Modeling
+    - Question Answering
+    - Dialogue
+  - The Natural Language Decathlon (decaNLP)
+  - Multitask Learning as Question Answering
+    - Meta-Supervised Learning
+    - Multitask Question Answering Network (MQAN)
+    - Evaluation
+  - Training Strategies
+    - Fully Joint
+    - Anti-Curriculum Pre-Training
+
 ### Day 62 | November 22, 2020 | Sunday
 
 **Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
