@@ -4,6 +4,33 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 64 | November 24, 2020 | Tuesday
+
+**Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 18 - Constituency Parsing, TreeRNNs
+  - The Spectrum of Language in CS
+  - Semantic Interpretation of Language
+  - Are languages recursive?
+  - Constituency Parsing
+  - Recurrent vs Recursive Neural Networks
+  - Recursive Neural Networks for Structure Prediction
+    - Definition
+    - Greedy Parsing
+    - Max-Margin Framework
+  - Backpropagation through Structure
+  - Simple TreeRNN
+  - Syntactically-Untied RNN
+  - Compositional Vector Grammars
+  - Compositionality Through Recursive Matrix-Vector Spaces
+    - Predicting Sentiment Distribution
+    - Classification of Semantic Relationships
+  - Recursive Neural Tensor Network
+    - Sentiment Detection
+    - Stanford Sentiment Treebank
+    - Negation Results
+
 ### Day 63 | November 23, 2020 | Monday
 
 **Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
