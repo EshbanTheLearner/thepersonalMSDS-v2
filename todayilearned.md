@@ -4,6 +4,44 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 65 | November 25, 2020 | Wednesday
+
+**Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 19 - Bias in AI
+  - Prototype Theory
+  - World Learning from Text
+  - Human Reporting Bias
+  - Human Biases in Data
+    - Biases in Data
+    - Out-Group Homogeneity Bias
+  - Human Biases in Collection and Annotation
+  - Biases in Interpretation
+    - Confirmation Bias
+    - Overgeneralization
+    - Correlation Fallacy
+    - Automation Bias
+  - Examples
+    - Predictive Policing
+    - Predictive Sentencing
+    - Predicting Criminality
+    - Predicting Homosexuality
+  - Measuring Algorithmic Bias
+    - Evaluate for Fariness and Inclusion
+      - Disaggregated Evaluation
+      - Intersectional Evaluation
+  - Datasheets for Datasets
+  - Bias Mitigation
+  - Inclusion
+    - Multitask Learning
+  - Multitask Adversarial Learning
+  - Case Study
+    - Conversation AI Toxicity
+      - Unintended Bias
+      - Measuring Unintended Bias
+  - Model Cards for Model Reporting
+
 ### Day 64 | November 24, 2020 | Tuesday
 
 **Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
