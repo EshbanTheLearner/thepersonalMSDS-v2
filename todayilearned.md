@@ -4,6 +4,33 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 66 | November 26, 2020 | Thursday
+
+**Today's Progress:** Today I completed the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
+
+**Description:** This includes the following:
+- Lecture 20 - Future of NLP and Deep Learning
+  - Success of Deep Learning 
+  - Harnessing Unlabeled Data
+  - Machine Translation
+    - Pre-Training
+    - Self-Trainig
+    - Back-Translation
+  - Unsupervised Word Translation
+    - Cross-Lingual Word Embeddings
+  - Unsupervised Machine Translation
+  - Attribute Transfer
+  - Cross-Lingual BERT
+  - Huge Models and GPT-2
+  - Training Huge Models
+    - Better Hardware
+      - GPU
+      - TPU
+    - Parallelism
+      - Data
+      - Model
+
+
 ### Day 65 | November 25, 2020 | Wednesday
 
 **Today's Progress:** Today I continued the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
