@@ -8,7 +8,7 @@
 
 **Today's Progress:** Today I started the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
 
-**Class 1 - Intro and Key Technologicla Trends Affecting Financial Services**
+**Class 1 - Intro and Key Technological Trends Affecting Financial Services**
 - Financial World
   - Functions
   - Sectors
