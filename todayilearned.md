@@ -4,6 +4,35 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 67 | November 27, 2020 | Fridady
+
+**Today's Progress:** Today I started the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
+
+**Class 1 - Intro and Key Technologicla Trends Affecting Financial Services**
+- Financial World
+  - Functions
+  - Sectors
+  - Data
+  - Funding & Risk Management
+  - Risks
+  - User Experience & User Interface
+- FinTech - Technologies of our Times
+- Customer Interface
+- Funding & Risk Management
+- FinTech - Finance's Fertile Ground
+- FinTech - Disruptive Potential
+- AI & Machine Learning
+- AI & Machine Learning - Finance
+- Open API & Open Banking
+- Blockchain Tech Potential Uses
+- FinTech - The Actors
+  - Big Finance
+  - Big Tech DNA Loop (BIS)
+  - Start-ups
+  - Official Sectors
+
+[YouTube | MIT 15.S08 FinTech: Shaping the Financial World](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_RVDn6srWbLV_zFnd9n0)
+
 ### Day 66 | November 26, 2020 | Thursday
 
 **Today's Progress:** Today I completed the **Stanford CS224N: NLP with Deep Learning** course by Christopher Manning on YouTube.
