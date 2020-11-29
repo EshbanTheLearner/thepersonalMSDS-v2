@@ -4,7 +4,31 @@
 
 ## Part - II (22 September 2020 - Continued)
 
-### Day 67 | November 27, 2020 | Fridady
+### Day 68 | November 28, 2020 | Saturday
+
+**Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
+**Class 2 - Artificial Intelligence, Machine Learning and Deep Learning**
+- Intro to AI, ML and DL
+- Alternative Data
+- AI and ML in Finance
+  - Asset Management
+  - Call Centers, Chatbots, Robo-Advising and Virtual Assistants
+  - Credit and Insurance
+    - Allocation, Extension, Pricing and Scoring
+  - Fraud Detection and Prevention
+  - Regulatory
+    - Anti Money Laundering
+    - Anti Manipulation
+  - Risk Management and Underwriting
+  - Robotic Process Automation
+  - Trading
+- Natural Language Processing in Finance
+  - Customer Services
+    - Chatbots, Coversational Interfaces and Voice Assistants
+  - Process Automation
+  - Sentiment Analysis
+
+### Day 67 | November 27, 2020 | Friday
 
 **Today's Progress:** Today I started the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
 
