@@ -4,9 +4,39 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 69 | November 29, 2020 | Sunday
+
+**Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
+
+**Class 3 - Artificial in Intelligence Finance**
+- Finance Technology Stack
+- AI and ML in Finance
+- AI as a Tool vs AI as a Service
+- Case Study
+  - Credit Karma
+  - Plaid
+- Finance Public Policy Framework
+  - Money and Lending
+  - Financial Stability
+  - Protecting the Consumer and Investing Public
+  - Gaurding Against Illicit Activity
+- AI Policy and Finance
+  - Biases, Fairness and Inclusion
+  - Explainability, Transparency and Auditability
+  - Privacy and Data Ownership
+  - Use of Alternative Data
+  - Algorithmic Correlation or Collusion
+  - Resiliency vs Fragility
+  - Risk Management and Oversight
+- FinTech Policy Alternatives
+- AI and U.S. Consumer Credit Laws
+- AI and Privacy Laws
+- AI, Finance and Geopolitics
+
 ### Day 68 | November 28, 2020 | Saturday
 
 **Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
+
 **Class 2 - Artificial Intelligence, Machine Learning and Deep Learning**
 - Intro to AI, ML and DL
 - Alternative Data
