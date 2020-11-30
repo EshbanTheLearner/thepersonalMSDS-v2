@@ -4,6 +4,26 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 70 | November 30, 2020 | Monday
+
+**Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
+
+**Class 4 - Open APIs and Marketing Channels**
+- Application Program Interface
+  - Local APIs
+  - Web APIs
+  - Program APIs
+- API Service Providers - Non-Finance
+- Finance Customer Interface
+- Open API and Open Banking
+- Data Aggregators
+- Financial Data Exchange
+- Robotic Process Automation
+  - Account Opening and Onboarding
+  - Loan Processing
+  - Report Generation
+  - Screen Scrapping
+
 ### Day 69 | November 29, 2020 | Sunday
 
 **Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
