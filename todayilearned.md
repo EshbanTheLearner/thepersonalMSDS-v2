@@ -4,6 +4,40 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 71 | December 1, 2020 | Tuesday
+
+**Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
+
+**Class 5 - Blockchain Technology and Cryptocurrencies**
+- The Internet and the Payment Riddle
+  - Early Cryptographic Digital Currencies
+  - Early Digital and Mobile Payment Solutions
+- Money
+  - Plato
+  - Aristotle
+  - Modern Characteristics
+  - Role of Money
+  - Fiat Currencies
+- Satoshi Makamotot's Innovation
+  - Blockchain Technology
+    - Smart Contracts
+- Crypto Markets
+  - Crypto Token Sectors
+    - Payment/Store of Value Tokens
+    - Platform Tokens
+    - DApp Tokens
+    - Stable Value Tokens
+    - Tokenized Securities and Assets
+- Blockchain Technology Use Cases
+  - Speculative Investing
+  - Crowdfunding through Initial Coin Offerings
+  - Tokens for Exchanges, Gaming, Gambling, DeFi and File Sharing
+  - Tokenized Fiat (Stable Value Coins), Securities and Assets
+- Vitalik Buterin Trilemma
+- Challenges and Assessing Viability of Use Cases
+- Central Bank Digital Currencies
+- Ground Truths
+
 ### Day 70 | November 30, 2020 | Monday
 
 **Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
