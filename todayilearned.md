@@ -4,6 +4,20 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 74 | December 4, 2020 | Friday
+
+**Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
+**Class 8 - Challenger Banks**
+- FICO Scores
+- Alternative Data
+- Alternative Data in FinTech Landscape
+- Challenges of Traditional Banking
+- History of Online Banking
+- Neo and Challenger Banks
+- Product Offerings
+- Challenger Bank Valuations
+- Traditional Banks Mobile Offerings
+
 ### Day 73 | December 3, 2020 | Thursday
 
 **Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
