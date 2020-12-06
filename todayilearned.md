@@ -4,6 +4,26 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 72 | December 2, 2020 | Wednesday
+
+**Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
+**Class 6 - Payments**
+- Payment Systems
+- Payment Trends
+  - Global
+  - North America
+- Payment System Pain Points
+- Credit Card Transaction Breakdown
+- Real Time Gross Settlements (RTGS)
+- Payment Companies Landscape
+- Stablecoins and Messaging App Crypto Projeccts
+  - Retail Stable Value Tokens
+  - Wholesale Stable Value Token Projects
+  - Messaging App Token Projects
+- Payment Cryptocurrency Tokens
+- Tokenization Goals
+- Facebook Libra and China DCEP
+
 ### Day 71 | December 1, 2020 | Tuesday
 
 **Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
