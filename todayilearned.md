@@ -4,6 +4,38 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 73 | December 3, 2020 | Thursday
+
+**Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
+**Class 7 - Credit and Lending**
+- Facebook Libra vs China DCEP
+- Libra 2.0
+- Credit Sectors
+  - Household
+  - Corporate
+- Household Debt as Percent of GDP
+- Total Debt Balance and its Composition
+- Non Financial Corporate Debt as Percent of GDP
+- Credit and Lending - Market Design
+  - Data
+  - Funding
+  - Marketing Channels
+  - Risks
+  - Roles
+- Credit Cards
+- Disruptive Tech Across Credit Value Chains
+- FinTech - Payment and Credit
+  - BigTech
+  - Payment Unicorns
+  - Credit Unicorns
+- FinTech SME Lending Companies
+- FinTech Personal Loan Companies
+- Private Student Loan Originators
+- Marketplace Lending
+- China Peer to Peer Lending
+- Credit Scoring
+- Professionalism and Academic Integrity
+
 ### Day 72 | December 2, 2020 | Wednesday
 
 **Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
