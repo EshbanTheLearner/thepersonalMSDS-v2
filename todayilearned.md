@@ -4,6 +4,21 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 77 | December 7, 2020 | Monday
+
+**Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
+**Class 11 - Coronavirus Crisis and Finance**
+- Financial Sector Crises
+- 2008 Financial Crisis
+  - Post Crisis Reform
+- FinTech - Finance's Fertile Ground
+- Coronaviruas Impact
+  - Big Finance
+  - Big Tech
+  - FinTech Startups
+- Additional Opportunities
+- Additional Challenges
+
 ### Day 76 | December 6, 2020 | Sunday
 
 **Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
