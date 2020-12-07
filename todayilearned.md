@@ -4,6 +4,25 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 75 | December 5, 2020 | Saturday
+
+**Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
+**Class 9 - Trading and Capital Markets**
+- Online Brokerage Company Landscape
+- Mobile Trading 
+  - App Comparison
+- Online Brokerage Recent Developments
+- Commision Rates Long Distance
+- Zero Commision Revenue Models
+- Robo Advisors Company Lanscape
+- Robo Advisory Possible Evolution
+- Capital Markets FinTech
+- Capital Markets FinTech Startups
+- Cypto Exchanges
+- Crypto Lending and Borrow
+- Traditional vs Decentralized Finance
+- Crypto DeFi Platforms
+
 ### Day 74 | December 4, 2020 | Friday
 
 **Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
