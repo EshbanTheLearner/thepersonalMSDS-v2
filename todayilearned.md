@@ -4,6 +4,38 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 76 | December 6, 2020 | Sunday
+
+**Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
+**Class 10 - Insurance**
+- Insurance Value Chain
+- Insurance Sector Landscape
+  - Linfe Insurance
+  - Property and Casualty
+  - Health and Managed Care
+  - Diversified
+  - Reinsurance Companies
+  - Brokers
+  - Benefits Administration
+  - Claims Administration
+  - Software or Service
+- Insurance Sector Challenges
+- InsurTech Opportunities
+- InsurTech Emerging Technologies
+- InsurTech Challenges
+  - Funding
+  - Competitive Landscape
+  - Regulatory Framework
+  - Uer Adoption
+- InsurTech Business Models
+  - Licensed Insurer
+  - Managed General Agent
+  - Technology Service Provider
+  - Data Aggregator
+- InsurTech Startups
+- Health InsurTech Startups
+- Data Related InsurTech Startups
+
 ### Day 75 | December 5, 2020 | Saturday
 
 **Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
