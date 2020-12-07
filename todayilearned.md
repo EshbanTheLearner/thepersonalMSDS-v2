@@ -7,6 +7,7 @@
 ### Day 77 | December 7, 2020 | Monday
 
 **Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
+
 **Class 11 - Coronavirus Crisis and Finance**
 - Financial Sector Crises
 - 2008 Financial Crisis
@@ -22,6 +23,7 @@
 ### Day 76 | December 6, 2020 | Sunday
 
 **Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
+
 **Class 10 - Insurance**
 - Insurance Value Chain
 - Insurance Sector Landscape
@@ -54,6 +56,7 @@
 ### Day 75 | December 5, 2020 | Saturday
 
 **Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
+
 **Class 9 - Trading and Capital Markets**
 - Online Brokerage Company Landscape
 - Mobile Trading 
@@ -73,6 +76,7 @@
 ### Day 74 | December 4, 2020 | Friday
 
 **Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
+
 **Class 8 - Challenger Banks**
 - FICO Scores
 - Alternative Data
@@ -87,6 +91,7 @@
 ### Day 73 | December 3, 2020 | Thursday
 
 **Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
+
 **Class 7 - Credit and Lending**
 - Facebook Libra vs China DCEP
 - Libra 2.0
@@ -119,6 +124,7 @@
 ### Day 72 | December 2, 2020 | Wednesday
 
 **Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
+
 **Class 6 - Payments**
 - Payment Systems
 - Payment Trends
