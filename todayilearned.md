@@ -4,6 +4,37 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 78 | December 8, 2020 | Tuesday
+
+**Today's Progress:** Today I concluded the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
+
+**Class 12 - Conclusion**
+- FinTech Stack
+  - Customer Interface
+  - Funding and Risk Management
+- Finance - The Actors
+  - Big Finance
+  - Big Tech
+  - Startups
+  - Official Sector
+- AI and Machine Learning in Finance
+  - AI as a Tool
+  - AI as a Service
+- Natural Language Processing in Finance
+- Open API and Open Banking
+- Robotic Process Automation
+- FICO Scores
+- Alternative Data
+- Blockchain Technology and Cryptocurrencies
+- FinTech - Payments
+- Credit and Lending
+- FinTech - Capital Markets
+- InsurTech
+  - Opportunities
+  - Sector Challenges
+- Coronavirus Crisis and FinTech Startups
+
+
 ### Day 77 | December 7, 2020 | Monday
 
 **Today's Progress:** Today I continued with the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
