@@ -4,6 +4,33 @@
 
 ## Part - II (22 September 2020 - Continued)
 
+### Day 79 | December 9, 2020 | Wednesday
+
+**Today's Progress:** Today I started the **Data Visualization: Storytelling** course by Bill Shander on LinkedIn Learning.
+
+**Description:** This includes the following:
+- Introduction
+  - The Art of Storytelling
+- Why Storytelling?
+  - Humans are Wired for Storytelling
+    - Stories are a Survival Mechanism
+    - Think like a Storyteller
+    - Data requires Context
+  - Data Storytelling is Essential except when it isn't
+    - Tips
+      - Use Visuals
+      - Write Engaging Copy
+      - Include Sensory Inputs
+    - Author-Driven vs Reader-Driven Data Storytelling
+  - Using Story even when you don't
+    - Tips for Headlines, Callouts, and Highlights
+      - Capture your Story
+      - Include Key Components of your Story
+      - Be Honest, Sincere, and Purposeful
+
+[LinkedIn Learning | Data Visualization: Storytelling](https://www.linkedin.com/learning/data-visualization-storytelling)
+
+
 ### Day 78 | December 8, 2020 | Tuesday
 
 **Today's Progress:** Today I concluded the **MIT 15.S08 FinTech: Shaping the Financial World** course by Prof. Gary Gensler on YouTube.
