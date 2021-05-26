@@ -2,7 +2,26 @@
 
 **Caution: This timeline is tailored for @EshbanTheLearner and might not be suitable for everyone.**
 
-## Part - II (22 September 2020 - Continued)
+## Part - III (26 May 2021 - Continued)
+
+### Day 01 | May 26, 2021 | Wednesday
+
+**Today's Progress:** Today I started the **Deployment of Machine Learning Models in Production | Python** course by Laxmi Kant on Udemy.
+- Introduction
+- BERT (Bidirectional Encoder Representations from Transformers)
+- `ktrain` package
+- Exploring `ktrain` package
+- Hands-On
+  - Installing `ktrain` package
+  - Data Loading and Preprocessing
+  - BERT Model Initialization
+  - Training BERT Model
+  - Making Predictions
+  - Saving Trained Model
+
+[Udemy | Deployment of Machine Learning Models in Production | Python](https://www.udemy.com/course/nlp-with-bert-in-python/)
+
+## Part - II (22 September 2020 - Discontinued)
 
 ### Day 79 | December 9, 2020 | Wednesday
 
