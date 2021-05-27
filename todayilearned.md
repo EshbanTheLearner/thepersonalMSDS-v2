@@ -4,9 +4,23 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 02 | May 27, 2021 | Thursday
+
+**Today's Progress:** Today I continued the **Deployment of Machine Learning Models in Production | Python** course by Laxmi Kant on Udemy.
+
+- Fine Tuning BERT
+- Hands On
+  - Disaster Tweet Dataset Exploration
+  - One Shot Data Cleaning
+  - Clasification: TF-IDF + SVM
+  - Classification: Word2Vec + SVM
+  - Classification: Convolutional Neural Network
+  - Classification: BERT
+
 ### Day 01 | May 26, 2021 | Wednesday
 
 **Today's Progress:** Today I started the **Deployment of Machine Learning Models in Production | Python** course by Laxmi Kant on Udemy.
+
 - Introduction
 - BERT (Bidirectional Encoder Representations from Transformers)
 - `ktrain` package
