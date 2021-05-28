@@ -4,6 +4,18 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 03 | May 28, 2021 | Friday
+
+**Today's Progress:** Today I continued the **Deployment of Machine Learning Models in Production | Python** course by Laxmi Kant on Udemy.
+
+- DistilBERT
+- Hands On
+  - IMDB Reviews Sentiment Analysis
+  - DistilBERT Training
+  - Evaluation
+  - Prediciton API
+  - DistilBERT API Deployment 
+
 ### Day 02 | May 27, 2021 | Thursday
 
 **Today's Progress:** Today I continued the **Deployment of Machine Learning Models in Production | Python** course by Laxmi Kant on Udemy.
