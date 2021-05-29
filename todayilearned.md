@@ -4,6 +4,21 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 04 | May 29, 2021 | Saturday
+
+**Today's Progress:** Today I continued the **Deployment of Machine Learning Models in Production | Python** course by Laxmi Kant on Udemy.
+
+- DistilBERT AWS Deployment
+- Hands On
+  - EC2 - Windows
+    - Environment Setup
+    - Flask REST API
+    - DistilBERT Deployment
+  - EC2 - Linux
+    - Environment Setup
+    - Flask REST API
+    - DistilBERT Deployment
+
 ### Day 03 | May 28, 2021 | Friday
 
 **Today's Progress:** Today I continued the **Deployment of Machine Learning Models in Production | Python** course by Laxmi Kant on Udemy.
