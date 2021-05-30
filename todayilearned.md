@@ -4,6 +4,23 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 05 | May 30, 2021 | Sunday
+
+**Today's Progress:** Today I concluded the **Deployment of Machine Learning Models in Production | Python** course by Laxmi Kant on Udemy.
+
+- Deployment in Production
+  - Environment Setup
+  - WSGI
+  - NGNIX
+  - Configurations 
+- FastText
+  - Hands On
+  - Toxic Comments Classification (Multi-Label)
+  - Training
+  - Evaluation
+  - Prediction
+  - Deployment in Production
+
 ### Day 04 | May 29, 2021 | Saturday
 
 **Today's Progress:** Today I continued the **Deployment of Machine Learning Models in Production | Python** course by Laxmi Kant on Udemy.
