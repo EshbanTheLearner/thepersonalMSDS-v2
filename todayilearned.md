@@ -4,6 +4,20 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 06 | May 31, 2021 | Monday
+
+**Today's Progress:** Today I started the **Spatial Analysis and Geospatial Data Science With Python** course by Abdishakur Awil Hassan on Udemy.
+
+- Introduction to Course
+- Introduction to Spatial Data
+- Project 1 - Zomato Spatial Analysis
+  - Data Pre-Processing
+  - HeatMap Analysis
+  - Marker Cluster
+  - Automated Spatial Analysis
+
+[Udemy | Spatial Analysis and Geospatial Data Science With Python](https://www.udemy.com/course/spatial-data-science-with-python/)
+
 ### Day 05 | May 30, 2021 | Sunday
 
 **Today's Progress:** Today I concluded the **Deployment of Machine Learning Models in Production | Python** course by Laxmi Kant on Udemy.
