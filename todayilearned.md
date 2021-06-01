@@ -4,6 +4,17 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 07 | June 1, 2021 | Tuesday
+
+**Today's Progress:** Today I continued with the **Spatial Analysis and Geospatial Data Science With Python** course by Abdishakur Awil Hassan on Udemy.
+
+- Project 2 - Global Warming Analysis
+  - Analysing Average Temperature
+  - Analysing Global Warming
+  - Visualizing Average Temperatures per Season
+  - Analysing Temperature Trends
+  - Spatial Analysis on Average Temperatures
+
 ### Day 06 | May 31, 2021 | Monday
 
 **Today's Progress:** Today I started the **Spatial Analysis and Geospatial Data Science With Python** course by Abdishakur Awil Hassan on Udemy.
