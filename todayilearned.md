@@ -4,6 +4,19 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 08 | June 2, 2021 | Wednesday
+
+**Today's Progress:** Today I concluded the **Spatial Analysis and Geospatial Data Science With Python** course by Abdishakur Awil Hassan on Udemy.
+
+- Project 3 - Covid-19 Analysis
+  - Data Fetching and Preprocessing
+  - Cloropleth Maps
+  - Geographical Scatter Plot
+  - Geo Spatial Analysis
+  - Tileset
+  - Marker Cluster Analysis
+  - Geographic Heatmap
+
 ### Day 07 | June 1, 2021 | Tuesday
 
 **Today's Progress:** Today I continued with the **Spatial Analysis and Geospatial Data Science With Python** course by Abdishakur Awil Hassan on Udemy.
