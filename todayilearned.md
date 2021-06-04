@@ -4,6 +4,21 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 09 | June 3, 2021 | Thursday
+
+**Today's Progress:** Today I started the **Our Privacy Opportunity** course by OpenMined on OpenMined website.
+
+- Course Introduction
+- Society Runs on Information Flows
+  - What is an Information Flow?
+  - The Privacy Dilema
+    - Definition of Privacy
+  - Data is Fire
+  - The Transparency Dilema
+  - The Privacy-Transparency Pareto Frontier
+
+[OpenMined | Our Privacy Opportunity](https://courses.openmined.org/courses/our-privacy-opportunity)
+
 ### Day 08 | June 2, 2021 | Wednesday
 
 **Today's Progress:** Today I concluded the **Spatial Analysis and Geospatial Data Science With Python** course by Abdishakur Awil Hassan on Udemy.
