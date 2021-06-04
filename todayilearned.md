@@ -4,6 +4,17 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 10 | June 4, 2021 | Friday
+
+**Today's Progress:** Today I continued with the **Our Privacy Opportunity** course by OpenMined on OpenMined website.
+
+- Information Flows within Communities
+  - Research is Constrained by Information Flows
+  - Healthy Market Competition for Information Services
+  - Data, Energy & the Environment
+  - Feedback Mechanisms & Information Flows
+  - Democracy & Healthy Public Conversation
+
 ### Day 09 | June 3, 2021 | Thursday
 
 **Today's Progress:** Today I started the **Our Privacy Opportunity** course by OpenMined on OpenMined website.
