@@ -4,6 +4,17 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 11 | June 5, 2021 | Saturday
+
+**Today's Progress:** Today I continued with the **Our Privacy Opportunity** course by OpenMined on OpenMined website.
+
+- Information Flows within Markets and Their Incentives
+  - New Market Incentives
+  - Safe Data Networks for Business, Governance & R&D
+  - Conflict, Political Science & Information Flows
+  - Disinformation & Information Flows
+  - Conclusion - Society Runs on Information Flows
+
 ### Day 10 | June 4, 2021 | Friday
 
 **Today's Progress:** Today I continued with the **Our Privacy Opportunity** course by OpenMined on OpenMined website.
