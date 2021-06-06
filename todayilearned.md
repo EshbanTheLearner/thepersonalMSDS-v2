@@ -4,6 +4,18 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 12 | June 6, 2021 | Sunday
+
+**Today's Progress:** Today I continued with the **Our Privacy Opportunity** course by OpenMined on OpenMined website.
+
+- Limitations of Information Flows
+  - Intro - Limitations of Information Flows
+  - The Copy Problem
+  - The Bundling Problem
+  - The Recursive Enforcement Problem
+  - Conclusion - Limitations of Information Flows
+
+
 ### Day 11 | June 5, 2021 | Saturday
 
 **Today's Progress:** Today I continued with the **Our Privacy Opportunity** course by OpenMined on OpenMined website.
