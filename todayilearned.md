@@ -4,6 +4,24 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 13 | June 7, 2021 | Monday
+
+**Today's Progress:** Today I continued with the **Our Privacy Opportunity** course by OpenMined on OpenMined website.
+
+- Introducing Structured Transparency
+  - Introducing Structured Transparency
+  - The 5 Components of Structured Transparency
+    - Input Privacy
+    - Output Privacy
+    - Input Verification
+    - Output Verification
+    - Flow Governance
+- Input Privacy
+  - Input Privacy
+  - Technical Tools for Input Privacy
+  - Homomorphic Encryption for Input Privacy
+  - Secure Multi-Party Computation for Input Privacy
+
 ### Day 12 | June 6, 2021 | Sunday
 
 **Today's Progress:** Today I continued with the **Our Privacy Opportunity** course by OpenMined on OpenMined website.
