@@ -4,6 +4,19 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 14 | June 8, 2021 | Tuesday
+
+**Today's Progress:** Today I continued with the **Our Privacy Opportunity** course by OpenMined on OpenMined website.
+
+- Output Privacy
+  - Output Privacy
+  - Technical Tools for Output Privacy
+  - Towards Robust Output Privacy Infrastructure
+- Input Verification
+  - Input Verification
+  - Technical Tools for Input Verification
+  - Active Security & Zero Knowledge for Input Verification
+
 ### Day 13 | June 7, 2021 | Monday
 
 **Today's Progress:** Today I continued with the **Our Privacy Opportunity** course by OpenMined on OpenMined website.
