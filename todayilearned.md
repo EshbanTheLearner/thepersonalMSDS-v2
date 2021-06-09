@@ -4,6 +4,15 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 15 | June 9, 2021 | Wednesday
+
+**Today's Progress:** Today I continued with the **Our Privacy Opportunity** course by OpenMined on OpenMined website.
+
+- Output Verification & Flow Governance
+  - Output Verification
+  - Flow Governance
+  - A New Frontier for Structured Transparency
+
 ### Day 14 | June 8, 2021 | Tuesday
 
 **Today's Progress:** Today I continued with the **Our Privacy Opportunity** course by OpenMined on OpenMined website.
