@@ -4,6 +4,17 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 16 | June 10, 2021 | Thursday
+
+**Today's Progress:** Today I continued with the **Our Privacy Opportunity** course by OpenMined on OpenMined website.
+
+- The Impact of Structured Transparency
+  - Intro
+  - Academic Research
+  - R&D
+  - Consumers
+  - News Media
+
 ### Day 15 | June 9, 2021 | Wednesday
 
 **Today's Progress:** Today I continued with the **Our Privacy Opportunity** course by OpenMined on OpenMined website.
