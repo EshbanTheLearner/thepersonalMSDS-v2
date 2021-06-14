@@ -4,6 +4,17 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 17 | June 11, 2022 | Friday
+
+**Today's Progress:** Today I concluded with the **Our Privacy Opportunity** course by OpenMined on OpenMined website.
+
+- The Impact of Structured Transparency
+  - Machine Learning Startups
+  - Consumers Need Structured Transparency Institutions
+  - Intelligence, Stats Services & Regulators
+  - The Next Steps for Structured Transparency
+  - Course Conclusion
+
 ### Day 16 | June 10, 2021 | Thursday
 
 **Today's Progress:** Today I continued with the **Our Privacy Opportunity** course by OpenMined on OpenMined website.
