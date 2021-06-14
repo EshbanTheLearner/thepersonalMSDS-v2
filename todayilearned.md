@@ -4,6 +4,21 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+
+### Day 18 | June 12, 2022 | Saturday
+
+**Today's Progress:** Today I started with the **Complete Elasticsearch Masterclass with Logstash and Kibana** course by Imtiaz Ahmad on Udemy.
+
+- Introduction
+  - Course Overview
+  - Setting up Elasticsearch and Kibana
+  - Overview of Elasticsearch
+    - Document Oriented Search Engine
+    - Inverted Index
+
+[Udemy | Complete Elasticsearch Masterclass with Logstash and Kibana](https://www.udemy.com/course/complete-elasticsearch-masterclass-with-kibana-and-logstash/)
+
+
 ### Day 17 | June 11, 2022 | Friday
 
 **Today's Progress:** Today I concluded with the **Our Privacy Opportunity** course by OpenMined on OpenMined website.
