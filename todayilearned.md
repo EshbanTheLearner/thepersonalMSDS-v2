@@ -4,6 +4,16 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 19 | June 13, 2022 | Sunday
+
+**Today's Progress:** Today I continued with the **Complete Elasticsearch Masterclass with Logstash and Kibana** course by Imtiaz Ahmad on Udemy.
+
+- Document Management and Analyzers
+  - Indexing, Retrieving and Deleting Documents
+    - Elasticsearch in relation to Database
+  - Components of an Index
+    - Mappings 
+    - Settings
 
 ### Day 18 | June 12, 2022 | Saturday
 
