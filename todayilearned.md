@@ -4,6 +4,17 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 21 | June 15, 2022 | Tuesday
+
+**Today's Progress:** Today I continued with the **Complete Elasticsearch Masterclass with Logstash and Kibana** course by Imtiaz Ahmad on Udemy.
+
+- Defining the Index Structure
+  - Index Settings and Mappings
+    - Properties
+    - Dynamic Types
+    - Analyzer
+    - Defining Custom Analyzers
+
 ### Day 20 | June 14, 2022 | Monday
 
 **Today's Progress:** Today I continued with the **Complete Elasticsearch Masterclass with Logstash and Kibana** course by Imtiaz Ahmad on Udemy.
