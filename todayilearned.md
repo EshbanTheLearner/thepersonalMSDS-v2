@@ -4,6 +4,15 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 22 | June 16, 2022 | Wednesday
+
+**Today's Progress:** Today I continued with the **Complete Elasticsearch Masterclass with Logstash and Kibana** course by Imtiaz Ahmad on Udemy.
+
+- Querying Elasticsearch
+  - Search DSL Query Context
+  - Search DSL Filter Context
+  - Aggregations
+
 ### Day 21 | June 15, 2022 | Tuesday
 
 **Today's Progress:** Today I continued with the **Complete Elasticsearch Masterclass with Logstash and Kibana** course by Imtiaz Ahmad on Udemy.
