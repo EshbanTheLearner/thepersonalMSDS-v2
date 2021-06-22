@@ -4,9 +4,24 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 23 | June 17, 2022 | Thursday
+
+**Today's Progress:** Today I started the **HuggingFace** course HuggingFace.
+
+- Transformer Models
+  - Introduction
+  - Natural Language Processing
+    - Classifying whole sentences
+    - Classifying each word in a sentence
+    - Generating text content
+    - Extracting an answer from a text
+    - Generating a new sentence from an input text
+
+[HuggingFace | HuggingFace](https://huggingface.co/course/chapter1)
+
 ### Day 22 | June 16, 2022 | Wednesday
 
-**Today's Progress:** Today I continued with the **Complete Elasticsearch Masterclass with Logstash and Kibana** course by Imtiaz Ahmad on Udemy.
+**Today's Progress:** Today I concluded the **Complete Elasticsearch Masterclass with Logstash and Kibana** course by Imtiaz Ahmad on Udemy.
 
 - Querying Elasticsearch
   - Search DSL Query Context
