@@ -4,6 +4,21 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 24 | June 18, 2022 | Friday
+
+**Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
+
+- Transformer Models
+  - Transformers, what can they do?
+    - Working with Pipelines
+    - Zero Shot Classification
+    - Feature Extraction
+    - Named Entity Recognition
+    - Sentiment Analysis
+    - Text Generation
+    - Summarization
+    - Translation
+
 ### Day 23 | June 17, 2022 | Thursday
 
 **Today's Progress:** Today I started the **HuggingFace** course HuggingFace.
