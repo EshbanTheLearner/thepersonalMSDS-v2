@@ -4,6 +4,19 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 25 | June 19, 2022 | Friday
+
+**Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
+
+- Transformer Models
+  - How do Transformers work?
+    - Auto-Regressive Models
+    - Auto-Encoding Models
+    - Sequence-to-Sequence Models
+    - Transfer Learning
+    - Pre-Training
+    - Fine-Tuning
+
 ### Day 24 | June 18, 2022 | Friday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
