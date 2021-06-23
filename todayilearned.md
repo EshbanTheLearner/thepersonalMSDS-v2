@@ -4,7 +4,22 @@
 
 ## Part - III (26 May 2021 - Continued)
 
-### Day 25 | June 19, 2022 | Friday
+### Day 26 | June 20, 2022 | Sunday
+
+**Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
+
+- Transformer Models
+  - How do Transformers work?
+    - General Architecture
+    - Encoder
+    - Decoder
+    - Attention Layers
+    - The Original Architecture
+    - Attention Mask
+    - Architectures vs Checkpoints
+
+
+### Day 25 | June 19, 2022 | Saturday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
 
