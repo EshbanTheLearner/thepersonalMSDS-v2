@@ -4,6 +4,22 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 27 | June 21, 2022 | Monday
+
+**Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
+
+- Transformer Models
+  - Encoder Models
+    - Bi-Directional Attention
+    - Masked Language Modeling
+    - Sentiment Classification
+    - Auto-Encoding Models
+      1. ALBERT
+      2. BERT
+      3. DistilBERT
+      4. ELECTRA
+      5. RoBERTa
+
 ### Day 26 | June 20, 2022 | Sunday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
