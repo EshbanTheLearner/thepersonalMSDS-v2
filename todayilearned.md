@@ -4,6 +4,21 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 29 | June 23, 2022 | Wednesday
+
+**Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
+
+- Transformer Models
+  - Sequence-to-Sequence Models
+    - Encoder-Decoder Models
+      1. BART
+      2. mBART
+      3. Marian
+      4. T5
+  - Bias and Limitations
+  - Summary
+  - Quiz
+
 ### Day 28 | June 22, 2022 | Tuesday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
