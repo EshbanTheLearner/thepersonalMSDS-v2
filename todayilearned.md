@@ -4,6 +4,21 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 28 | June 22, 2022 | Tuesday
+
+**Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
+
+- Transformer Models
+  - Decoder Models
+    - Uni-directional
+    - Masked Self Attention
+    - Auto-Regressive Models
+      1. CTRL
+      2. GPT
+      3. GPT-2
+      4. Transformer XL
+    - Causal Language Modeling
+
 ### Day 27 | June 21, 2022 | Monday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
