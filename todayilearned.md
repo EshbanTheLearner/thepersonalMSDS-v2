@@ -4,7 +4,19 @@
 
 ## Part - III (26 May 2021 - Continued)
 
-### Day 31 | June 24, 2022 | Friday
+### Day 32 | June 25, 2021 | Saturday
+
+**Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
+
+- Using 🤗 Transformers
+  - Models
+    - Creating a Transformer
+    - Different Loading Methods
+    - Saving Methods
+    - Using a Transformer Model for Inference
+    - Using Tensors as Inputs
+
+### Day 31 | June 24, 2021 | Friday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
 
@@ -17,7 +29,7 @@
     - Softmax Layer
 
 
-### Day 30 | June 23, 2022 | Thursday
+### Day 30 | June 23, 2021 | Thursday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
 
@@ -28,7 +40,7 @@
       2. Felxibility
       3. Simplicity
 
-### Day 29 | June 23, 2022 | Wednesday
+### Day 29 | June 23, 2021 | Wednesday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
 
@@ -43,7 +55,7 @@
   - Summary
   - Quiz
 
-### Day 28 | June 22, 2022 | Tuesday
+### Day 28 | June 22, 2021 | Tuesday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
 
@@ -58,7 +70,7 @@
       4. Transformer XL
     - Causal Language Modeling
 
-### Day 27 | June 21, 2022 | Monday
+### Day 27 | June 21, 2021 | Monday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
 
@@ -74,7 +86,7 @@
       4. ELECTRA
       5. RoBERTa
 
-### Day 26 | June 20, 2022 | Sunday
+### Day 26 | June 20, 2021 | Sunday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
 
@@ -89,7 +101,7 @@
     - Architectures vs Checkpoints
 
 
-### Day 25 | June 19, 2022 | Saturday
+### Day 25 | June 19, 2021 | Saturday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
 
@@ -102,7 +114,7 @@
     - Pre-Training
     - Fine-Tuning
 
-### Day 24 | June 18, 2022 | Friday
+### Day 24 | June 18, 2021 | Friday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
 
@@ -117,7 +129,7 @@
     - Summarization
     - Translation
 
-### Day 23 | June 17, 2022 | Thursday
+### Day 23 | June 17, 2021 | Thursday
 
 **Today's Progress:** Today I started the **HuggingFace** course HuggingFace.
 
@@ -132,7 +144,7 @@
 
 [HuggingFace | HuggingFace](https://huggingface.co/course/chapter1)
 
-### Day 22 | June 16, 2022 | Wednesday
+### Day 22 | June 16, 2021 | Wednesday
 
 **Today's Progress:** Today I concluded the **Complete Elasticsearch Masterclass with Logstash and Kibana** course by Imtiaz Ahmad on Udemy.
 
@@ -141,7 +153,7 @@
   - Search DSL Filter Context
   - Aggregations
 
-### Day 21 | June 15, 2022 | Tuesday
+### Day 21 | June 15, 2021 | Tuesday
 
 **Today's Progress:** Today I continued with the **Complete Elasticsearch Masterclass with Logstash and Kibana** course by Imtiaz Ahmad on Udemy.
 
@@ -152,7 +164,7 @@
     - Analyzer
     - Defining Custom Analyzers
 
-### Day 20 | June 14, 2022 | Monday
+### Day 20 | June 14, 2021 | Monday
 
 **Today's Progress:** Today I continued with the **Complete Elasticsearch Masterclass with Logstash and Kibana** course by Imtiaz Ahmad on Udemy.
 
@@ -164,7 +176,7 @@
     - Tokenizer
     - Filter
 
-### Day 19 | June 13, 2022 | Sunday
+### Day 19 | June 13, 2021 | Sunday
 
 **Today's Progress:** Today I continued with the **Complete Elasticsearch Masterclass with Logstash and Kibana** course by Imtiaz Ahmad on Udemy.
 
@@ -175,7 +187,7 @@
     - Mappings 
     - Settings
 
-### Day 18 | June 12, 2022 | Saturday
+### Day 18 | June 12, 2021 | Saturday
 
 **Today's Progress:** Today I started with the **Complete Elasticsearch Masterclass with Logstash and Kibana** course by Imtiaz Ahmad on Udemy.
 
@@ -189,7 +201,7 @@
 [Udemy | Complete Elasticsearch Masterclass with Logstash and Kibana](https://www.udemy.com/course/complete-elasticsearch-masterclass-with-kibana-and-logstash/)
 
 
-### Day 17 | June 11, 2022 | Friday
+### Day 17 | June 11, 2021 | Friday
 
 **Today's Progress:** Today I concluded with the **Our Privacy Opportunity** course by OpenMined on OpenMined website.
 
