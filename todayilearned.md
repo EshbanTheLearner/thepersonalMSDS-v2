@@ -4,6 +4,19 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 31 | June 24, 2022 | Friday
+
+**Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
+
+- Using 🤗 Transformers
+  - Behind the Pipeline
+    - Preprocessing with a Tokenizer
+    - `TFAutoModel`
+    - Model Heads
+    - Postprocessing the Output	
+    - Softmax Layer
+
+
 ### Day 30 | June 23, 2022 | Thursday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
