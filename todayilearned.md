@@ -4,7 +4,25 @@
 
 ## Part - III (26 May 2021 - Continued)
 
-### Day 32 | June 25, 2021 | Saturday
+### Day 33 | June 27, 2021 | Sunday
+
+**Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
+
+- Using 🤗 Transformers
+  - Tokenizers
+    - Word-based Tokenization
+    - Character-based Tokenization
+    - Subword Tokenization
+    - Other Tokenizers
+      1. Byte-level
+      2. WordPiece
+      3. SentencePiece or Unigram
+    - Loading and Saving
+    - Encoding 
+    - Decoding
+
+
+### Day 32 | June 26, 2021 | Saturday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
 
@@ -16,7 +34,7 @@
     - Using a Transformer Model for Inference
     - Using Tensors as Inputs
 
-### Day 31 | June 24, 2021 | Friday
+### Day 31 | June 25, 2021 | Friday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
 
@@ -29,7 +47,7 @@
     - Softmax Layer
 
 
-### Day 30 | June 23, 2021 | Thursday
+### Day 30 | June 24, 2021 | Thursday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
 
