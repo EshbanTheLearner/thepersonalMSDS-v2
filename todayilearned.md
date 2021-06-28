@@ -4,6 +4,17 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 34 | June 28, 2021 | Monday
+
+**Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
+
+- Using 🤗 Transformers
+  - Handling Multiple Sequences
+    - Batchcing Inputs Together
+    - Padding the Inputs
+    - Attention Masks
+    - Longer Sequences
+
 ### Day 33 | June 27, 2021 | Sunday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
@@ -14,7 +25,7 @@
     - Character-based Tokenization
     - Subword Tokenization
     - Other Tokenizers
-      1. Byte-level
+      1. Byte-level BPE
       2. WordPiece
       3. SentencePiece or Unigram
     - Loading and Saving
