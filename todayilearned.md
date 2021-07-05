@@ -4,6 +4,21 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 37 | July 1, 2021 | Thursday
+
+**Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
+
+- Fine-Tuning a Pretrained Model
+  - Fine-tuning a model with Keras
+    - Training
+      - Keras Introduction
+      - Fine-Tuning with TensorFlow
+    - Improving Training Performance
+      - Learning Rate Scheduling with Tensorflow
+    - Model Predictions
+      - Metrics
+
+
 ### Day 36 | June 30, 2021 | Wednesday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
