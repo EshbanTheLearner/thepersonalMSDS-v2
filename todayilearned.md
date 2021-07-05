@@ -4,6 +4,16 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 36 | June 30, 2021 | Wednesday
+
+**Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
+
+- Fine-Tuning a Pretrained Model
+  - Introduction
+  - Processing the Data
+    - Microsoft Research Paraphrase Corpus (MRPC)
+    - Preprocessing a Dataset
+
 ### Day 35 | June 29, 2021 | Tuesday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
