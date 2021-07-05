@@ -4,6 +4,15 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 35 | June 29, 2021 | Tuesday
+
+**Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
+
+- Using 🤗 Transformers
+  - Putting it all together
+    - Wrapping up: From tokenizer to model
+    - End-of-chapter quiz
+
 ### Day 34 | June 28, 2021 | Monday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
