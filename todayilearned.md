@@ -4,6 +4,16 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 38 | July 2, 2021 | Friday
+
+**Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
+
+- Fine-Tuning a Pretrained Model
+  - Quiz
+- Sharing Models and Tokenizers
+  - The Hugging Face Hub
+    - Navigating the Hugging Face Hub
+
 ### Day 37 | July 1, 2021 | Thursday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
