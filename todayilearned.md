@@ -4,6 +4,24 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 44 | July 8, 2021 | Thursday
+
+**Today's Progress:** Today I continued with the **Fundamentals of the Databricks Lakehouse Platform Accreditation** course from the Data Scientist Pathway by Databricks.
+
+- Fundamentals of Databricks SQL
+  - SECTION 1: INTRODUCTION TO DATABRICKS SQL ANALYTICS
+    - Why Databricks SQL
+    - Foundational Concepts 
+    - Tour of the Interface
+  - SECTION 2: QUERYING DATA
+    - Querying Basics
+    - Automate Workflows
+  - SECTION 3: VISUALIZATIONS AND DASHBOARDS
+    - Visualize Query Results
+    - Build and Edit Dashboards
+    - Connect to Business Intelligence Tools
+
+
 ### Day 43 | July 7, 2021 | Wednesday
 
 **Today's Progress:** Today I continued with the **Fundamentals of the Databricks Lakehouse Platform Accreditation** course from the Data Scientist Pathway by Databricks.
