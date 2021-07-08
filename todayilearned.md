@@ -4,6 +4,27 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 42 | July 6, 2021 | Tuesday
+
+**Today's Progress:** Today I continued with the **Fundamentals of the Databricks Lakehouse Platform Accreditation** course from the Data Scientist Pathway by Databricks.
+
+- Fundamentals of Delta Lake
+  - An Introduction to Delta Lake on Databricks
+  - Elements of Delta Lake
+    - Delta Files
+    - Delta Tables
+    - Delta Optimization Engine
+    - Delta Lake Storage Layer
+  - Delta Lake Functionality for Data Reliability
+    - ACID Transactions
+    - Schema Management
+    - Scalable Metadata Handling
+    - Unified Batch and Streaming Data
+    - Data Versioning and Time Travel
+  - Customer Success Stories with Delta Lake
+    - Healthdirect
+    - Columbia
+
 ### Day 41 | July 5, 2021 | Monday
 
 **Today's Progress:** Today I started the **Fundamentals of the Databricks Lakehouse Platform Accreditation** course from the Data Scientist Pathway by Databricks.
