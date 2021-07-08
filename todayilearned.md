@@ -4,6 +4,25 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 41 | July 5, 2021 | Monday
+
+**Today's Progress:** Today I started the **Fundamentals of the Databricks Lakehouse Platform Accreditation** course from the Data Scientist Pathway by Databricks.
+
+- Course Overview
+- Fundamentals of the Databricks Lakehouse Platform
+  - An Introduction to Databricks
+  - Big Data and AI Challenges that Databricks Solves
+  - The Lakehouse Paradigm
+  - Databricks Lakehouse Platform Components
+  - Customer Success Stories
+    - CVS Health
+    - Scribd
+    - Reckitt Benckiser Group
+    - Regeneron
+
+
+[Databricks | Data Scientist Learning Path](https://academy.databricks.com/data-scientist)
+
 ### Day 40 | July 4, 2021 | Sunday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
