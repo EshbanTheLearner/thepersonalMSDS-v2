@@ -4,6 +4,20 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 43 | July 7, 2021 | Wednesday
+
+**Today's Progress:** Today I continued with the **Fundamentals of the Databricks Lakehouse Platform Accreditation** course from the Data Scientist Pathway by Databricks.
+
+- Fundamentals of Lakehouse Architecture
+  - Data Driven Decisions
+  - Data Warehouses
+  - Data Lakes
+  - Data Lakehouse
+  - Delta Lake
+    - Delta Architecture
+      - Delta Storage Layer
+      - Delta Engine
+
 ### Day 42 | July 6, 2021 | Tuesday
 
 **Today's Progress:** Today I continued with the **Fundamentals of the Databricks Lakehouse Platform Accreditation** course from the Data Scientist Pathway by Databricks.
