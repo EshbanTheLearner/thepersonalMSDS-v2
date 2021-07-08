@@ -4,6 +4,22 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 40 | July 4, 2021 | Sunday
+
+**Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
+
+- Sharing Models and Tokenizers
+  - Building a Model Card
+    - Model description
+    - Intended uses & limitations
+    - How to use
+    - Training data
+    - Training procedure
+    - Variable and metrics
+    - Evaluation results
+    - Model card metadata
+  - Quiz
+
 ### Day 39 | July 3, 2021 | Saturday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
