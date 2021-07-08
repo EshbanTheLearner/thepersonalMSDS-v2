@@ -4,6 +4,18 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 39 | July 3, 2021 | Saturday
+
+**Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
+
+- Sharing Models and Tokenizers
+  - Using PreTrained Models
+  - Sharing PreTrained Models
+    - Using the `push_to_hub` API through `huggingface_hub`
+    - Using the `transformers` CLI
+    - Using the web interface
+    - Uploading the model files
+
 ### Day 38 | July 2, 2021 | Friday
 
 **Today's Progress:** Today I continued the **HuggingFace** course HuggingFace.
