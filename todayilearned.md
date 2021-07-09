@@ -4,6 +4,30 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 45 | July 9, 2021 | Friday
+
+**Today's Progress:** Today I continued with the **Fundamentals of the Databricks Lakehouse Platform Accreditation** course from the Data Scientist Pathway by Databricks.
+
+- Fundamentals of Databricks Machine Learning
+  - BASIC OVERVIEW OF DATABRICKS ML
+    - Databricks ML Overview
+    - Basics of Databricks ML Quiz
+  - BENEFITS FOR DATA SCIENCE AND MACHINE LEARNING TEAMS
+    - Common Machine Learning Problems
+    - Databricks ML Solutions
+    - Benefits of Databricks ML Quiz
+  - FUNDAMENTAL COMPONENTS OF DATABRICKS ML
+    - Components of Databricks Machine Learning
+    - Basics of MLflow
+    - Basics of AutoML
+    - Basics of Feature Store
+    - Fundamental Components of Databricks Machine Learning Quiz
+  - SUCCESSFUL DATABRICKS ML STORIES
+    - Successful Databricks Machine Learning Stories
+      - Edmunds
+      - H&M
+      - Wehkamp
+
 ### Day 44 | July 8, 2021 | Thursday
 
 **Today's Progress:** Today I continued with the **Fundamentals of the Databricks Lakehouse Platform Accreditation** course from the Data Scientist Pathway by Databricks.
