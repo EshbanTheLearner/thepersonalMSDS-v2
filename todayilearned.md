@@ -4,6 +4,28 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 46 | July 10, 2021 | Saturday
+
+**Today's Progress:** Today I continued with the **Fundamentals of the Databricks Lakehouse Platform Accreditation** course from the Data Scientist Pathway by Databricks.
+
+- Elective: Fundamentals of Big Data
+  - Introduction
+  - What is Big Data?
+    - Technology and the Explosion Data
+    - What Makes Big Data "Big"?
+    - Types of Big Data
+  - Managing Big Data
+    - An Introduction to Distributed Computing
+    - Batch vs Streaming Processing
+    - Data Storage Systems
+  - Extracting Insights From Big Data
+    - Techniques for Working with Big Data
+    - The Data Science Workflow
+    - Roles on a Data Science Team
+  - Big Data for Business Intelligence
+    - Big Data for Business Decision-Making
+    - Big Data Use-Cases in Different Industries
+
 ### Day 45 | July 9, 2021 | Friday
 
 **Today's Progress:** Today I continued with the **Fundamentals of the Databricks Lakehouse Platform Accreditation** course from the Data Scientist Pathway by Databricks.
