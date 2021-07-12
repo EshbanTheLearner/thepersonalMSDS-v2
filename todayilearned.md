@@ -4,6 +4,25 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 47 | July 11, 2021 | Sunday
+
+**Today's Progress:** Today I continued with the **Fundamentals of the Databricks Lakehouse Platform Accreditation** course from the Data Scientist Pathway by Databricks.
+
+- Elective: Fundamentals of Machine Learning
+  - Introduction
+  - An Introduction to Machine Learning
+    - The Data Science Process
+    - Data Science Skills
+    - Machine Learning Basics
+    - The Machine Learning Workflow
+  - Types of Machine Learning
+    - Supervised Learning
+      - Classification
+      - Regression
+    - Unsupervised Learning
+      - Clustering
+  - Framing Real-World Problems for Machine Learning
+
 ### Day 46 | July 10, 2021 | Saturday
 
 **Today's Progress:** Today I continued with the **Fundamentals of the Databricks Lakehouse Platform Accreditation** course from the Data Scientist Pathway by Databricks.
