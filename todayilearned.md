@@ -4,6 +4,31 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+
+### Day 48 | July 12, 2021 | Monday
+
+**Today's Progress:** Today I continued with the **Fundamentals of the Databricks Lakehouse Platform Accreditation** course from the Data Scientist Pathway by Databricks.
+
+- Elective: Fundamentals of Cloud Computing
+  - Introduction
+  - An Introduction to Cloud Computing
+    - Origins of Cloud Computing
+    - Cloud Computing vs. On-Premises Computing
+  - Cloud Computing Architecture
+    - Client
+    - Distributed Servers
+    - Data Center
+  - Delivery Models
+    - SaaS
+    - PaaS
+    - IaaS
+  - Deployment Models
+    - Private Cloud
+    - Public Cloud
+    - Hybrid Cloud
+    - Multi-Cloud
+  - Benefits of Moving to the Cloud
+
 ### Day 47 | July 11, 2021 | Sunday
 
 **Today's Progress:** Today I continued with the **Fundamentals of the Databricks Lakehouse Platform Accreditation** course from the Data Scientist Pathway by Databricks.
