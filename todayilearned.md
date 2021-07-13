@@ -4,6 +4,25 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 49 | July 13, 2021 | Tuesday
+
+**Today's Progress:** Today I concluded the **Fundamentals of the Databricks Lakehouse Platform Accreditation** course from the Data Scientist Pathway by Databricks.
+
+- Elective: Fundamentals of Enterprise Data Management Systems
+  - Introduction
+  - An Introduction to Data Warehouse
+  - An Introduction to Data Lakes
+  - Comparing Data Lakes and Data Warehouses
+  - An Introduction to Lakehouse
+- Elective: Fundamentals of Structured Streaming
+  - Introduction
+  - Streaming Data: Why Apache Spark Structured Streaming?
+    - Fundamentals of Streaming Data
+    - Introduction to Structured Streaming4
+  - Spark Structured Streaming: Moving Data
+    - The Big Data Ecosystem
+  - Structured Streaming Business Use-Cases
+    - Business Use-Cases
 
 ### Day 48 | July 12, 2021 | Monday
 
