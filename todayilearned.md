@@ -4,6 +4,21 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 50 | July 14, 2021 | Wednesday
+
+**Today's Progress:** Today I started the **Apache Spark Associate Developer** course from the Data Scientist Pathway by Databricks.
+
+- Course Overview
+- Databricks with R
+  - Introduction
+  - Databricks Overview
+  - Introduction to the Databricks Platform
+  - Databricks Runtime with Apache Spark and R
+  - Spark SQL
+  - Three DataFrame Classes
+  - Reader and Writer
+  - DataFrame and Column
+
 ### Day 49 | July 13, 2021 | Tuesday
 
 **Today's Progress:** Today I concluded the **Fundamentals of the Databricks Lakehouse Platform Accreditation** course from the Data Scientist Pathway by Databricks.
