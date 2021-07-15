@@ -4,6 +4,36 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 51 | July 15, 2021 | Thursday
+
+**Today's Progress:** Today I continued with the **Apache Spark Associate Developer** course from the Data Scientist Pathway by Databricks.
+
+- Delta Lake Rapid Start with Python
+  - Itroduction
+  - The Big Picture
+    - Build an EDSS with Delta Lake
+  - Getting Started
+    - Setup
+    - Create a Parquet Table
+  - Creating Delta Tables
+    - Delta Table Fundamentals
+    - Convert a Parquet Table to a Delta Table
+    - Create a New Delta Table
+  - Batch Writing to Delta Tables
+    - Batch Write to Delta Tables
+  - Exploring the Single Source of Truth
+    - Late-Arriving Data
+    - Broken Readings in the Table
+  - Upsert into Delta Tables
+    - Repair Records with an Upsert
+    - Perform a Second Upsert
+  - Schema Enforcement and Evolution
+    - Evolution of Data Being Ingested
+  - Modifying Data for CCPA Compliance
+    - Delete Data and Recover Lost Data
+    - Maintain Compliance with a Vaccum Operation
+
+
 ### Day 50 | July 14, 2021 | Wednesday
 
 **Today's Progress:** Today I started the **Apache Spark Associate Developer** course from the Data Scientist Pathway by Databricks.
