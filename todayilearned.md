@@ -4,6 +4,37 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 52 | July 16, 2021 | Friday
+
+**Today's Progress:** Today I continued with the **Apache Spark Associate Developer** course from the Data Scientist Pathway by Databricks.
+
+- Delta Lake Rapid Start with Spark SQL
+  - Introduction
+  - The Big Picture
+    - Building and EDSS with Delta Lake
+  - Getting Started
+    - Setup
+    - Create a Parquet-Based Data Lake Table
+  - Create Delta Tables
+    - Delta Table Fundamentals
+    - Convert an Existing Parquet-based Data Lake Table to a Delta Table
+    - Create a New Delta Table
+  - Batch Writ yo Delta Tables
+    - Appending Files to an Existing Delta Table
+  - Exploring the Single Source of Truth
+    - Assesing the Missing Records
+    - Identify Broken Readings in the Table
+  - Upsert into a Delta Tables
+    - Repair Records with an Upsert
+    - Perform a Second Upsert
+  - Modify the Health Tracker Silver Table for CCPA Compliance
+    - Delete all Records Associated with a User
+    - The History of the `health_tracker_silver` Delta Table
+    - Maintaining Compliance with a Vacuum Operation
+  - Summary
+    - An Internet of Things Data Ingestion Pipeline
+
+
 ### Day 51 | July 15, 2021 | Thursday
 
 **Today's Progress:** Today I continued with the **Apache Spark Associate Developer** course from the Data Scientist Pathway by Databricks.
