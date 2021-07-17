@@ -4,6 +4,18 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 53 | July 17, 2021 | Saturday
+
+**Today's Progress:** Today I continued with the **Apache Spark Associate Developer** course from the Data Scientist Pathway by Databricks.
+
+- Spark Architecture
+  - Course Intro
+  - Spark's Basic Architecture
+  - Transformations, Actions, and Execution
+  - Pipelining
+  - Catalyst Optimizer
+  - Caching
+
 ### Day 52 | July 16, 2021 | Friday
 
 **Today's Progress:** Today I continued with the **Apache Spark Associate Developer** course from the Data Scientist Pathway by Databricks.
