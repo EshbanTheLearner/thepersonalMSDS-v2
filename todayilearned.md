@@ -4,6 +4,18 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 54 | July 18, 2021 | Sunday
+
+**Today's Progress:** Today I continued with the **Apache Spark Associate Developer** course from the Data Scientist Pathway by Databricks.
+
+- Introduction to Apache Spark Architecture
+  - Introduction
+  - Filtering
+    - Distributed Computing
+  - Counting 
+    - Stages
+  - Shuffling
+
 ### Day 53 | July 17, 2021 | Saturday
 
 **Today's Progress:** Today I continued with the **Apache Spark Associate Developer** course from the Data Scientist Pathway by Databricks.
