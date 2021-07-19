@@ -4,6 +4,18 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 55 | July 19, 2021 | Monday
+
+**Today's Progress:** Today I continued with the **Apache Spark Associate Developer** course from the Data Scientist Pathway by Databricks.
+
+- Just Enough Python for Apache Spark
+  - Introduction
+  - Initial Setup
+  - Getting Started with Python
+  - Conditionals and Loops
+  - Methods, Functions, and Packages
+  - Collections and Classes
+
 ### Day 54 | July 18, 2021 | Sunday
 
 **Today's Progress:** Today I continued with the **Apache Spark Associate Developer** course from the Data Scientist Pathway by Databricks.
