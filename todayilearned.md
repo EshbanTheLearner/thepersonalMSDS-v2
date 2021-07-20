@@ -4,6 +4,39 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 56 | July 20, 2021 | Tuesday
+
+**Today's Progress:** Today I completed the **Apache Spark Associate Developer** course from the Data Scientist Pathway by Databricks.
+
+- Databricks Workspace User Interface
+  - Introduction
+  - Databricks Workspace Terminology
+  - Databricks Workspace User Interface
+- Managing Databricks Notebooks with the Databricks Workspace
+  - Introdution
+  - Creating, Opening and Deleting Notebooks
+  - Sharing Databricks Notebooks
+  - Attaching and Detaching Notebooks and Clusters
+  - Controlling Notebook Access
+- Relational Entities on Databricks
+  - Introductions
+  - Basics of Databases and Tables on Databricks
+  - Create Databases and Tables on Databricks
+- What's New In Apache Spark 3.0
+  - Introduction
+  - Performance Improvements
+    - Adaptive Query Execution
+    - Faster Queries with Dynamic Partition Pruning
+    - Join Hints
+  - Usability Improvements
+    - SQL Improvements
+    - Structured Streaming UI
+    - Pandas UDFs
+    - Data Source V2
+  - Migrating to 3.0 and Compatibility Considerations
+    - Migration
+- Certification Prep Course for the Databricks Certified Associate Developer for Apache Spark Exam
+
 ### Day 55 | July 19, 2021 | Monday
 
 **Today's Progress:** Today I continued with the **Apache Spark Associate Developer** course from the Data Scientist Pathway by Databricks.
