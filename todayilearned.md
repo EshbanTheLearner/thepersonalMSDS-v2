@@ -4,6 +4,30 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 57 | July 21, 2021 | Wednesday
+
+**Today's Progress:** Today I started the **Apache Spark Programming with Databricks** course from the Data Scientist Pathway by Databricks.
+
+- DataFrames
+  - Spark SQL
+  - Reader and Writer
+  - DataFrame and Column
+- Transformations
+  - Aggregations
+    - GroupBy
+    - Grouped Data Methods
+    - Aggregate Functions
+    - Math Functions
+  - Datetimes
+    - Dates and Timestamps
+    - Datetime Patterns
+    - Datetime Functions
+  - Complex Types
+    - String Functions
+    - Complex Functions
+  - Additional Functions
+  - User-Defined Functions
+
 ### Day 56 | July 20, 2021 | Tuesday
 
 **Today's Progress:** Today I completed the **Apache Spark Associate Developer** course from the Data Scientist Pathway by Databricks.
