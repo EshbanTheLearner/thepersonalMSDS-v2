@@ -4,6 +4,23 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 58 | July 22, 2021 | Thursday
+
+**Today's Progress:** Today I continued with the **Apache Spark Programming with Databricks** course from the Data Scientist Pathway by Databricks.
+
+- Spark Internals
+  - Spark Architecture
+    - Spark Cluster
+    - Spark Execution
+    - Shuffling
+  - Query Optimization
+    - Catalyst Optimizer
+    - Adaptive Query Execution
+  - Partitioning
+    - Partitions vs Cores
+    - Default Shuffle Partitions
+    - Repartition
+
 ### Day 57 | July 21, 2021 | Wednesday
 
 **Today's Progress:** Today I started the **Apache Spark Programming with Databricks** course from the Data Scientist Pathway by Databricks.
