@@ -4,6 +4,18 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 59 | July 23, 2021 | Friday
+
+**Today's Progress:** Today I concluded the **Apache Spark Programming with Databricks** course from the Data Scientist Pathway by Databricks.
+
+- Structured Streaming
+  - Streaming Query
+  - Aggregating Streams
+    - Aggregations
+    - Windows
+    - Watermarking
+  - Delta Lake
+
 ### Day 58 | July 22, 2021 | Thursday
 
 **Today's Progress:** Today I continued with the **Apache Spark Programming with Databricks** course from the Data Scientist Pathway by Databricks.
