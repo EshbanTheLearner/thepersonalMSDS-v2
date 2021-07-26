@@ -4,6 +4,22 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 60 | July 24, 2021 | Saturday
+
+**Today's Progress:** Today I started the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
+
+- Scalable Machine Learning with Apache Spark
+  - Introduction to Scalabale Machine Learning with Apache Spark
+    - Intro to Apache Spark
+    - Intro to Delta Lake
+  - Introduction to the Machine Learning Workflow
+    - Machine Learning Overview
+    - Data Cleansing
+    - Data Exploration
+  - Linear Regression with Spark ML
+    - Intro to Linear Regression with Spark ML
+    - Feature Engineering for Linear Models
+
 ### Day 59 | July 23, 2021 | Friday
 
 **Today's Progress:** Today I concluded the **Apache Spark Programming with Databricks** course from the Data Scientist Pathway by Databricks.
