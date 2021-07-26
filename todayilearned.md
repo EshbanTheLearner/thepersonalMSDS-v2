@@ -4,6 +4,24 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 61 | July 25, 2021 | Sunday
+
+**Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
+
+- Scalable Machine Learning with Apache Spark
+  - Model Management with MLflow
+    - Tracking Model Development with MLflow
+    - Managing the Model Lifecycle with MLflow
+  - Tuning Tree-based Models with Apache Spark and Hyperopt
+    - Intro to Decision Trees with Spark ML
+    - Tuning Tree-based Ensembles with Spark ML
+    - Intro to Tuning with Hyperopt
+    - Gradient Boosted Tree Ensembles with XGBoost
+  - Scaling Machine Learning Pipelines
+    - Koalas Overview
+    - Spark ML Deployment Options
+    - Intro to Pandas UDFs
+
 ### Day 60 | July 24, 2021 | Saturday
 
 **Today's Progress:** Today I started the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
