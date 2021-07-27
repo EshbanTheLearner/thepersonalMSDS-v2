@@ -4,6 +4,20 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 62 | July 26, 2021 | Monday
+
+**Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
+
+- Data Science on Databricks Rapidstart
+  - Data Science on Databricks
+    - The Data Science Workflow
+    - Databricks and the Data Science Workflow
+    - Working with Data on Databricks
+  - Databricks for Machine Learning
+    - Databricks and the Machine Learning Workflow
+    - Machine Learning Runtime
+    - Managed MLflow
+
 ### Day 61 | July 25, 2021 | Sunday
 
 **Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
