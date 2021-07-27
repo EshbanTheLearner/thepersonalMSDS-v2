@@ -4,6 +4,18 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 63 | July 27, 2021 | Tuesday
+
+**Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
+
+- Data Science on Databricks: The Bias-Variance Tradeoff
+  - Getting Started
+  - Create Aggregate Sample
+  - Explore Aggregate Sample
+  - Basic Classification
+  - The Bias-Variance Tradeoff
+  - Result Analysis
+
 ### Day 62 | July 26, 2021 | Monday
 
 **Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
