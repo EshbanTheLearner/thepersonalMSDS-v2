@@ -4,6 +4,17 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 64 | July 28, 2021 | Wednesday
+
+**Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
+
+- Deploying a Machine Learning Project with MLflow Projects
+  - Getting Started
+  - Local Development
+  - MLflow Project Components
+  - Deploy Test
+  - MLflow Run
+
 ### Day 63 | July 27, 2021 | Tuesday
 
 **Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
