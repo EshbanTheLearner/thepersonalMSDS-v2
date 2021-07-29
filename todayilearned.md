@@ -4,6 +4,32 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 65 | July 29, 2021 | Thursday
+
+**Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
+
+- Introduction to Applied Linear Models
+  - Regression Modeling
+    - A Review of Supervised Learning and Regression
+    - Intro to Linear Regression
+    - Linear Regression Assumptions
+    - Applying Linear Regression
+    - Accuracy and Interpretability
+    - Regression Evaluation
+    - Regression Interpretation
+  - Generalizing Machine Learning Models
+    - A Review of Regression Evaluation
+    - Intro to In-sample and Out-of-sample data
+    - Evaluating on the Test Set
+    - Overfitting and Undefitting
+    - The Bias-Variance Tradeoff
+    - The Bias-Variance Tradeoff and Model Generalization
+  - Classification Modeling
+    - Intro to Logistic Regression
+    - Applying Logistic Regression
+    - Assigning Classes Based in Probabilities
+    - Classification Evaluation
+
 ### Day 64 | July 28, 2021 | Wednesday
 
 **Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
