@@ -4,6 +4,25 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 66 | July 30, 2021 | Friday
+
+**Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
+
+- Introduction to Applied Statistics
+  - An Introduction to Statistics and Probability
+    - Intro to Statistics
+    - Descriptive Statistics
+    - Inferential Statistics
+    - Intro to Probability
+    - Basic Rules of Discrete Probability
+  - Probabiilty Distributions
+    - Intro to Probability Distributions
+    - Discrete Probability Distributions
+    - Continous Probability Distributions
+  - Applying Statistics to Learn from Data
+    - Intro to Hypothesis Testing
+    - Outlier Detection with Probability Distributions
+
 ### Day 65 | July 29, 2021 | Thursday
 
 **Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
