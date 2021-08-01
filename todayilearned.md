@@ -4,6 +4,25 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 67 | July 31, 2021 | Saturday
+
+**Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
+
+- Introduction to Applied Tree-Based Models
+  - An Introduction to Decision Trees
+    - Intro
+    - Decision Tree Basics
+  - Applied Decision Trees
+    - Algorithm Selection
+    - Feature Engineering in Decision Trees
+    - String Indexing Categorical Features
+    - Preventing and Mitigating Overfitting
+    - Decision Tree Pruning
+  - Applied Random Forest
+    - An Intro to Ensemble Modeling
+    - Bootstrapping
+    - Random Forests
+
 ### Day 66 | July 30, 2021 | Friday
 
 **Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
