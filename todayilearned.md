@@ -4,6 +4,20 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 68 | August 1, 2021 | Sunday
+
+**Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
+
+- Introduction to Applied Tree-Based Models
+  - Class Imbalance
+    - Classification Evaluation Metrics
+    - Assigning Classes
+    - Problems with Class Imbalance
+    - Label-based Bootstrap Sampling
+    - Oversampling and Undersampling Classes
+    - Label-based Evaluation Weighting
+
+
 ### Day 67 | July 31, 2021 | Saturday
 
 **Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
