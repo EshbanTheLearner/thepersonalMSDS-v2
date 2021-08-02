@@ -4,6 +4,27 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+
+### Day 69 | August 2, 2021 | Monday
+
+**Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
+
+- Introduction to Applied Unsupervised Learning
+  - Analyzing Row-level Relationships with K-Means Clustering
+    - Review of Machine Learning
+    - Exploring Data
+    - Visualizing Data
+    - Intro to K-Means Clustering
+    - Identifying the Number of Clusters
+  - Analyzing Feature Relationships with Principal Component Analysis
+    - Feature Relationships
+    - Correlation Matrix
+    - Feature Correlation
+    - Intro to PCA
+    - PCA for Feature Relationships
+    - PCA for Dimensionality Reduction
+
+
 ### Day 68 | August 1, 2021 | Sunday
 
 **Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
