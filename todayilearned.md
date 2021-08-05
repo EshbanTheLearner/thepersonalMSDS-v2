@@ -4,6 +4,23 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 72 | August 5, 2021 | Thursday
+
+**Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
+
+- Introduction to Databricks Repos
+  - Introduction to Databricks Repos
+  - Hands-on Demo
+- Introduction to Feature Engineering and Selection
+  - Feature Engineering with Databricks
+    - Intro to Feature Engineering
+    - Working with Missing Values
+    - Manipulating Features
+  - Feature Selection with Databricks
+    - Dimensionality and Feature Importance
+    - Intro to Feature Selection
+    - Regularization
+
 ### Day 71 | August 4, 2021 | Wednesday
 
 **Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
