@@ -4,6 +4,13 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 70 | August 3, 2021 | Tuesday
+
+**Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
+
+- Introduction to AutoML
+  - Intro to AutoML
+  - AutoML Demo
 
 ### Day 69 | August 2, 2021 | Monday
 
