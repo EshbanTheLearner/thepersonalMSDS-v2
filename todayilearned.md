@@ -4,6 +4,27 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 71 | August 4, 2021 | Wednesday
+
+**Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
+
+- Introduction to Databricks Machine Learning
+  - Overview of Databricks Machine Learning
+  - Feature Development with Feature Store
+    - Introduction to Feature Store
+    - Creating Feature Table with Feature Store
+  - Model Development with AutoML
+  - Model Management with Model Registery
+    - Intro to MLflow
+    - Registering a Model with Model Registery
+    - Implementing a Webhook
+  - Model Deployment with Databricks Machine Learning
+    - Intro to Model Deployment
+    - Deploying a Model for Batch Inference
+  - Machine Learning Workflow Scheduling with Jobs
+    - Intro to Databricks Jobs
+    - Scheduling a Machine Learning Workflow with Databricks Jobs
+
 ### Day 70 | August 3, 2021 | Tuesday
 
 **Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
