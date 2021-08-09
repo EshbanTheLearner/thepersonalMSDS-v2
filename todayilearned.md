@@ -4,6 +4,18 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 77 | August 10, 2021 | Tuesday
+
+**Today's Progress:** Today I concluded the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
+
+- Tracking Experiments with MLflow
+  - Environment Setup
+  - Creating Augmented Sample
+  - Exploring Augmented Sample
+  - Writing Software for Experiment Tracking
+  - Preprocessing 
+  - Linear Customer Classification Model
+
 ### Day 76 | August 9, 2021 | Monday
 
 **Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
