@@ -4,6 +4,17 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 74 | August 7, 2021 | Saturday
+
+**Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
+
+- Introduction to Natural Language Processing with Databricks
+  - Intro to Latent Semantic Analysis
+  - Building a Latent Semantic Analysis
+  - Improving Latent Semantic Analysis
+    - Generating TF-IDF Vectors
+
+
 ### Day 73 | August 6, 2021 | Friday
 
 **Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
