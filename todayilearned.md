@@ -4,6 +4,22 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 73 | August 6, 2021 | Friday
+
+**Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
+
+- Introduction to Hyperparameter Optimization
+  - Hyperparameter Search
+    - Intro
+    - Hyperparameters in Tree-based Models
+    - Grid Search for Hyperparameter Optimization
+    - Validation Set
+    - Grid Search for Random Forest
+  - Cross Validation
+    - Intro
+    - Model Generalization and Validation Set
+    - An Introduction to Cross-Validation
+
 ### Day 72 | August 5, 2021 | Thursday
 
 **Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
