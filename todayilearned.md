@@ -4,6 +4,21 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 75 | August 8, 2021 | Sunday
+
+**Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
+
+- Lakehouse with Delta Lake Deep Dive
+  - Introduction
+    - Lakehouse Architecture
+    - How Delta Lake Enables a Lakehouse
+  - Delta Lake Deep Dive
+    - Delta Tables
+    - The Transaction Log
+    - Optimizations with Delta Engine
+    - Lakehouse Design
+  - Best Practices
+
 ### Day 74 | August 7, 2021 | Saturday
 
 **Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
