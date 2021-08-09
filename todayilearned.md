@@ -4,6 +4,20 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 76 | August 9, 2021 | Monday
+
+**Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
+
+- Natural Language Processing at Scale with Databricks
+  - Preprocessing Text
+  - N-Grams
+  - Using External Libraries with UDFs
+  - Sentiment Analysis
+  - Embeddings
+  - Visualizing Vector Arithmetic
+  - Classification
+  - Word2Vec Embeddings 
+
 ### Day 75 | August 8, 2021 | Sunday
 
 **Today's Progress:** Today I continued with the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
