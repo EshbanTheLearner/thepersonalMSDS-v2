@@ -4,6 +4,32 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 78 | August 11, 2021 | Wednesday
+
+**Today's Progress:** Today I learned about **Customer Segmentation** through various resources.
+
+- Customer Segmentaion
+  - Definition
+  - Need of Customer Segmentation
+  - Types of Customer Segmentation
+    - Demographic
+    - Geographic
+    - Behavioral
+    - Psychographic
+  - Customer Segmentation via RFM Analysis
+    - Recency
+    - Frequency
+    - Monetary
+  - Customer Segmentation via K-Means Clustering
+    - RFM Table
+    - Managing Skewness
+    - Clustering
+    - Interpretation
+
+[Datacamp | Introduction to Customer Segmentation in Python](https://www.datacamp.com/community/tutorials/introduction-customer-segmentation-python)
+[Analytics Vidhya | How To Solve Customer Segmentation Problem With Machine Learning](https://www.analyticsvidhya.com/blog/2021/06/how-to-solve-customer-segmentation-problem-with-machine-learning/)
+[Medium | Customer Segmentation in Python](https://towardsdatascience.com/customer-segmentation-in-python-9c15acf6f945)
+
 ### Day 77 | August 10, 2021 | Tuesday
 
 **Today's Progress:** Today I concluded the **Data Science Professional** course from the Data Scientist Pathway by Databricks.
