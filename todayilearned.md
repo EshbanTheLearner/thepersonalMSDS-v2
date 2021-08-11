@@ -27,7 +27,9 @@
     - Interpretation
 
 [Datacamp | Introduction to Customer Segmentation in Python](https://www.datacamp.com/community/tutorials/introduction-customer-segmentation-python)
+
 [Analytics Vidhya | How To Solve Customer Segmentation Problem With Machine Learning](https://www.analyticsvidhya.com/blog/2021/06/how-to-solve-customer-segmentation-problem-with-machine-learning/)
+
 [Medium | Customer Segmentation in Python](https://towardsdatascience.com/customer-segmentation-in-python-9c15acf6f945)
 
 ### Day 77 | August 10, 2021 | Tuesday
