@@ -4,6 +4,37 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 79 | August 12, 2021 | Thursday
+
+**Today's Progress:** Today I learned about **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
+
+- Course Introduction
+- Time Series Basics
+  - Introduction
+  - Definition and Examples
+  - Modeling vs Prediction
+    - Time Series Analysis vs Time Series Forecasting
+  - Time Series Visualizations
+  - Types of Tasks
+    - 1-step Forecast
+    - Multi-Step Forecast
+      - Incremental Method
+      - Multi-Output Forecast
+    - Time Series Classification
+  - Time Series Transformation
+    - Power Transform
+    - Log Transform
+    - Box-Cox Transform
+  - Forecasting Metrics
+    - Sum of Squared Error (SSE)
+    - Mean Squared Error (MSE)
+    - Root Mean Squared Error (RMSE)
+    - Mean Absolute Error (MAE)
+    - Scale Invariance
+      - R-squared
+      - Mean Absolute Percentage Error (MAPE)
+      - Symmetric MAPE
+
 ### Day 78 | August 11, 2021 | Wednesday
 
 **Today's Progress:** Today I learned about **Customer Segmentation** through various resources.
