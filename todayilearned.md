@@ -4,9 +4,30 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 80 | August 13, 2021 | Friday
+
+**Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
+
+- Time Series Basics
+  - Financial Time Series
+    - Stock Price Time Series
+      - Stock Return
+      - Log Price
+      - Gross Return
+      - Log Return
+  - Random Walks and Random Walk Hypothesis
+    - Gaussian Random Walk
+    - Log Prices
+    - Markov Chain
+    - Markov Assumption
+    - Central Limit Theorem
+    - Dart Throwing Investment Contest
+  - Naive Forecast
+    - Importance of Baselines
+
 ### Day 79 | August 12, 2021 | Thursday
 
-**Today's Progress:** Today I learned about **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
+**Today's Progress:** Today I started the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
 
 - Course Introduction
 - Time Series Basics
@@ -34,6 +55,8 @@
       - R-squared
       - Mean Absolute Percentage Error (MAPE)
       - Symmetric MAPE
+
+[Udemy | Time Series Analysis, Forecasting, and Machine Learning](https://www.udemy.com/course/time-series-analysis/)
 
 ### Day 78 | August 11, 2021 | Wednesday
 
