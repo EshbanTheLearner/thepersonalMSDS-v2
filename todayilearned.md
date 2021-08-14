@@ -4,6 +4,22 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 81 | August 14, 2021 | Saturday
+
+**Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
+
+- Exponential Smoothing and ETS Methods
+  - Simple Moving Average (SMA)
+  - Exponential Weighted Moving Average (EWMA)
+    - Low Pass Filter and Exponential Smoothing
+  - Simple Exponential Smoothing (SES)
+    - Forecast Equation
+    - Smoothing Equation
+  - Holt's Linear Model
+    - Forecast Equation
+    - Level Equation
+    - Trend Equation
+
 ### Day 80 | August 13, 2021 | Friday
 
 **Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
