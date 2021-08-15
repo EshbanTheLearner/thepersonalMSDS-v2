@@ -4,6 +4,16 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 82 | August 15, 2021 | Sunday
+
+**Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
+
+- Exponential Smoothing and ETS Methods
+  - Holt-Winters Model
+    - Additive
+    - Multiplicative
+  - Walk-Forwad Validation
+
 
 ### Day 81 | August 14, 2021 | Saturday
 
