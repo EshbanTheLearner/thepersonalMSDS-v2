@@ -4,6 +4,19 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 88 | August 21, 2021 | Saturday
+
+**Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
+
+- ARIMA
+  - Model Selection
+  - Model Evaluation
+    - Akaike Information Criterion (AIC)
+    - Bayesian Information Criterion (BIC)
+    - Penalizing Log-Likelihood
+  - Generalization
+  - K.I.S.S
+
 ### Day 87 | August 20, 2021 | Friday
 
 **Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
