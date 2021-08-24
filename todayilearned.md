@@ -4,6 +4,18 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 86 | August 19, 2021 | Thursday
+
+**Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
+
+- ARIMA
+  - Autocorrelation Function (ACF)
+    - Correlogram
+    - Autocovariance
+    - Autocorrelation
+    - Confidence Intervals
+    - Determining MA(q)
+
 ### Day 85 | August 18, 2021 | Wednesday
 
 **Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
