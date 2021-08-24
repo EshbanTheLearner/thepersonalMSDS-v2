@@ -4,6 +4,17 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 89 | August 22, 2021 | Sunday
+
+**Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
+
+- ARIMA
+  - Applications
+    - Auto ARIMA on Stock Price Data
+    - ACF and PACF fot Stock Returns Data
+    - Auto ARIMA on Perrin Freres Monthly Champagne Sales
+  - Forecasting with ARIMA
+
 ### Day 88 | August 21, 2021 | Saturday
 
 **Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
