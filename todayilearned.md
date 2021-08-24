@@ -4,6 +4,21 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 84 | August 17, 2021 | Tuesday
+
+**Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
+
+- ARIMA
+  - Introduction
+  - Autoregressive Models
+    - AR(p)
+  - Moving Average Models
+    - MA(q)
+  - ARIMA
+    - ARMA(p, q)
+    - Differencing
+    - Random Walk
+
 ### Day 83 | August 16, 2021 | Monday
 
 **Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
