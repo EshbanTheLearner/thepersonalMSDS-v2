@@ -4,6 +4,20 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 85 | August 18, 2021 | Wednesday
+
+**Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
+
+- ARIMA
+  - Stationarity
+    - Hyperparameter Selection
+    - Practical Explanation of Stationarity
+    - Augmented Dickey-Fuller (ADF) Test
+    - Types of Stationarity
+      - Strong-sense Stationarity (SSS)
+      - Weak-sense Stationarity (WSS)
+    - Autocovariance
+
 ### Day 84 | August 17, 2021 | Tuesday
 
 **Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
