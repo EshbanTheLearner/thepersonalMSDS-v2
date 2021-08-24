@@ -4,6 +4,17 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 83 | August 16, 2021 | Monday
+
+**Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
+
+- Exponential Smoothing and ETS Methods
+  - Applications
+    - Perrin Freres Monthly Champagne Sales
+    - S&P500 Stocks Prediction
+    - COVID-19 Counting
+    - Algorithmic Trading
+
 ### Day 82 | August 15, 2021 | Sunday
 
 **Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
