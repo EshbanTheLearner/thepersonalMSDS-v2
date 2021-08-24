@@ -4,6 +4,18 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 87 | August 20, 2021 | Friday
+
+**Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
+
+- ARIMA
+  - Partial Autocorrelation Function (PACF)
+  - Auto ARIMA 
+  - Seasonal ARIMA (SARIMA)
+    - Seasonal Differencing
+  - SARIMAX
+    - Exogenous Variables
+
 ### Day 86 | August 19, 2021 | Thursday
 
 **Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
