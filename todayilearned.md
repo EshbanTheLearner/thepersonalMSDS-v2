@@ -4,6 +4,20 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 93 | August 26, 2021 | Thursday
+
+**Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
+
+- Deep Learning - Artificial Neural Networks
+  - Introduction
+  - The Neuron
+  - Forward Propagation
+  - The Geometric Picture
+  - Activation Functions
+    - Standardization
+    - Vanishing Gradient Problem
+  - Multiclass Classification
+
 ### Day 92 | August 25, 2021 | Wednesday
 
 **Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
