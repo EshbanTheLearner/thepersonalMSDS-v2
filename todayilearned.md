@@ -4,6 +4,22 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 91 | August 24, 2021 | Tuesday
+
+**Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
+
+- Machine Learning Methods
+  - Logistic Regression
+    - Logistic Function
+    - Multiclass Problems
+  - Support Vector Machines
+    - Maximum Margin Classifier
+    - Slack Variables
+    - SVM for Regression
+      - Epsilon-Insensitive Loss
+    - Kernel Trick
+      - Radial Basis Function (RBF Kernel)
+
 ### Day 90 | August 23, 2021 | Monday
 
 **Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
