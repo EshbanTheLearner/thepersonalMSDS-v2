@@ -4,6 +4,19 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 90 | August 23, 2021 | Monday
+
+**Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
+
+- Machine Learning Methods
+  - Introduction
+  - Supervised Machine Learning
+    - Classification
+    - Regression
+  - Autoregressive Machine Learning Models
+    - Self-Supervised Learning
+    - Multi-Step Forecast
+
 ### Day 89 | August 22, 2021 | Sunday
 
 **Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
