@@ -4,6 +4,23 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 92 | August 25, 2021 | Wednesday
+
+**Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
+
+- Machine Learning Methods
+  - Random Forest
+    - Decision Trees
+    - Classification vs Regression
+  - Extrpolation
+  - Machine Learning for Time Series
+  - Forecasting with Differencing
+  - Applications
+    - Perrin Freres Monthly Champagne Sales
+    - Predicting Stock Prices and Returns
+    - Predicting Stock Movements
+
+
 ### Day 91 | August 24, 2021 | Tuesday
 
 **Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
