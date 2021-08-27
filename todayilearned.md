@@ -4,6 +4,19 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 94 | August 27, 2021 | Friday
+
+**Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
+
+- Deep Learning - Artificial Neural Networks
+  - Applications
+    - Time Series Forecasting
+    - Stock Prices and Returns
+    - Human Activity Recognition
+      - Data Exploration
+      - ANN Model
+      - Feature Based Model
+
 ### Day 93 | August 26, 2021 | Thursday
 
 **Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
