@@ -4,6 +4,30 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 95 | August 28, 2021 | Saturday
+
+**Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
+
+- Deep Learning - Convolutional Neural Network
+  - Introduction
+  - Convolution
+  - Pattern Matching
+    - Cosine Similarity
+    - Pearson Correlation
+  - Weight Sharing
+    - Translational Invariance
+  - Convolution on Color Images
+  - Convolution for Time Series
+    - Blurring and Smoothing
+    - Cross-Correlation
+    - Relationship with AR(p) Process
+  - CNN Architecture
+    - Pooling
+    - Hyperparameters
+  - Applications
+    - Time Series Forecasting
+    - Human Activity Recognition
+
 ### Day 94 | August 27, 2021 | Friday
 
 **Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
