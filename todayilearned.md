@@ -4,6 +4,20 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 96 | August 29, 2021 | Sunday
+
+**Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
+
+- AWS Forecast
+  - Introduction
+  - Data Model
+    - Related Time Series
+  - Creating and IAM Role
+  - Fetching and Transforming Data
+  - Uploading Data to S3
+  - Building Model
+  - Generating and Evaluating Forecast
+
 ### Day 95 | August 28, 2021 | Saturday
 
 **Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
