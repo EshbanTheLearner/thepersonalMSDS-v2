@@ -4,9 +4,30 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 97 | August 30, 2021 | Monday
+
+**Today's Progress:** Today I started the **Probability and Statistics for Business and Data Science** course on Udemy.
+
+- Introduction
+- Data
+  - What is Data?
+  - Measuring Data
+    - Levels of Measurement
+      - Nominal
+      - Ordinal
+      - Interval
+      - Ratio
+    - Population vs Sample
+  - Measure of Central Tendency
+    - Mean, Median, Mode
+  - Measure of Dispersion
+    - Range, Variance, Standard Deviation
+
+[Udemy | Probability and Statistics for Business and Data Science](https://www.udemy.com/course/probability-and-statistics-for-business-and-data-science/)
+
 ### Day 96 | August 29, 2021 | Sunday
 
-**Today's Progress:** Today I continued with the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
+**Today's Progress:** Today I concluded the **Time Series Analysis, Forecasting, and Machine Learning** on Udemy.
 
 - AWS Forecast
   - Introduction
