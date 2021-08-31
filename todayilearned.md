@@ -4,6 +4,27 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 98 | August 31, 2021 | Tuesday
+
+**Today's Progress:** Today I continued with the **Probability and Statistics for Business and Data Science** course on Udemy.
+
+- Data
+  - Quartiles
+    - Interquartile Range
+    - Box Plot
+    - Fences and Outliers
+  - Bivariate Data
+    - Independent vs Dependent Variable
+    - Correlation
+      - Causality
+    - Covariance
+  - Pearson's Correlation Coefficient
+- Probability
+  - Definition
+    - Trial, Experiment, Simple Event, Sample Space
+  - Permutations
+  - Combinations
+
 ### Day 97 | August 30, 2021 | Monday
 
 **Today's Progress:** Today I started the **Probability and Statistics for Business and Data Science** course on Udemy.
