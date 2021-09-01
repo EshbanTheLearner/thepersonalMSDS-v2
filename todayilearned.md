@@ -4,6 +4,30 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 99 | September 1, 2021 | Wednesday
+
+**Today's Progress:** Today I continued with the **Probability and Statistics for Business and Data Science** course on Udemy.
+
+- Probability
+  - Intersections, Unions, and Compliments
+  - Independent and Dependent Events
+  - Conditional Probability
+  - Addition and Multiplication Rules
+  - Bayes Theorem
+- Distributions
+  - Intro
+  - Uniform Distribution
+  - Binomial Distribution
+  - Poisson Distribution
+  - Normal Distribution
+- Statistics
+  - Sampling
+  - Central Limit Theorem
+  - Standard Error
+  - Hypothesis Testing
+  - Type 1 and Type 2 Errors
+  - Students T Distribution
+
 ### Day 98 | August 31, 2021 | Tuesday
 
 **Today's Progress:** Today I continued with the **Probability and Statistics for Business and Data Science** course on Udemy.
