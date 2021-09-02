@@ -4,6 +4,21 @@
 
 ## Part - III (26 May 2021 - Continued)
 
+### Day 100 | September 2, 2021 | Thursday
+
+**Today's Progress:** Today I concluded the **Probability and Statistics for Business and Data Science** course on Udemy.
+
+- Analysis of Variance (ANOVA)
+  - Intro
+  - ANOVA
+  - F Distribution
+  - Two Way ANOVA
+  - Two Way ANOVA with Replication
+- Regression
+  - Linear Regression
+  - Multiple Regression
+- Chi-Square Analysis
+
 ### Day 99 | September 1, 2021 | Wednesday
 
 **Today's Progress:** Today I continued with the **Probability and Statistics for Business and Data Science** course on Udemy.
